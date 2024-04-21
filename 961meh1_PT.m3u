@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL",[COLOR magenta][I][B] *** 961meh1 *** [/B][/I][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-21 16:05:20" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",Update 2024-04-21 16:05:20
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-21 16:06:14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",Update 2024-04-21 16:06:14
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" group-title="PORTUGAL",RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -267,7 +267,7 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlKeP_KJ0kSrLFb3ccyXE-M/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlzGYoDqv7QN2zkFak9DcFY/ts
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 FHD" group-title="PORTUGAL",SPORT.TV1 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtZU4OEu8_J7akRUAADgsGI/ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 UHD HEVC" group-title="PORTUGAL",SPORT.TV1 UHD HEVC 
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 UHD HEVC" group-title="PORTUGAL",SPORT.TV1 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnXnd4PoTWWek5ZRpO3lXq8/ts
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1" group-title="PORTUGAL",SPORT.TV1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsS3D4NIcFbHUGwp9DD4PBE/ts
@@ -275,7 +275,7 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsS3D4NIcFbHUGwp9DD4PBE/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpI5Fx9hJP86woFWW61-k7c/ts
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 FHD" group-title="PORTUGAL",SPORT.TV1 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgkzEhfJaVDv08ovWx7i430/ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 UHD HEVC" group-title="PORTUGAL",SPORT.TV1 UHD HEVC 
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 UHD HEVC" group-title="PORTUGAL",SPORT.TV1 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs6u0mlTh2pQ_1n2UlVv0ss/ts
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 LOW" group-title="PORTUGAL",SPORT.TV1 LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkFiOrZOV8IarBgwKfSOS-c/ts
@@ -285,7 +285,7 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkF3qsXfX9pt2fqcOtDXkJE/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtBTahQ1D_wErf-5Y3df0XE/ts
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 HD" group-title="PORTUGAL",SPORT.TV1 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlAVTsO31KkffYfvaNtgd9I/ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 UHD HEVC" group-title="PORTUGAL",SPORT.TV1 UHD HEVC 
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 UHD HEVC" group-title="PORTUGAL",SPORT.TV1 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg1xsp2RWOjsQxy6LqXU0v8/ts
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1" group-title="PORTUGAL",SPORT.TV1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtvNKrMZY6AKZqhDlLLHoPw/ts
@@ -293,9 +293,9 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtvNKrMZY6AKZqhDlLLHoPw/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjih40Urmae1qOjAMOiKL4Q/ts
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 FHD" group-title="PORTUGAL",SPORT.TV1 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvkSQ28RltozkUlAwK5m7Rc/ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 UHD HEVC" group-title="PORTUGAL",SPORT.TV1 UHD HEVC 
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 UHD HEVC" group-title="PORTUGAL",SPORT.TV1 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKm4ufv7DGRAb-2eKQ3nQxxg/ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 UHD HEVC" group-title="PORTUGAL",SPORT.TV1 UHD HEVC 
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 UHD HEVC" group-title="PORTUGAL",SPORT.TV1 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlWplybHr0H2jNvGQvqK22E/ts
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1 HD" group-title="PORTUGAL",SPORT.TV1 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnMU_3nJJbvMXTye7wCjvrQ/ts
@@ -309,7 +309,7 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiKjd0j0dMzQKIkinGZ0h54/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKufkl94t-pglXN1P97AceyQ/ts
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT.TV2 FHD" group-title="PORTUGAL",SPORT.TV2 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKq4ZeOfRWUdg4E9zgX5TTpI/ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT.TV2 UHD HEVC" group-title="PORTUGAL",SPORT.TV2 UHD HEVC 
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT.TV2 UHD HEVC" group-title="PORTUGAL",SPORT.TV2 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnyN1spTj4etZS5leAC5swo/ts
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT.TV2" group-title="PORTUGAL",SPORT.TV2 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs-nU4kXYcyFC66xmB2BNnM/ts
@@ -445,7 +445,7 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtTAl7ZPF2GOLzPKmA8blBA/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpk5j7nOFdLzzcyZiPKqnWI/ts
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" group-title="PORTUGAL",BENFICA TV 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKv5l8cAY_4WjTcTULO8011g/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV UHD HEVC" group-title="PORTUGAL",BENFICA TV UHD HEVC 
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV UHD HEVC" group-title="PORTUGAL",BENFICA TV 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKv0uzUzn8Y6SvkKzeG_68W8/ts
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" group-title="PORTUGAL",BENFICA TV 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqHeCcP1HGb2xOiCuAFbBxE/ts
@@ -453,11 +453,11 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqHeCcP1HGb2xOiCuAFbBxE/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhPicb0UlKiCXytdv2JQs84/ts
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV FHD" group-title="PORTUGAL",BENFICA TV FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkvBnVqB1488-rpZmlMbivY/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV UHD HEVC" group-title="PORTUGAL",BENFICA TV UHD HEVC 
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV UHD HEVC" group-title="PORTUGAL",BENFICA TV 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhydacYwMfCJnI3aJ5ZaMt0/ts
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV HD" group-title="PORTUGAL",BENFICA TV HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkO65yozG6tiV9UWuELAdC0/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV UHD HEVC" group-title="PORTUGAL",BENFICA TV UHD HEVC 
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV UHD HEVC" group-title="PORTUGAL",BENFICA TV 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhayVT4ufKSc7u_i8DCCxuM/ts
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1" group-title="PORTUGAL",ELEVEN SPORTS 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj7Iq5lfyu9_q5KuavGmsW8/ts
@@ -467,7 +467,7 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgROKcxX23wEzeGp9kGCjak/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlEvA87NWmVXDKhsht8Uu1A/ts
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 FHD" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjgHLglmJtBSXvlJrRjuVMc/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 UHD HEVC" group-title="PORTUGAL",ELEVEN SPORTS 1 UHD HEVC 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 UHD HEVC" group-title="PORTUGAL",ELEVEN SPORTS 1 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgzLWkmsTFMrGGV-AHLARoo/ts
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1" group-title="PORTUGAL",ELEVEN SPORTS 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhN6UauqFR-Jcot0_Tn3C98/ts
@@ -497,7 +497,7 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpzAnGhiFIvJDhcjIHhsB70/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjmuLsOEeg4C0HOzFDZLsDQ/ts
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 FHD" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKokz6MxoIE7aVy0lCpBuqIg/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 UHD HEVC" group-title="PORTUGAL",ELEVEN SPORTS 2 UHD HEVC 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 UHD HEVC" group-title="PORTUGAL",ELEVEN SPORTS 2 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmnbnySnsOJ0AIlQ4h9UV1U/ts
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2" group-title="PORTUGAL",ELEVEN SPORTS 2 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoM17Ph3VuVbyegz0xjuJWk/ts
@@ -911,7 +911,7 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpHV9V68qg3I-EixlYxtFtk/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKju204wmDFirieYL762kpc0/ts
 #EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-name="HISTÓRIA LOW" group-title="PORTUGAL",HISTÓRIA LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnUUFYv34FW9kmkDQ6cZEnk/ts
-#EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-name="HISTÓRIA UHD HEVC" group-title="PORTUGAL",HISTÓRIA UHD HEVC 
+#EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-name="HISTÓRIA UHD HEVC" group-title="PORTUGAL",HISTÓRIA 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnmWvpHQVk3aQP-8EdQDW10/ts
 #EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="ODISSEIA FHD" group-title="PORTUGAL",ODISSEIA FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrq01FS7y0eCqqYIEl0tn6g/ts
@@ -1045,13 +1045,13 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuGqUIZt3X2qrFN69VGf8w8/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKudukP4lUXOnQgXCHlQasjc/ts
 #EXTINF:-1 tvg-id="EEurope.us" tvg-name="E! ENTERTAINMENT" group-title="PORTUGAL",E! ENTERTAINMENT 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs6ZoSuQ3bGs5Rz6dkjgpNw/ts
-#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="24 KITCHEN UHD HEVC" group-title="PORTUGAL",24 KITCHEN UHD HEVC 
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="24 KITCHEN UHD HEVC" group-title="PORTUGAL",24 KITCHEN 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgJ3FRRM5asJxY3peOUQvhs/ts
 #EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="24 KITCHEN FHD" group-title="PORTUGAL",24 KITCHEN FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKm7oVoxSolgerpdwUFjTnPg/ts
 #EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="24 KITCHEN FHD" group-title="PORTUGAL",24 KITCHEN FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtE-cAglTn3Goyv3jyUdQdo/ts
-#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="24 KITCHEN UHD HEVC" group-title="PORTUGAL",24 KITCHEN UHD HEVC 
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="24 KITCHEN UHD HEVC" group-title="PORTUGAL",24 KITCHEN 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlVH9xKwZo-3Agzm_f4PSf4/ts
 #EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="24 KITCHEN" group-title="PORTUGAL",24 KITCHEN 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk5fwGW0wvoZoWXBysyTBds/ts
