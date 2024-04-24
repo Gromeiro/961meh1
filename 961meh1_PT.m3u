@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL",[COLOR magenta][I][B] *** 961meh1 *** [/B][/I][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-24 18:05:47" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",[COLOR blue][I][B] *2024-04-24 18:05:47* [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-24 18:08:14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",[COLOR blue][I][B] *2024-04-24 18:08:14* [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -115,12 +115,70 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnFKUUAFF3kGe4jLc27NvuM/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnCRZCiZzB_RAQ3Fb1VPGnc/ts
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_mulher.png" group-title="PORTUGAL",SIC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkGkmXRtpnCjEtxJGCTpf1E/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsP5W45fSM7wohYvZhbY7sU/ts
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI HD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKt70AcjagoHRM1tU9iRIDWw/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKusIDVF1VqJ0-7DWzCobjrc/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="http://live21.site/LOGOS/PiconsPT/TVI_FICCAO.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmJJop-WAveaI1ux8Td0YdA/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="http://live21.site/LOGOS/PiconsPT/TVI_FICCAO.png" group-title="PORTUGAL",TVI FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvc3Veeb8OUDk4V10YM_iLg/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKriHtQ2Uv2GwjuOiFBJwNQw/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuwi6zuhsWWHtN2sXjqVdJg/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoaxnsyQY3suw_gmtAumlFQ/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKitxrX8SdgIM3ZYjmAKdEBU/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmbnZL90izu_no3gxhjMf5I/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrrV4TMp6tKkew_Z3iI_e40/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtXdi6_5KsvdmnmK1dOqMoI/ts
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKocrBll820pwTXq1RCfv32M/ts
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhmm_S249NBgs57C6PvtYUE/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhMun2UMb5PrN9hqrW0ySNw/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnBvggE5s7V-TVqqb1GhtIA/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrzojReyjOASb5VdFCMy5co/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/TVI%20REALITY.png" group-title="PORTUGAL",TVI FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoB3gp6rNdCVzy72VMwrZKQ/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKv9wWlmdhNToSgslpyU0jlM/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp6F4p7Yljy47WSd8MsBphc/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp8yUVAWfNt2Y-9FSzjSBKY/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkefJjyoK2XERJssLeCbJHA/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjzH3V1KsVxbWVn4K4ns87o/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI LOW" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="PORTUGAL",TVI LOW 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKggV9d0GSibSoZR9n_7Vz94/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI LOW" tvg-logo="https://i.postimg.cc/tJFJMVFw/TVI-FIC-O.png" group-title="PORTUGAL",TVI LOW 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKruLPMSLlipOnCh_DEXt99Y/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI LOW" tvg-logo="https://i.postimg.cc/3rqNrLj4/TVI-REALITY-MOSAICO.png" group-title="PORTUGAL",TVI LOW 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvN5kKqs9Ie0pOJaq9llj_s/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqbxcWGLlnDHasWEfzgHycw/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_ficcao.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs4FNi4kKeGANbyHU727H5I/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_reality.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhXD_hOOQRosWKbhL6tczqI/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk5E1k5UCpOKFRGqG-yQ0ls/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_ficcao.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsXCgecxBFqXGPqRBE32ajw/ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_reality.png" group-title="PORTUGAL",TVI 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlA2i75ONJmrVFed0Qv3fmc/ts
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-3.png" group-title="PORTUGAL",RTP 3 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhzTfzkhI5Dlz_A4ljpbPiA/ts
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-3.png" group-title="PORTUGAL",RTP 3 FHD 
@@ -207,18 +265,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgL7S_bSKiTJUFFbXtRfWS8/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmQvmN5zaHYgFNMnxVtZd7s/ts
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-name="CANAL 11" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-11-pt.png" group-title="PORTUGAL",CANAL 11 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsva8W5MFFlw6bQkkLxJrfw/ts
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICÇÃO" tvg-logo="http://live21.site/LOGOS/PiconsPT/TVI_FICCAO.png" group-title="PORTUGAL",TVI FICÇÃO 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmJJop-WAveaI1ux8Td0YdA/ts
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICÇÃO FHD" tvg-logo="http://live21.site/LOGOS/PiconsPT/TVI_FICCAO.png" group-title="PORTUGAL",TVI FICÇÃO FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvc3Veeb8OUDk4V10YM_iLg/ts
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICÇÃO" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL",TVI FICÇÃO 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnBvggE5s7V-TVqqb1GhtIA/ts
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICÇÃO LOW" tvg-logo="https://i.postimg.cc/tJFJMVFw/TVI-FIC-O.png" group-title="PORTUGAL",TVI FICÇÃO LOW 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKruLPMSLlipOnCh_DEXt99Y/ts
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICÇÃO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_ficcao.png" group-title="PORTUGAL",TVI FICÇÃO 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs4FNi4kKeGANbyHU727H5I/ts
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICÇÃO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_ficcao.png" group-title="PORTUGAL",TVI FICÇÃO 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsXCgecxBFqXGPqRBE32ajw/ts
 #EXTINF:-1 tvg-id="ABOLATV.PT" tvg-name="A BOLA TV" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/A-BOLA-TV.png" group-title="PORTUGAL",A BOLA TV 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtRfhjX_lYTpoSLxdcRCJ0A/ts
 #EXTINF:-1 tvg-id="ABOLATV.PT" tvg-name="A BOLA TV" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/A-BOLA-TV.png" group-title="PORTUGAL",A BOLA TV 
@@ -1165,40 +1211,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKts5i5cjUZKctioeo4Xz2cY/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgLjCs_NvnfHwAMV8MrlO40/ts
 #EXTINF:-1 tvg-id="None" tvg-name="FIGHT NETWORK" tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/FIGHT-NETWORK.png" group-title="PORTUGAL",FIGHT NETWORK 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuxmtVrSCk1M1w7kjNwIF6c/ts
-#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI INTERNACIONAL" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI INTERNACIONAL 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhMun2UMb5PrN9hqrW0ySNw/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKriHtQ2Uv2GwjuOiFBJwNQw/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuwi6zuhsWWHtN2sXjqVdJg/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoaxnsyQY3suw_gmtAumlFQ/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKitxrX8SdgIM3ZYjmAKdEBU/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmbnZL90izu_no3gxhjMf5I/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrrV4TMp6tKkew_Z3iI_e40/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrzojReyjOASb5VdFCMy5co/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/TVI%20REALITY.png" group-title="PORTUGAL",TVI REALITY FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoB3gp6rNdCVzy72VMwrZKQ/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKv9wWlmdhNToSgslpyU0jlM/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp6F4p7Yljy47WSd8MsBphc/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp8yUVAWfNt2Y-9FSzjSBKY/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkefJjyoK2XERJssLeCbJHA/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjzH3V1KsVxbWVn4K4ns87o/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY LOW" tvg-logo="https://i.postimg.cc/3rqNrLj4/TVI-REALITY-MOSAICO.png" group-title="PORTUGAL",TVI REALITY LOW 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvN5kKqs9Ie0pOJaq9llj_s/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_reality.png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhXD_hOOQRosWKbhL6tczqI/ts
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI REALITY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_reality.png" group-title="PORTUGAL",TVI REALITY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlA2i75ONJmrVFed0Qv3fmc/ts
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="CRIME + INVESTIGATION PORTUGAL" tvg-logo="https://i.postimg.cc/3J27pfQK/CRIME-INVESTIGATION.png" group-title="PORTUGAL",CRIME + INVESTIGATION PORTUGAL 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmV4dtJAafexClHR-2XD640/ts
 #EXTINF:-1 tvg-id="StingrayiConcerts.ca" tvg-name="iCONCERTS FHD" tvg-logo="https://i.imgur.com/ozn20Vt.png" group-title="PORTUGAL",iCONCERTS FHD 
@@ -1279,10 +1291,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsV2FQkf-4_IMjhyF5G2GoY/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuGzKy8Rv99XQmnnYxp22d8/ts
 #EXTINF:-1 tvg-id="Dizi.nl" tvg-name="DIZI CHANNEL" tvg-logo="" group-title="PORTUGAL",DIZI CHANNEL 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqWsWWZwWKm9BEvXz5P-Gag/ts
-#EXTINF:-1 timeshift="5" xui-id="591524" tvg-id="tvi.pt" TVI tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="✳️ Portugal",TVI
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsP5W45fSM7wohYvZhbY7sU/ts
-#EXTINF:-1 xui-id="591525" tvg-id="tvi.pt" TVI ᶠᴴᴰ tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="✳️ Portugal",TVI ᶠᴴᴰ
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKusIDVF1VqJ0-7DWzCobjrc/ts
 #EXTINF:-1 xui-id="591526" tvg-id="" ꧁ INFORMAÇÃO ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/ultimas-noticias-canoinhas-online.png" group-title="✳️ Portugal",꧁ INFORMAÇÃO ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKklAsK43OXWjmL6UNJq3GoY/ts
 #EXTINF:-1 xui-id="591555" tvg-id="" ꧁ DESPORTO ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/desporto.png" group-title="✳️ Portugal",꧁ DESPORTO ꧂
@@ -1325,8 +1333,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKi4dReJks9zzKvDb50Spp5g/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj3Ur8EcXhtGJKxb0c2O6rE/ts
 #EXTINF:-1 xui-id="591691" tvg-id="tv5monde.pt" TV5 MONDE tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TV5-MONDE.png" group-title="✳️ Portugal",TV5 MONDE
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuvEi6NcrZ1EKcpWIMmoT6k/ts
-#EXTINF:-1 xui-id="591713" tvg-id="tvi.pt" PT | TVI tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="✳️ Portugal Extra",PT | Tvi
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtXdi6_5KsvdmnmK1dOqMoI/ts
 #EXTINF:-1 xui-id="591723" tvg-id="rtpinternacional.pt" PT | RTP INTERNACIONAL tvg-logo="https://i.imgur.com/pnOzjZW.png" group-title="✳️ Portugal Extra",PT | Rtp Internacional
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtQQUWSXLibHvk8pClBttl8/ts
 #EXTINF:-1 xui-id="591726" tvg-id="artv.pt" PT | AR TV tvg-logo="https://i.imgur.com/McboHWW.png" group-title="✳️ Portugal Extra",PT | Ar TV
@@ -1405,8 +1411,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKizb6waJzB6PBUXEKBNCqH0/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgZO9kemh0N9Qixhk0UXMQo/ts
 #EXTINF:-1 xui-id="591962" tvg-id="" PT | TRAVEL XP tvg-logo="" group-title="✳️ Portugal Extra",PT | TRAVEL XP
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj1L3bQwxm3DAjOPMFHW7WA/ts
-#EXTINF:-1 xui-id="629315" tvg-id="tvi.pt" TVI [LOW] tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="✳️ Portugal LOW",TVI [low]
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKggV9d0GSibSoZR9n_7Vz94/ts
 #EXTINF:-1 xui-id="629354" tvg-id="fox.pt" FOX [LOW]* tvg-logo="https://i.postimg.cc/QNYYbLRP/FOX.png" group-title="✳️ Portugal LOW",Fox [low]*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkFgNoMsGjPd59NWf8IeB8o/ts
 #EXTINF:-1 xui-id="629361" tvg-id="axn.pt" AXN [LOW] tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" group-title="✳️ Portugal LOW",AXN [low]
@@ -1417,8 +1421,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvIxfz1xdY4mjETnplQAB0s/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkoHJnyzUKdlfoX8cLsA6lQ/ts
 #EXTINF:-1 xui-id="629398" tvg-id="cacaepesca.pt" CACA Y PESCA [LOW] tvg-logo="http://intelcodecs.hopto.org:8080/picon/cacaepesca.png" group-title="✳️ Portugal LOW",Caca y Pesca [low]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg3QgrfAwMqgo2gdUVsiCFQ/ts
-#EXTINF:-1 xui-id="337729" tvg-id="tvi.pt" TVI  [HEVC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="✳️ Portugal HEVC / 265",TVI  [HEVC/H265]
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqbxcWGLlnDHasWEfzgHycw/ts
 #EXTINF:-1 xui-id="337722" tvg-id="axn.pt" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="✳️ Portugal HEVC / 265",AXN [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtI4C6ehZd7RwMgd7iBiayw/ts
 #EXTINF:-1 xui-id="337726" tvg-id="fox.pt" FOX [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="✳️ Portugal HEVC / 265",FOX [HVEC/H265]
@@ -1429,8 +1431,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnJED3Z8gNsHv2QJkAklTAg/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhl0ZZiX_N0318CBx6eJrwg/ts
 #EXTINF:-1 xui-id="520187" tvg-id="" PT: 11 HD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/11.png" group-title="✳️ World Sports",PT: 11 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr9CUnauEBpUHBllFmx9GM4/ts
-#EXTINF:-1 xui-id="332030" tvg-id="" TVI  [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="✳️ Portugal HEVC / 265",TVI  [HVEC/H265]
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk5E1k5UCpOKFRGqG-yQ0ls/ts
 #EXTINF:-1 xui-id="332064" tvg-id="" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="✳️ Portugal HEVC / 265",AXN [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgsvFb717Oa4P8VEvjhDcA4/ts
 #EXTINF:-1 xui-id="332067" tvg-id="" FOX [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="✳️ Portugal HEVC / 265",FOX [HVEC/H265]
