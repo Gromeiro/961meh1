@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL",[COLOR magenta][I][B] *** 961meh1 *** [/B][/I][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-24 16:54:13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",[COLOR blue][I][B] *2024-04-24 16:54:13* [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-24 16:56:52" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",[COLOR blue][I][B] *2024-04-24 16:56:52* [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -142,9 +142,9 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlwabfT9_nnydhEScpNEg9s/ts
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="TV GLOBO" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/GLOBONOW.png" group-title="PORTUGAL",TV GLOBO 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgC5vUaQxBkMqgT0OGbF_t4/ts
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="TV GLOBO" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="PORTUGAL",TV GLOBO 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgzQe0dYlWAb0tY30aHYARA/ts
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKl2VQjfvd2egSn_oCCsFGPw/ts
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="TV GLOBO" tvg-logo="https://cm-inter.xyz/Logos/BRASIL/GLOBO.png" group-title="PORTUGAL",TV GLOBO 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvQZyM0x0GoLSEuUlwVFxvo/ts
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpB2Ks4P7Iqf4-mEfDAHOlw/ts
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="TV GLOBO" tvg-logo="" group-title="PORTUGAL",TV GLOBO 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoI4xNDZm1I88F9Scw5QQxw/ts
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="TV GLOBO" tvg-logo="" group-title="PORTUGAL",TV GLOBO 
@@ -1267,173 +1267,173 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsV2FQkf-4_IMjhyF5G2GoY/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuGzKy8Rv99XQmnnYxp22d8/ts
 #EXTINF:-1 tvg-id="Dizi.nl" tvg-name="DIZI CHANNEL" tvg-logo="" group-title="PORTUGAL",DIZI CHANNEL 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqWsWWZwWKm9BEvXz5P-Gag/ts
-#EXTINF:-1 xui-id="591522" tvg-id="sic.pt" SIC tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="Portugal",SIC
+#EXTINF:-1 xui-id="591522" tvg-id="sic.pt" SIC tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="✳️ Portugal",SIC
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKghUBkHr9vcS6ukWVy5wpF8/ts
-#EXTINF:-1 timeshift="5" xui-id="591524" tvg-id="tvi.pt" TVI tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="Portugal",TVI
+#EXTINF:-1 timeshift="5" xui-id="591524" tvg-id="tvi.pt" TVI tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="✳️ Portugal",TVI
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsP5W45fSM7wohYvZhbY7sU/ts
-#EXTINF:-1 xui-id="591526" tvg-id="" ꧁ INFORMAÇÃO ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/ultimas-noticias-canoinhas-online.png" group-title="Portugal",꧁ INFORMAÇÃO ꧂
+#EXTINF:-1 xui-id="591526" tvg-id="" ꧁ INFORMAÇÃO ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/ultimas-noticias-canoinhas-online.png" group-title="✳️ Portugal",꧁ INFORMAÇÃO ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKklAsK43OXWjmL6UNJq3GoY/ts
-#EXTINF:-1 xui-id="591535" tvg-id="euronews.pt" EURONEWS tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/EURONEWS.png" group-title="Portugal",EURONEWS
+#EXTINF:-1 xui-id="591535" tvg-id="euronews.pt" EURONEWS tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/EURONEWS.png" group-title="✳️ Portugal",EURONEWS
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk6DQ7sbp1ia3FHY_JwHBG4/ts
-#EXTINF:-1 xui-id="591555" tvg-id="" ꧁ DESPORTO ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/desporto.png" group-title="Portugal",꧁ DESPORTO ꧂
+#EXTINF:-1 xui-id="591555" tvg-id="" ꧁ DESPORTO ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/desporto.png" group-title="✳️ Portugal",꧁ DESPORTO ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuJI3FlTTRfi67R7o32atOs/ts
-#EXTINF:-1 xui-id="593151" tvg-id="wsport.pt" W-SPORT tvg-logo="https://i.postimg.cc/SNztBWTC/logo2nd.png" group-title="Portugal",W-SPORT
+#EXTINF:-1 xui-id="593151" tvg-id="wsport.pt" W-SPORT tvg-logo="https://i.postimg.cc/SNztBWTC/logo2nd.png" group-title="✳️ Portugal",W-SPORT
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp-CY4l18C1Bfvr7kle7uF4/ts
-#EXTINF:-1 xui-id="593150" tvg-id="" MUNDO TOURO TV FHD tvg-logo="https://24h.laraia.xyz/Logos/MUNDOTORO-TV-LOGO.png" group-title="Portugal",MUNDO TOURO TV FHD
+#EXTINF:-1 xui-id="593150" tvg-id="" MUNDO TOURO TV FHD tvg-logo="https://24h.laraia.xyz/Logos/MUNDOTORO-TV-LOGO.png" group-title="✳️ Portugal",MUNDO TOURO TV FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvoaDq724eDhmwpu19kYmZg/ts
-#EXTINF:-1 xui-id="591613" tvg-id="" REDBULL TV FHD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/redbull.png" group-title="Portugal",REDBULL TV FHD
+#EXTINF:-1 xui-id="591613" tvg-id="" REDBULL TV FHD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/redbull.png" group-title="✳️ Portugal",REDBULL TV FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs4eC9cOHsb_fpVBoqkvh1w/ts
-#EXTINF:-1 xui-id="591615" tvg-id="" KOMBAT SPORT tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/KOMBAT-SPORT.png" group-title="Portugal",KOMBAT SPORT
+#EXTINF:-1 xui-id="591615" tvg-id="" KOMBAT SPORT tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/KOMBAT-SPORT.png" group-title="✳️ Portugal",KOMBAT SPORT
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhcUHoDXJn6ba6zFqOQ0ofk/ts
-#EXTINF:-1 xui-id="591538" tvg-id="" ꧁ ENTRETENIMENTO ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/entretenimento.png" group-title="Portugal",꧁ ENTRETENIMENTO ꧂
+#EXTINF:-1 xui-id="591538" tvg-id="" ꧁ ENTRETENIMENTO ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/entretenimento.png" group-title="✳️ Portugal",꧁ ENTRETENIMENTO ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnHoEVmWUkiKnq3o9-pxrqk/ts
-#EXTINF:-1 xui-id="591760" tvg-id="" OPTO tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/original.png" group-title="Portugal",OPTO
+#EXTINF:-1 xui-id="591760" tvg-id="" OPTO tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/original.png" group-title="✳️ Portugal",OPTO
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtu6qEjLRtMyPhhVWGbI-wE/ts
-#EXTINF:-1 xui-id="591539" tvg-id="" OPTO tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/original.png" group-title="Portugal",OPTO
+#EXTINF:-1 xui-id="591539" tvg-id="" OPTO tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/original.png" group-title="✳️ Portugal",OPTO
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvBV4iIsjKXEymLTlvxt1nA/ts
-#EXTINF:-1 xui-id="591619" tvg-id="" ꧁ TV FILMES ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/cinema.png" group-title="Portugal",꧁ TV FILMES ꧂
+#EXTINF:-1 xui-id="591619" tvg-id="" ꧁ TV FILMES ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/cinema.png" group-title="✳️ Portugal",꧁ TV FILMES ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKut9y5IoFJME9WAfFzzUSCY/ts
-#EXTINF:-1 xui-id="591838" tvg-id="" TV CINE+ HD tvg-logo="https://24h.laraia.xyz/Logos/tvcine+.png" group-title="Portugal",Tv Cine+ HD
+#EXTINF:-1 xui-id="591838" tvg-id="" TV CINE+ HD tvg-logo="https://24h.laraia.xyz/Logos/tvcine+.png" group-title="✳️ Portugal",Tv Cine+ HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpq_hkWof5CJbEqHcyJ8Ers/ts
-#EXTINF:-1 timeshift="3" xui-id="591638" tvg-id="axn.pt" AXN tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-HD.png" group-title="Portugal",AXN
+#EXTINF:-1 timeshift="3" xui-id="591638" tvg-id="axn.pt" AXN tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-HD.png" group-title="✳️ Portugal",AXN
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKozKZPUHs14AB4B0_U23s3g/ts
-#EXTINF:-1 xui-id="591642" tvg-id="fox.pt" FOX tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="Portugal",FOX
+#EXTINF:-1 xui-id="591642" tvg-id="fox.pt" FOX tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="✳️ Portugal",FOX
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsC5oGG_KtPejEwSKunn1zI/ts
-#EXTINF:-1 xui-id="591865" tvg-id="" FOX  HD tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="Portugal",Fox  HD
+#EXTINF:-1 xui-id="591865" tvg-id="" FOX  HD tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="✳️ Portugal",Fox  HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhZBcKbGNUnTAIx2eX9Ggyg/ts
-#EXTINF:-1 xui-id="591651" tvg-id="" ꧁ INFANTIL ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/infantil.png" group-title="Portugal",꧁ INFANTIL ꧂
+#EXTINF:-1 xui-id="591651" tvg-id="" ꧁ INFANTIL ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/infantil.png" group-title="✳️ Portugal",꧁ INFANTIL ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgytfQ7l8n1EVMO9hjsmHlQ/ts
-#EXTINF:-1 xui-id="591662" tvg-id="" ꧁ MUSICA ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/musica.png" group-title="Portugal",꧁ MUSICA ꧂
+#EXTINF:-1 xui-id="591662" tvg-id="" ꧁ MUSICA ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/musica.png" group-title="✳️ Portugal",꧁ MUSICA ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKl8pZdtv0jYmIN6Wb5Mhsoo/ts
-#EXTINF:-1 xui-id="591670" tvg-id="" ꧁ DOCUMENTARIOS ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/documentarios.png" group-title="Portugal",꧁ Documentarios ꧂
+#EXTINF:-1 xui-id="591670" tvg-id="" ꧁ DOCUMENTARIOS ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/documentarios.png" group-title="✳️ Portugal",꧁ Documentarios ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmc1sjxwONq2kI2GtpkrPcM/ts
-#EXTINF:-1 xui-id="591682" tvg-id="" ID INVESTIGATION tvg-logo="https://i.postimg.cc/3R4SJ7fn/id-discovery.jpg" group-title="Portugal",ID INVESTIGATION
+#EXTINF:-1 xui-id="591682" tvg-id="" ID INVESTIGATION tvg-logo="https://i.postimg.cc/3R4SJ7fn/id-discovery.jpg" group-title="✳️ Portugal",ID INVESTIGATION
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKphnd5bKJDNVseA3qDt8n1Q/ts
-#EXTINF:-1 xui-id="591679" tvg-id="blaze.pt" BREAK tvg-logo="https://24h.laraia.xyz/Logos/amcbreak.png" group-title="Portugal",BREAK
+#EXTINF:-1 xui-id="591679" tvg-id="blaze.pt" BREAK tvg-logo="https://24h.laraia.xyz/Logos/amcbreak.png" group-title="✳️ Portugal",BREAK
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKi4dReJks9zzKvDb50Spp5g/ts
-#EXTINF:-1 xui-id="591684" tvg-id="" ꧁ INTERNACIONAIS ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/internacionais.png" group-title="Portugal",꧁ INTERNACIONAIS ꧂
+#EXTINF:-1 xui-id="591684" tvg-id="" ꧁ INTERNACIONAIS ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/internacionais.png" group-title="✳️ Portugal",꧁ INTERNACIONAIS ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj3Ur8EcXhtGJKxb0c2O6rE/ts
-#EXTINF:-1 xui-id="591691" tvg-id="tv5monde.pt" TV5 MONDE tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TV5-MONDE.png" group-title="Portugal",TV5 MONDE
+#EXTINF:-1 xui-id="591691" tvg-id="tv5monde.pt" TV5 MONDE tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TV5-MONDE.png" group-title="✳️ Portugal",TV5 MONDE
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuvEi6NcrZ1EKcpWIMmoT6k/ts
-#EXTINF:-1 xui-id="591709" tvg-id="sic.pt" PT | SIC tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC.png" group-title="Portugal Extra",PT | Sic
+#EXTINF:-1 xui-id="591709" tvg-id="sic.pt" PT | SIC tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC.png" group-title="✳️ Portugal Extra",PT | Sic
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnD3Lc2fOvXIddtXcDOT_DY/ts
-#EXTINF:-1 xui-id="591713" tvg-id="tvi.pt" PT | TVI tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="Portugal Extra",PT | Tvi
+#EXTINF:-1 xui-id="591713" tvg-id="tvi.pt" PT | TVI tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="✳️ Portugal Extra",PT | Tvi
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtXdi6_5KsvdmnmK1dOqMoI/ts
-#EXTINF:-1 xui-id="591723" tvg-id="rtpinternacional.pt" PT | RTP INTERNACIONAL tvg-logo="https://i.imgur.com/pnOzjZW.png" group-title="Portugal Extra",PT | Rtp Internacional
+#EXTINF:-1 xui-id="591723" tvg-id="rtpinternacional.pt" PT | RTP INTERNACIONAL tvg-logo="https://i.imgur.com/pnOzjZW.png" group-title="✳️ Portugal Extra",PT | Rtp Internacional
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtQQUWSXLibHvk8pClBttl8/ts
-#EXTINF:-1 xui-id="591726" tvg-id="artv.pt" PT | AR TV tvg-logo="https://i.imgur.com/McboHWW.png" group-title="Portugal Extra",PT | Ar TV
+#EXTINF:-1 xui-id="591726" tvg-id="artv.pt" PT | AR TV tvg-logo="https://i.imgur.com/McboHWW.png" group-title="✳️ Portugal Extra",PT | Ar TV
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlwsK1_le6Fd4q1Im6iXuOU/ts
-#EXTINF:-1 xui-id="591727" tvg-id="" ---●★| PORTUGAL INFORMAÇAO |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="Portugal Extra",---●★| Portugal Informaçao |★●---
+#EXTINF:-1 xui-id="591727" tvg-id="" ---●★| PORTUGAL INFORMAÇAO |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="✳️ Portugal Extra",---●★| Portugal Informaçao |★●---
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoA_UMNCp_3N4p47caWBd-I/ts
-#EXTINF:-1 xui-id="591736" tvg-id="euronews.pt" PT | EURONEWS tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/EURONEWS.png" group-title="Portugal Extra",PT | Euronews
+#EXTINF:-1 xui-id="591736" tvg-id="euronews.pt" PT | EURONEWS tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/EURONEWS.png" group-title="✳️ Portugal Extra",PT | Euronews
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmJ25QVjrSWvRBcXJsWyKQg/ts
-#EXTINF:-1 xui-id="591737" tvg-id="" ---●★| PORTUGAL ENTRETENIMENTO |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="Portugal Extra",---●★| Portugal Entretenimento |★●---
+#EXTINF:-1 xui-id="591737" tvg-id="" ---●★| PORTUGAL ENTRETENIMENTO |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="✳️ Portugal Extra",---●★| Portugal Entretenimento |★●---
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKusZboRkLdebl95XpTES7oQ/ts
-#EXTINF:-1 xui-id="591757" tvg-id="foodnetwork.pt" PT | FOOD NETWOORK tvg-logo="https://i.imgur.com/8usMt92.png" group-title="Portugal Extra",PT | Food Netwoork
+#EXTINF:-1 xui-id="591757" tvg-id="foodnetwork.pt" PT | FOOD NETWOORK tvg-logo="https://i.imgur.com/8usMt92.png" group-title="✳️ Portugal Extra",PT | Food Netwoork
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiJ7NcBArRu23oG0C02YAxs/ts
-#EXTINF:-1 xui-id="591766" tvg-id="" PT | FASHION TV tvg-logo="https://i.imgur.com/bAOA1wS.png" group-title="Portugal Extra",PT | Fashion TV
+#EXTINF:-1 xui-id="591766" tvg-id="" PT | FASHION TV tvg-logo="https://i.imgur.com/bAOA1wS.png" group-title="✳️ Portugal Extra",PT | Fashion TV
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkyfa4DgNKx7tSFeGeB7y7k/ts
-#EXTINF:-1 xui-id="591767" tvg-id="" ---●★| PORTUGAL DESPORTO |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="Portugal Extra",---●★| Portugal Desporto |★●---
+#EXTINF:-1 xui-id="591767" tvg-id="" ---●★| PORTUGAL DESPORTO |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="✳️ Portugal Extra",---●★| Portugal Desporto |★●---
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgau0OtAZRh4nTc5jZTNreM/ts
-#EXTINF:-1 xui-id="591831" tvg-id="" PT | KOMBAT SPORT tvg-logo="https://i.imgur.com/1kpnKQ7.png" group-title="Portugal Extra",PT | KOMBAT SPORT
+#EXTINF:-1 xui-id="591831" tvg-id="" PT | KOMBAT SPORT tvg-logo="https://i.imgur.com/1kpnKQ7.png" group-title="✳️ Portugal Extra",PT | KOMBAT SPORT
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKh3iSu1FA1-TaGLgSgqAg-o/ts
-#EXTINF:-1 xui-id="591832" tvg-id="" PT | NHK WORLD JAPAN tvg-logo="https://imgur.com/bsuG7v7.png" group-title="Portugal Extra",PT | NHK WORLD JAPAN
+#EXTINF:-1 xui-id="591832" tvg-id="" PT | NHK WORLD JAPAN tvg-logo="https://imgur.com/bsuG7v7.png" group-title="✳️ Portugal Extra",PT | NHK WORLD JAPAN
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKq3zOImhTWBVNVfBJa2ib9Q/ts
-#EXTINF:-1 xui-id="591835" tvg-id="" PT | RED BULL tvg-logo="https://imgur.com/YhJcNXn.png" group-title="Portugal Extra",PT | RED BULL
+#EXTINF:-1 xui-id="591835" tvg-id="" PT | RED BULL tvg-logo="https://imgur.com/YhJcNXn.png" group-title="✳️ Portugal Extra",PT | RED BULL
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhSiAIElFp8HfxJ65xYNbko/ts
-#EXTINF:-1 xui-id="591837" tvg-id="" ---●★| PORTUGAL CINEMA |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="Portugal Extra",---●★| Portugal Cinema |★●---
+#EXTINF:-1 xui-id="591837" tvg-id="" ---●★| PORTUGAL CINEMA |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="✳️ Portugal Extra",---●★| Portugal Cinema |★●---
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgz0fIieCSkA-AaZvtdAUFA/ts
-#EXTINF:-1 xui-id="591864" tvg-id="fox.pt" PT | FOX tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="Portugal Extra",PT | Fox
+#EXTINF:-1 xui-id="591864" tvg-id="fox.pt" PT | FOX tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="✳️ Portugal Extra",PT | Fox
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpcKip07mdlcHiPQurjITPM/ts
-#EXTINF:-1 xui-id="591866" tvg-id="fox.pt" PT | FOX  FHD tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="Portugal Extra",PT | Fox  FHD
+#EXTINF:-1 xui-id="591866" tvg-id="fox.pt" PT | FOX  FHD tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="✳️ Portugal Extra",PT | Fox  FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkNMhEJwhqn2CdUAcNQVtno/ts
-#EXTINF:-1 xui-id="591875" tvg-id="axn.pt" PT | AXN tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" group-title="Portugal Extra",PT | Axn
+#EXTINF:-1 xui-id="591875" tvg-id="axn.pt" PT | AXN tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" group-title="✳️ Portugal Extra",PT | Axn
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs6PxBgzVefcXrpqME8f5_M/ts
-#EXTINF:-1 xui-id="591887" tvg-id="" ---●★| PORTUGAL CRIANÇAS |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="Portugal Extra",---●★| Portugal Crianças |★●---
+#EXTINF:-1 xui-id="591887" tvg-id="" ---●★| PORTUGAL CRIANÇAS |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="✳️ Portugal Extra",---●★| Portugal Crianças |★●---
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmYI-psd0QOuF4Uy7PPac2U/ts
-#EXTINF:-1 xui-id="591896" tvg-id="nickelodeon.pt" PT | NICKLODEON tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="Portugal Extra",PT | Nicklodeon
+#EXTINF:-1 xui-id="591896" tvg-id="nickelodeon.pt" PT | NICKLODEON tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="✳️ Portugal Extra",PT | Nicklodeon
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlj9ZhJHzPVofrwwOQ3G2Rc/ts
-#EXTINF:-1 xui-id="591901" tvg-id="" ---●★| PORTUGAL MUSIC |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="Portugal Extra",---●★| Portugal Music |★●---
+#EXTINF:-1 xui-id="591901" tvg-id="" ---●★| PORTUGAL MUSIC |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="✳️ Portugal Extra",---●★| Portugal Music |★●---
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnlNTcjXxNlG49bk4lerqMo/ts
-#EXTINF:-1 xui-id="591902" tvg-id="almalusa.pt" PT | ALMA  LUSA tvg-logo="https://imgur.com/QwgpmYE.png" group-title="Portugal Extra",PT | Alma  Lusa
+#EXTINF:-1 xui-id="591902" tvg-id="almalusa.pt" PT | ALMA  LUSA tvg-logo="https://imgur.com/QwgpmYE.png" group-title="✳️ Portugal Extra",PT | Alma  Lusa
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuDfCpoOvsRqqVD338Qu6XA/ts
-#EXTINF:-1 xui-id="591912" tvg-id="" ---●★| PORTUGAL DOCUMENTÁRIA |★●--- tvg-logo="https://seeklogo.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="Portugal Extra",---●★| Portugal Documentária |★●---
+#EXTINF:-1 xui-id="591912" tvg-id="" ---●★| PORTUGAL DOCUMENTÁRIA |★●--- tvg-logo="https://seeklogo.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" group-title="✳️ Portugal Extra",---●★| Portugal Documentária |★●---
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKn5u78ovjN5__qU6d6CKooQ/ts
-#EXTINF:-1 xui-id="591925" tvg-id="blaze.pt" PT | BREAK tvg-logo="https://amcbreak.pt/wp-content/themes/amcbreak/img/logo_break.png" group-title="Portugal Extra",PT | Break
+#EXTINF:-1 xui-id="591925" tvg-id="blaze.pt" PT | BREAK tvg-logo="https://amcbreak.pt/wp-content/themes/amcbreak/img/logo_break.png" group-title="✳️ Portugal Extra",PT | Break
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKulTPLCExkikiRunE3vPIEE/ts
-#EXTINF:-1 xui-id="591926" tvg-id="" PT | BREAK FHD tvg-logo="" group-title="Portugal Extra",PT | Break FHD
+#EXTINF:-1 xui-id="591926" tvg-id="" PT | BREAK FHD tvg-logo="" group-title="✳️ Portugal Extra",PT | Break FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpnrcLh66-zT_yN4T-WNQCQ/ts
-#EXTINF:-1 xui-id="591931" tvg-id="cacaepesca.pt" PT | CAÇA E PESCA FHD tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="Portugal Extra",PT | Caça e Pesca FHD
+#EXTINF:-1 xui-id="591931" tvg-id="cacaepesca.pt" PT | CAÇA E PESCA FHD tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="✳️ Portugal Extra",PT | Caça e Pesca FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoTu8NjBQAzRkbk1pGE3rWA/ts
-#EXTINF:-1 xui-id="591932" tvg-id="cacavision.pt" PT | CAÇAVISION tvg-logo="https://i.imgur.com/i0IDqQd.png" group-title="Portugal Extra",PT | Caçavision
+#EXTINF:-1 xui-id="591932" tvg-id="cacavision.pt" PT | CAÇAVISION tvg-logo="https://i.imgur.com/i0IDqQd.png" group-title="✳️ Portugal Extra",PT | Caçavision
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKneHT55cmBvOP8z4Osxx5Xc/ts
-#EXTINF:-1 xui-id="591933" tvg-id="" ---●★| PORTUGAL INTERNACIONAIS |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="Portugal Extra",---●★| Portugal Internacionais |★●---
+#EXTINF:-1 xui-id="591933" tvg-id="" ---●★| PORTUGAL INTERNACIONAIS |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="✳️ Portugal Extra",---●★| Portugal Internacionais |★●---
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgP8jYSDsCfItWDMutPPGZI/ts
-#EXTINF:-1 xui-id="591934" tvg-id="" PT | TCV INTERNACIONAL tvg-logo="https://i.postimg.cc/ssMhJxZC/c7234-tcvinternacionallogo1.png" group-title="Portugal Extra",PT | Tcv Internacional
+#EXTINF:-1 xui-id="591934" tvg-id="" PT | TCV INTERNACIONAL tvg-logo="https://i.postimg.cc/ssMhJxZC/c7234-tcvinternacionallogo1.png" group-title="✳️ Portugal Extra",PT | Tcv Internacional
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmQLptiDBq1ig7Kvte58mIQ/ts
-#EXTINF:-1 xui-id="591941" tvg-id="cancaonova.pt" PT | CANÇAO NOVA tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="Portugal Extra",PT | Cançao Nova
+#EXTINF:-1 xui-id="591941" tvg-id="cancaonova.pt" PT | CANÇAO NOVA tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="✳️ Portugal Extra",PT | Cançao Nova
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKo97W8gdT-bAiUA0h-cyZCw/ts
-#EXTINF:-1 xui-id="591942" tvg-id="tv5monde.pt" PT | TV5 MONDE tvg-logo="https://i.imgur.com/hmk0xFB.png" group-title="Portugal Extra",PT | TV5 Monde
+#EXTINF:-1 xui-id="591942" tvg-id="tv5monde.pt" PT | TV5 MONDE tvg-logo="https://i.imgur.com/hmk0xFB.png" group-title="✳️ Portugal Extra",PT | TV5 Monde
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmPtRF56XXzkaWbVDOe2d40/ts
-#EXTINF:-1 xui-id="591943" tvg-id="skynews.pt" PT | SKY NEWS tvg-logo="https://imgur.com/gYsFQ0H.png" group-title="Portugal Extra",PT | Sky News
+#EXTINF:-1 xui-id="591943" tvg-id="skynews.pt" PT | SKY NEWS tvg-logo="https://imgur.com/gYsFQ0H.png" group-title="✳️ Portugal Extra",PT | Sky News
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtFOxu_dgDcfrIkLbOmZkvQ/ts
-#EXTINF:-1 xui-id="591944" tvg-id="" PT | FRANCE 24 tvg-logo="http://live21.site/LOGOS/PiconsPT/France_24.png" group-title="Portugal Extra",PT | France 24
+#EXTINF:-1 xui-id="591944" tvg-id="" PT | FRANCE 24 tvg-logo="http://live21.site/LOGOS/PiconsPT/France_24.png" group-title="✳️ Portugal Extra",PT | France 24
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkyhbeKgIvraRIxTfDOPbU0/ts
-#EXTINF:-1 xui-id="591945" tvg-id="" PT | M6 FRANCE tvg-logo="" group-title="Portugal Extra",PT | M6 France
+#EXTINF:-1 xui-id="591945" tvg-id="" PT | M6 FRANCE tvg-logo="" group-title="✳️ Portugal Extra",PT | M6 France
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqj_jUa0FRHhL-gflgOkyGs/ts
-#EXTINF:-1 xui-id="591946" tvg-id="" PT | CNBC tvg-logo="" group-title="Portugal Extra",PT | CNBC
+#EXTINF:-1 xui-id="591946" tvg-id="" PT | CNBC tvg-logo="" group-title="✳️ Portugal Extra",PT | CNBC
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKunHSDGAfOQWNRjDDKgcjuI/ts
-#EXTINF:-1 xui-id="591947" tvg-id="" PT | BBC WORLD NEWS tvg-logo="" group-title="Portugal Extra",PT | BBC World News
+#EXTINF:-1 xui-id="591947" tvg-id="" PT | BBC WORLD NEWS tvg-logo="" group-title="✳️ Portugal Extra",PT | BBC World News
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtoby1myAYgqMXhs7Ia_Rp8/ts
-#EXTINF:-1 xui-id="591951" tvg-id="" PT | TVE 24H tvg-logo="https://i.imgur.com/iS8gvHb.png" group-title="Portugal Extra",PT | Tve 24h
+#EXTINF:-1 xui-id="591951" tvg-id="" PT | TVE 24H tvg-logo="https://i.imgur.com/iS8gvHb.png" group-title="✳️ Portugal Extra",PT | Tve 24h
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKm_PnhUD8uEE_GjlT0XCTrI/ts
-#EXTINF:-1 xui-id="591952" tvg-id="" PT | TVE INTERNACIONAL tvg-logo="https://i.imgur.com/EXe49t7.png" group-title="Portugal Extra",PT | TVE Internacional
+#EXTINF:-1 xui-id="591952" tvg-id="" PT | TVE INTERNACIONAL tvg-logo="https://i.imgur.com/EXe49t7.png" group-title="✳️ Portugal Extra",PT | TVE Internacional
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrf-kFaUgSXuatVYoIC6V4g/ts
-#EXTINF:-1 xui-id="591953" tvg-id="tvgalícia.pt" PT | TV GALICIA tvg-logo="https://i.imgur.com/KSR7gjA.png" group-title="Portugal Extra",PT | Tv Galicia
+#EXTINF:-1 xui-id="591953" tvg-id="tvgalícia.pt" PT | TV GALICIA tvg-logo="https://i.imgur.com/KSR7gjA.png" group-title="✳️ Portugal Extra",PT | Tv Galicia
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvGCm7gGE2wZJkRsG1NcCUI/ts
-#EXTINF:-1 xui-id="591958" tvg-id="" PT | FATIMA TV tvg-logo="" group-title="Portugal Extra",PT | Fatima TV
+#EXTINF:-1 xui-id="591958" tvg-id="" PT | FATIMA TV tvg-logo="" group-title="✳️ Portugal Extra",PT | Fatima TV
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtzkk3Xxa2wiusbRdD9YjEc/ts
-#EXTINF:-1 xui-id="591960" tvg-id="" PT |  MEO VIDEOCLUBE tvg-logo="" group-title="Portugal Extra",PT |  MEO VideoClube
+#EXTINF:-1 xui-id="591960" tvg-id="" PT |  MEO VIDEOCLUBE tvg-logo="" group-title="✳️ Portugal Extra",PT |  MEO VideoClube
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKizb6waJzB6PBUXEKBNCqH0/ts
-#EXTINF:-1 xui-id="591961" tvg-id="" PT | S+ tvg-logo="" group-title="Portugal Extra",PT | S+
+#EXTINF:-1 xui-id="591961" tvg-id="" PT | S+ tvg-logo="" group-title="✳️ Portugal Extra",PT | S+
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgZO9kemh0N9Qixhk0UXMQo/ts
-#EXTINF:-1 xui-id="591962" tvg-id="" PT | TRAVEL XP tvg-logo="" group-title="Portugal Extra",PT | TRAVEL XP
+#EXTINF:-1 xui-id="591962" tvg-id="" PT | TRAVEL XP tvg-logo="" group-title="✳️ Portugal Extra",PT | TRAVEL XP
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj1L3bQwxm3DAjOPMFHW7WA/ts
-#EXTINF:-1 xui-id="629315" tvg-id="tvi.pt" TVI [LOW] tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="Portugal LOW",TVI [low]
+#EXTINF:-1 xui-id="629315" tvg-id="tvi.pt" TVI [LOW] tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="✳️ Portugal LOW",TVI [low]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKggV9d0GSibSoZR9n_7Vz94/ts
-#EXTINF:-1 xui-id="629316" tvg-id="sic.pt" SIC [LOW] tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="Portugal LOW",SIC [low]
+#EXTINF:-1 xui-id="629316" tvg-id="sic.pt" SIC [LOW] tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="✳️ Portugal LOW",SIC [low]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkmGpgq_7rxNrAJnxB9hALY/ts
-#EXTINF:-1 xui-id="629354" tvg-id="fox.pt" FOX [LOW]* tvg-logo="https://i.postimg.cc/QNYYbLRP/FOX.png" group-title="Portugal LOW",Fox [low]*
+#EXTINF:-1 xui-id="629354" tvg-id="fox.pt" FOX [LOW]* tvg-logo="https://i.postimg.cc/QNYYbLRP/FOX.png" group-title="✳️ Portugal LOW",Fox [low]*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkFgNoMsGjPd59NWf8IeB8o/ts
-#EXTINF:-1 xui-id="629361" tvg-id="axn.pt" AXN [LOW] tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" group-title="Portugal LOW",AXN [low]
+#EXTINF:-1 xui-id="629361" tvg-id="axn.pt" AXN [LOW] tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" group-title="✳️ Portugal LOW",AXN [low]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk1s5B6n4xBUox-TpxwutdE/ts
-#EXTINF:-1 xui-id="629376" tvg-id="blaze.pt" BREAK [LOW] tvg-logo="" group-title="Portugal LOW",Break [low]
+#EXTINF:-1 xui-id="629376" tvg-id="blaze.pt" BREAK [LOW] tvg-logo="" group-title="✳️ Portugal LOW",Break [low]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvIxfz1xdY4mjETnplQAB0s/ts
-#EXTINF:-1 xui-id="629379" tvg-id="cancaonova.pt" CANÇAO NOVA [LOW] tvg-logo="https://i.postimg.cc/DywmcK52/CAN-O-NOVA.png" group-title="Portugal LOW",Cançao Nova [low]
+#EXTINF:-1 xui-id="629379" tvg-id="cancaonova.pt" CANÇAO NOVA [LOW] tvg-logo="https://i.postimg.cc/DywmcK52/CAN-O-NOVA.png" group-title="✳️ Portugal LOW",Cançao Nova [low]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkoHJnyzUKdlfoX8cLsA6lQ/ts
-#EXTINF:-1 xui-id="629398" tvg-id="cacaepesca.pt" CACA Y PESCA [LOW] tvg-logo="http://intelcodecs.hopto.org:8080/picon/cacaepesca.png" group-title="Portugal LOW",Caca y Pesca [low]
+#EXTINF:-1 xui-id="629398" tvg-id="cacaepesca.pt" CACA Y PESCA [LOW] tvg-logo="http://intelcodecs.hopto.org:8080/picon/cacaepesca.png" group-title="✳️ Portugal LOW",Caca y Pesca [low]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg3QgrfAwMqgo2gdUVsiCFQ/ts
-#EXTINF:-1 xui-id="337728" tvg-id="sic.pt" SIC [HVEC/H265] tvg-logo="https://i.postimg.cc/Hnn8vL6C/SIC.png" group-title="Portugal HEVC / 265",SIC [HVEC/H265]
+#EXTINF:-1 xui-id="337728" tvg-id="sic.pt" SIC [HVEC/H265] tvg-logo="https://i.postimg.cc/Hnn8vL6C/SIC.png" group-title="✳️ Portugal HEVC / 265",SIC [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlR6N8MOvmI2gwCmmPPLLz0/ts
-#EXTINF:-1 xui-id="337729" tvg-id="tvi.pt" TVI  [HEVC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="Portugal HEVC / 265",TVI  [HEVC/H265]
+#EXTINF:-1 xui-id="337729" tvg-id="tvi.pt" TVI  [HEVC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="✳️ Portugal HEVC / 265",TVI  [HEVC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqbxcWGLlnDHasWEfzgHycw/ts
-#EXTINF:-1 xui-id="337722" tvg-id="axn.pt" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="Portugal HEVC / 265",AXN [HVEC/H265]
+#EXTINF:-1 xui-id="337722" tvg-id="axn.pt" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="✳️ Portugal HEVC / 265",AXN [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtI4C6ehZd7RwMgd7iBiayw/ts
-#EXTINF:-1 xui-id="337726" tvg-id="fox.pt" FOX [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="Portugal HEVC / 265",FOX [HVEC/H265]
+#EXTINF:-1 xui-id="337726" tvg-id="fox.pt" FOX [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="✳️ Portugal HEVC / 265",FOX [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjfdPL_Pa0sqxCmBkeuy1iU/ts
-#EXTINF:-1 xui-id="520158" tvg-id="" •●★-- DESPORTO DE PORTUGAL --★●• tvg-logo="https://img1.gratispng.com/20180401/yye/kisspng-flag-of-portugal-national-flag-flag-of-poland-portugal-5ac0b5f3e18818.0715604115225789319238.jpg" group-title="World Sports",•●★-- Desporto de Portugal --★●•
+#EXTINF:-1 xui-id="520158" tvg-id="" •●★-- DESPORTO DE PORTUGAL --★●• tvg-logo="https://img1.gratispng.com/20180401/yye/kisspng-flag-of-portugal-national-flag-flag-of-poland-portugal-5ac0b5f3e18818.0715604115225789319238.jpg" group-title="✳️ World Sports",•●★-- Desporto de Portugal --★●•
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnJED3Z8gNsHv2QJkAklTAg/ts
-#EXTINF:-1 xui-id="520186" tvg-id="" PT: 11 FHD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/11.png" group-title="World Sports",PT: 11 FHD
+#EXTINF:-1 xui-id="520186" tvg-id="" PT: 11 FHD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/11.png" group-title="✳️ World Sports",PT: 11 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhl0ZZiX_N0318CBx6eJrwg/ts
-#EXTINF:-1 xui-id="520187" tvg-id="" PT: 11 HD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/11.png" group-title="World Sports",PT: 11 HD
+#EXTINF:-1 xui-id="520187" tvg-id="" PT: 11 HD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/11.png" group-title="✳️ World Sports",PT: 11 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr9CUnauEBpUHBllFmx9GM4/ts
-#EXTINF:-1 xui-id="332029" tvg-id="" SIC [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt.png" group-title="Portugal HEVC / 265",SIC [HVEC/H265]
+#EXTINF:-1 xui-id="332029" tvg-id="" SIC [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt.png" group-title="✳️ Portugal HEVC / 265",SIC [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnFKUUAFF3kGe4jLc27NvuM/ts
-#EXTINF:-1 xui-id="332030" tvg-id="" TVI  [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="Portugal HEVC / 265",TVI  [HVEC/H265]
+#EXTINF:-1 xui-id="332030" tvg-id="" TVI  [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="✳️ Portugal HEVC / 265",TVI  [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk5E1k5UCpOKFRGqG-yQ0ls/ts
-#EXTINF:-1 xui-id="332064" tvg-id="" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="Portugal HEVC / 265",AXN [HVEC/H265]
+#EXTINF:-1 xui-id="332064" tvg-id="" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="✳️ Portugal HEVC / 265",AXN [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgsvFb717Oa4P8VEvjhDcA4/ts
-#EXTINF:-1 xui-id="332067" tvg-id="" FOX [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="Portugal HEVC / 265",FOX [HVEC/H265]
+#EXTINF:-1 xui-id="332067" tvg-id="" FOX [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="✳️ Portugal HEVC / 265",FOX [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpwhCgTchOBrOIMc1r4DfJE/ts
 #EXTINF:-1 xui-id="608431" OPÉRATION PORTUGAL tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnJRQ8iSCncMe38339H9BvukkiX.jpg" group-title="♨️ Filmes 2021",Opération Portugal
 http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4qF4_hvOZprMYpgkQyn2hS5_Yzeseti5fPxLXKAtO_6#.mkv
@@ -1855,923 +1855,463 @@ http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH8Hj3kU2T8xONVu3ZxZe4bbvmtlJeX60d
 http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH8SxGgqB1onBytf7HXiXlduzZZhhU9hHZ0NFXMkFkD-w#.mp4
 #EXTINF:-1 xui-id="628606" SENTIMENTO - RITA GUERRA tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg" group-title="♨️Karaoke Portugal",SENTIMENTO - RITA GUERRA
 http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH9f6x210l1gC-reLVvcLJC5e_z7_ym5X0PD0HWZkFm2H#.mp4
-#EXTINF:-1 xui-id="520277" tvg-id="" tvg-name="•●★-- Desporto de Espanha --★●•" tvg-logo="https://img2.gratispng.com/20180319/dxe/kisspng-flag-font-spain-5ab06220000828.0392048815215088960001.jpg" group-title="World Sports",•●★-- Desporto de Espanha --★●•
+#EXTINF:-1 xui-id="520277" tvg-id="" tvg-name="•●★-- Desporto de Espanha --★●•" tvg-logo="https://img2.gratispng.com/20180319/dxe/kisspng-flag-font-spain-5ab06220000828.0392048815215088960001.jpg" group-title="✳️ World Sports",•●★-- Desporto de Espanha --★●•
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsdr_w5wajlPnzSrzddyPJs/ts
-#EXTINF:-1 xui-id="586984" tvg-id="" tvg-name="|ES| LA 1" tvg-logo="http://fanc.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="Espanha",|ES| LA 1
+#EXTINF:-1 xui-id="586984" tvg-id="" tvg-name="|ES| LA 1" tvg-logo="http://fanc.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="✳️ Espanha",|ES| LA 1
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKur7jQf_7B9K0bW2rs6nAsw/ts
-#EXTINF:-1 xui-id="586985" tvg-id="" tvg-name="|ES| La 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s91203_ll_h3_aa.png" group-title="Espanha",|ES| La 1 HD
+#EXTINF:-1 xui-id="586985" tvg-id="" tvg-name="|ES| La 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s91203_ll_h3_aa.png" group-title="✳️ Espanha",|ES| La 1 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhbwuVeEIv-tJNxgMpblyUQ/ts
-#EXTINF:-1 xui-id="586986" tvg-id="" tvg-name="|ES| LA 1 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91203_ll_h3_aa.png" group-title="Espanha",|ES| LA 1 FHD
+#EXTINF:-1 xui-id="586986" tvg-id="" tvg-name="|ES| LA 1 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91203_ll_h3_aa.png" group-title="✳️ Espanha",|ES| LA 1 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiTvNom8eBkIUYW0IEwCU_E/ts
-#EXTINF:-1 xui-id="586987" tvg-id="" tvg-name="|ES| LA 2" tvg-logo="http://fanc.tmsimg.com/assets/s86914_ll_h3_aa.png" group-title="Espanha",|ES| LA 2
+#EXTINF:-1 xui-id="586987" tvg-id="" tvg-name="|ES| LA 2" tvg-logo="http://fanc.tmsimg.com/assets/s86914_ll_h3_aa.png" group-title="✳️ Espanha",|ES| LA 2
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvfUnXVXc3oc5jA_JxN-yAs/ts
-#EXTINF:-1 xui-id="586988" tvg-id="" tvg-name="|ES| La 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="Espanha",|ES| La 2 HD
+#EXTINF:-1 xui-id="586988" tvg-id="" tvg-name="|ES| La 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="✳️ Espanha",|ES| La 2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKilxnjLlqWcekf5HtNJE7J4/ts
-#EXTINF:-1 xui-id="586989" tvg-id="" tvg-name="|ES| La 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="Espanha",|ES| La 2 FHD
+#EXTINF:-1 xui-id="586989" tvg-id="" tvg-name="|ES| La 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="✳️ Espanha",|ES| La 2 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsURdBupU8S_Iu01ua_hGX0/ts
-#EXTINF:-1 xui-id="586990" tvg-id="" tvg-name="|ES| ANTENA 3" tvg-logo="https://i.postimg.cc/J4PwphTt/1200px-Antena-3-2017-svg.png" group-title="Espanha",|ES| ANTENA 3
+#EXTINF:-1 xui-id="586990" tvg-id="" tvg-name="|ES| ANTENA 3" tvg-logo="https://i.postimg.cc/J4PwphTt/1200px-Antena-3-2017-svg.png" group-title="✳️ Espanha",|ES| ANTENA 3
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr0mmK0y6sDk5O7koEf_eHY/ts
-#EXTINF:-1 xui-id="586991" tvg-id="" tvg-name="|ES| ANTENA 3 HD" tvg-logo="https://i.postimg.cc/J4PwphTt/1200px-Antena-3-2017-svg.png" group-title="Espanha",|ES| ANTENA 3 HD
+#EXTINF:-1 xui-id="586991" tvg-id="" tvg-name="|ES| ANTENA 3 HD" tvg-logo="https://i.postimg.cc/J4PwphTt/1200px-Antena-3-2017-svg.png" group-title="✳️ Espanha",|ES| ANTENA 3 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp8sNinekr6ogFH9tk84niI/ts
-#EXTINF:-1 xui-id="586992" tvg-id="" tvg-name="|ES| ANTENA 3 FHD" tvg-logo="https://i.postimg.cc/J4PwphTt/1200px-Antena-3-2017-svg.png" group-title="Espanha",|ES| ANTENA 3 FHD
+#EXTINF:-1 xui-id="586992" tvg-id="" tvg-name="|ES| ANTENA 3 FHD" tvg-logo="https://i.postimg.cc/J4PwphTt/1200px-Antena-3-2017-svg.png" group-title="✳️ Espanha",|ES| ANTENA 3 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhIAey6xoll6T5OLOA7ynsk/ts
-#EXTINF:-1 xui-id="586993" tvg-id="" tvg-name="|ES| CUATRO" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Espanha",|ES| CUATRO
+#EXTINF:-1 xui-id="586993" tvg-id="" tvg-name="|ES| CUATRO" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="✳️ Espanha",|ES| CUATRO
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiOqpTpcjRcihKI_1fTf4o0/ts
-#EXTINF:-1 xui-id="586994" tvg-id="" tvg-name="|ES| CUATRO HD" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/cuatro.png" group-title="Espanha",|ES| CUATRO HD
+#EXTINF:-1 xui-id="586994" tvg-id="" tvg-name="|ES| CUATRO HD" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/cuatro.png" group-title="✳️ Espanha",|ES| CUATRO HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjqHdkqV_80sQXRRVgg9Gps/ts
-#EXTINF:-1 xui-id="586995" tvg-id="" tvg-name="|ES| CUATRO FHD" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/cuatro.png" group-title="Espanha",|ES| CUATRO FHD
+#EXTINF:-1 xui-id="586995" tvg-id="" tvg-name="|ES| CUATRO FHD" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/cuatro.png" group-title="✳️ Espanha",|ES| CUATRO FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj78Mojk43ORkVrp7cx44h0/ts
-#EXTINF:-1 xui-id="586996" tvg-id="" tvg-name="|ES| TELECINCO" tvg-logo="http://fanc.tmsimg.com/assets/s54015_ll_h3_aa.png" group-title="Espanha",|ES| TELECINCO
+#EXTINF:-1 xui-id="586996" tvg-id="" tvg-name="|ES| TELECINCO" tvg-logo="http://fanc.tmsimg.com/assets/s54015_ll_h3_aa.png" group-title="✳️ Espanha",|ES| TELECINCO
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnOneLNX7nzE-m3I3b9Rnig/ts
-#EXTINF:-1 xui-id="586997" tvg-id="" tvg-name="|ES| TELECINCO HD" tvg-logo="http://fanc.tmsimg.com/assets/s91224_ll_h3_aa.png" group-title="Espanha",|ES| TELECINCO HD
+#EXTINF:-1 xui-id="586997" tvg-id="" tvg-name="|ES| TELECINCO HD" tvg-logo="http://fanc.tmsimg.com/assets/s91224_ll_h3_aa.png" group-title="✳️ Espanha",|ES| TELECINCO HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuSrT1saIYRXUZh9VHGaJyg/ts
-#EXTINF:-1 xui-id="586998" tvg-id="" tvg-name="|ES| TELECINCO FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91224_ll_h3_aa.png" group-title="Espanha",|ES| TELECINCO FHD
+#EXTINF:-1 xui-id="586998" tvg-id="" tvg-name="|ES| TELECINCO FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91224_ll_h3_aa.png" group-title="✳️ Espanha",|ES| TELECINCO FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvz5IDPDs_EfVrhDmmOpSHc/ts
-#EXTINF:-1 xui-id="586999" tvg-id="" tvg-name="|ES| LA SEXTA" tvg-logo="http://fanc.tmsimg.com/assets/s64649_ll_h3_ab.png" group-title="Espanha",|ES| LA SEXTA
+#EXTINF:-1 xui-id="586999" tvg-id="" tvg-name="|ES| LA SEXTA" tvg-logo="http://fanc.tmsimg.com/assets/s64649_ll_h3_ab.png" group-title="✳️ Espanha",|ES| LA SEXTA
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKt-FnNn9A6Ks6-zcyDzSoP8/ts
-#EXTINF:-1 xui-id="587000" tvg-id="" tvg-name="|ES| LA SEXTA HD" tvg-logo="http://fanc.tmsimg.com/assets/s97481_ll_h3_ab.png" group-title="Espanha",|ES| LA SEXTA HD
+#EXTINF:-1 xui-id="587000" tvg-id="" tvg-name="|ES| LA SEXTA HD" tvg-logo="http://fanc.tmsimg.com/assets/s97481_ll_h3_ab.png" group-title="✳️ Espanha",|ES| LA SEXTA HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgenlT-WP3SPu3LeGD_61Bo/ts
-#EXTINF:-1 xui-id="587001" tvg-id="" tvg-name="|ES| LA SEXTA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s97481_ll_h3_ab.png" group-title="Espanha",|ES| LA SEXTA FHD
+#EXTINF:-1 xui-id="587001" tvg-id="" tvg-name="|ES| LA SEXTA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s97481_ll_h3_ab.png" group-title="✳️ Espanha",|ES| LA SEXTA FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk94iR4PNwY-H2Aq4QRtOjw/ts
-#EXTINF:-1 xui-id="587002" tvg-id="" tvg-name="|ES| #0" tvg-logo="http://fanc.tmsimg.com/assets/s53804_ll_h3_aa.png" group-title="Espanha",|ES| #0
+#EXTINF:-1 xui-id="587002" tvg-id="" tvg-name="|ES| #0" tvg-logo="http://fanc.tmsimg.com/assets/s53804_ll_h3_aa.png" group-title="✳️ Espanha",|ES| #0
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsYPjk6fj66OhrSuTs0LDx4/ts
-#EXTINF:-1 xui-id="587003" tvg-id="" tvg-name="|ES| #0 HD" tvg-logo="http://fanc.tmsimg.com/assets/s86981_ll_h3_aa.png" group-title="Espanha",|ES| #0 HD
+#EXTINF:-1 xui-id="587003" tvg-id="" tvg-name="|ES| #0 HD" tvg-logo="http://fanc.tmsimg.com/assets/s86981_ll_h3_aa.png" group-title="✳️ Espanha",|ES| #0 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrHc7tdX4qn7A-YnR2R8olI/ts
-#EXTINF:-1 xui-id="587004" tvg-id="" tvg-name="|ES| #0 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s86981_ll_h3_aa.png" group-title="Espanha",|ES| #0 FHD
+#EXTINF:-1 xui-id="587004" tvg-id="" tvg-name="|ES| #0 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s86981_ll_h3_aa.png" group-title="✳️ Espanha",|ES| #0 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkXFfhLrPeMKlvWMxwN5gx8/ts
-#EXTINF:-1 xui-id="587005" tvg-id="" tvg-name="|ES| Star TVE" tvg-logo="http://fanc.tmsimg.com/assets/s106724_ll_h3_aa.png" group-title="Espanha",|ES| Star TVE
+#EXTINF:-1 xui-id="587005" tvg-id="" tvg-name="|ES| Star TVE" tvg-logo="http://fanc.tmsimg.com/assets/s106724_ll_h3_aa.png" group-title="✳️ Espanha",|ES| Star TVE
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuvPRXiHBmkUbDnoWEhPWXk/ts
-#EXTINF:-1 xui-id="587006" tvg-id="" tvg-name="|ES| Star TVE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s106724_ll_h3_aa.png" group-title="Espanha",|ES| Star TVE FHD
+#EXTINF:-1 xui-id="587006" tvg-id="" tvg-name="|ES| Star TVE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s106724_ll_h3_aa.png" group-title="✳️ Espanha",|ES| Star TVE FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhJdoNpjR-eRurkm1ObE8d4/ts
-#EXTINF:-1 xui-id="587007" tvg-id="" tvg-name="|ES| 24 HORAS" tvg-logo="https://i.postimg.cc/DZpP4qCq/1200px-Logo-TVE-24h-svg.png" group-title="Espanha",|ES| 24 HORAS
+#EXTINF:-1 xui-id="587007" tvg-id="" tvg-name="|ES| 24 HORAS" tvg-logo="https://i.postimg.cc/DZpP4qCq/1200px-Logo-TVE-24h-svg.png" group-title="✳️ Espanha",|ES| 24 HORAS
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpYCGyQH9Tkv7wXkChwUX9g/ts
-#EXTINF:-1 xui-id="587008" tvg-id="" tvg-name="|ES| 24 HORAS HD" tvg-logo="https://i.postimg.cc/DZpP4qCq/1200px-Logo-TVE-24h-svg.png" group-title="Espanha",|ES| 24 HORAS HD
+#EXTINF:-1 xui-id="587008" tvg-id="" tvg-name="|ES| 24 HORAS HD" tvg-logo="https://i.postimg.cc/DZpP4qCq/1200px-Logo-TVE-24h-svg.png" group-title="✳️ Espanha",|ES| 24 HORAS HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrrQPKcRPrM453Dp3gqIgCI/ts
-#EXTINF:-1 xui-id="587009" tvg-id="" tvg-name="|ES|  Euronews Espanol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-byV1OkPj8nJwAWqx7_dePhWtZNxJM_QHzwUk5Jilnw&s" group-title="Espanha",|ES|  Euronews Espanol
+#EXTINF:-1 xui-id="587009" tvg-id="" tvg-name="|ES|  Euronews Espanol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-byV1OkPj8nJwAWqx7_dePhWtZNxJM_QHzwUk5Jilnw&s" group-title="✳️ Espanha",|ES|  Euronews Espanol
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnjyhueTMDqXsaNMuGuuS4o/ts
-#EXTINF:-1 xui-id="587010" tvg-id="" tvg-name="|ES| DW Espanol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb3OPxFsFEXqt_g54RN_cRNf8nSIRSW0yPDpkh4hChBA&s" group-title="Espanha",|ES| DW Espanol
+#EXTINF:-1 xui-id="587010" tvg-id="" tvg-name="|ES| DW Espanol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb3OPxFsFEXqt_g54RN_cRNf8nSIRSW0yPDpkh4hChBA&s" group-title="✳️ Espanha",|ES| DW Espanol
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKha9pPd0jFVvRIJV-5RT1xo/ts
-#EXTINF:-1 xui-id="587011" tvg-id="" tvg-name="|ES|  ARAGON TV" tvg-logo="https://i.postimg.cc/zXZ8TnZS/Logo-aragon-tv-2016.png" group-title="Espanha",|ES|  ARAGON TV
+#EXTINF:-1 xui-id="587011" tvg-id="" tvg-name="|ES|  ARAGON TV" tvg-logo="https://i.postimg.cc/zXZ8TnZS/Logo-aragon-tv-2016.png" group-title="✳️ Espanha",|ES|  ARAGON TV
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhAI29UleMxCskmt3UPitKI/ts
-#EXTINF:-1 xui-id="587012" tvg-id="" tvg-name="|ES| TV3 CATALUNYA" tvg-logo="https://i.postimg.cc/Hs6JzZY1/1200px-TV3-svg.png" group-title="Espanha",|ES| TV3 CATALUNYA
+#EXTINF:-1 xui-id="587012" tvg-id="" tvg-name="|ES| TV3 CATALUNYA" tvg-logo="https://i.postimg.cc/Hs6JzZY1/1200px-TV3-svg.png" group-title="✳️ Espanha",|ES| TV3 CATALUNYA
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKm9vn1NTLLY0hhpvSmtHlqo/ts
-#EXTINF:-1 xui-id="587013" tvg-id="" tvg-name="|ES| CANAL SUR A." tvg-logo="https://i.postimg.cc/K8HKLxBg/120px-Canal-Sur-Televisi-n-2011-2017-logo-svg.png" group-title="Espanha",|ES| CANAL SUR A.
+#EXTINF:-1 xui-id="587013" tvg-id="" tvg-name="|ES| CANAL SUR A." tvg-logo="https://i.postimg.cc/K8HKLxBg/120px-Canal-Sur-Televisi-n-2011-2017-logo-svg.png" group-title="✳️ Espanha",|ES| CANAL SUR A.
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpDmuIwTjU0O4SPvKrKG1c0/ts
-#EXTINF:-1 xui-id="587014" tvg-id="" tvg-name="|ES| Canal 3/24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVbxl9wSqHxmJYWIR_T0jlCplKXIKXriPT4bqmaHMWw&s" group-title="Espanha",|ES| Canal 3/24
+#EXTINF:-1 xui-id="587014" tvg-id="" tvg-name="|ES| Canal 3/24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVbxl9wSqHxmJYWIR_T0jlCplKXIKXriPT4bqmaHMWw&s" group-title="✳️ Espanha",|ES| Canal 3/24
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkfoOqKgkRlrYIN-NSEQDUE/ts
-#EXTINF:-1 xui-id="587015" tvg-id="" tvg-name="|ES| TV Galiza HD" tvg-logo="https://i.postimg.cc/YCxnqmwx/1200px-Televisi-n-de-Galicia-Logo-svg.png" group-title="Espanha",|ES| TV Galiza HD
+#EXTINF:-1 xui-id="587015" tvg-id="" tvg-name="|ES| TV Galiza HD" tvg-logo="https://i.postimg.cc/YCxnqmwx/1200px-Televisi-n-de-Galicia-Logo-svg.png" group-title="✳️ Espanha",|ES| TV Galiza HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs08OYIX-3s03FOpiW_vfno/ts
-#EXTINF:-1 xui-id="587016" tvg-id="" tvg-name="|ES| FDF" tvg-logo="http://fanc.tmsimg.com/assets/s78991_ll_h3_aa.png" group-title="Espanha",|ES| FDF
+#EXTINF:-1 xui-id="587016" tvg-id="" tvg-name="|ES| FDF" tvg-logo="http://fanc.tmsimg.com/assets/s78991_ll_h3_aa.png" group-title="✳️ Espanha",|ES| FDF
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhmZzzIANoYct7ettR7wcQ8/ts
-#EXTINF:-1 xui-id="587017" tvg-id="" tvg-name="|ES| FDF FHD" tvg-logo="http://fanc.tmsimg.com/assets/s78991_ll_h3_aa.png" group-title="Espanha",|ES| FDF FHD
+#EXTINF:-1 xui-id="587017" tvg-id="" tvg-name="|ES| FDF FHD" tvg-logo="http://fanc.tmsimg.com/assets/s78991_ll_h3_aa.png" group-title="✳️ Espanha",|ES| FDF FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKstBZbX_5jbqozIViN1Lr3A/ts
-#EXTINF:-1 xui-id="587018" tvg-id="" tvg-name="|ES| BE MAD HD" tvg-logo="http://fanc.tmsimg.com/assets/s102848_ll_h3_aa.png" group-title="Espanha",|ES| BE MAD HD
+#EXTINF:-1 xui-id="587018" tvg-id="" tvg-name="|ES| BE MAD HD" tvg-logo="http://fanc.tmsimg.com/assets/s102848_ll_h3_aa.png" group-title="✳️ Espanha",|ES| BE MAD HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKt46wJ_cMbTz3n2UXaWBqfk/ts
-#EXTINF:-1 xui-id="587019" tvg-id="" tvg-name="|ES| BE MAD FHD" tvg-logo="http://fanc.tmsimg.com/assets/s102848_ll_h3_aa.png" group-title="Espanha",|ES| BE MAD FHD
+#EXTINF:-1 xui-id="587019" tvg-id="" tvg-name="|ES| BE MAD FHD" tvg-logo="http://fanc.tmsimg.com/assets/s102848_ll_h3_aa.png" group-title="✳️ Espanha",|ES| BE MAD FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqJA7OljJA9rVQxWWjATz7I/ts
-#EXTINF:-1 xui-id="587020" tvg-id="" tvg-name="|ES| M Fest HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/MFEST.png" group-title="Espanha",|ES| M Fest HD
+#EXTINF:-1 xui-id="587020" tvg-id="" tvg-name="|ES| M Fest HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/MFEST.png" group-title="✳️ Espanha",|ES| M Fest HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuuKgML0MQ2Q9-V_8cVTKvA/ts
-#EXTINF:-1 xui-id="587021" tvg-id="" tvg-name="|ES| M Fest FHD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/MFEST.png" group-title="Espanha",|ES| M Fest FHD
+#EXTINF:-1 xui-id="587021" tvg-id="" tvg-name="|ES| M Fest FHD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/MFEST.png" group-title="✳️ Espanha",|ES| M Fest FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsf1v-xISbaz35Z8iOJ6DYc/ts
-#EXTINF:-1 xui-id="587022" tvg-id="" tvg-name="|ES| DMAX" tvg-logo="http://fanc.tmsimg.com/assets/s90316_ll_h3_aa.png" group-title="Espanha",|ES| DMAX
+#EXTINF:-1 xui-id="587022" tvg-id="" tvg-name="|ES| DMAX" tvg-logo="http://fanc.tmsimg.com/assets/s90316_ll_h3_aa.png" group-title="✳️ Espanha",|ES| DMAX
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKm3vzEkC1frpZerk2e9LfsE/ts
-#EXTINF:-1 xui-id="587023" tvg-id="" tvg-name="|ES| DKISS" tvg-logo="http://fanc.tmsimg.com/assets/s99862_ll_h3_aa.png" group-title="Espanha",|ES| DKISS
+#EXTINF:-1 xui-id="587023" tvg-id="" tvg-name="|ES| DKISS" tvg-logo="http://fanc.tmsimg.com/assets/s99862_ll_h3_aa.png" group-title="✳️ Espanha",|ES| DKISS
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKru1XyVIKrlqTB82j_OjHZs/ts
-#EXTINF:-1 xui-id="587024" tvg-id="" tvg-name="|ES| DIVINITY" tvg-logo="https://i.postimg.cc/BQZxg1Gk/25738-logo-de-divinity.png" group-title="Espanha",|ES| DIVINITY
+#EXTINF:-1 xui-id="587024" tvg-id="" tvg-name="|ES| DIVINITY" tvg-logo="https://i.postimg.cc/BQZxg1Gk/25738-logo-de-divinity.png" group-title="✳️ Espanha",|ES| DIVINITY
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjlPoy6LFOZmAzjtd2IDyGQ/ts
-#EXTINF:-1 xui-id="587025" tvg-id="" tvg-name="|ES| ENERGY" tvg-logo="https://i.postimg.cc/0Qt4N1Gy/image.png" group-title="Espanha",|ES| ENERGY
+#EXTINF:-1 xui-id="587025" tvg-id="" tvg-name="|ES| ENERGY" tvg-logo="https://i.postimg.cc/0Qt4N1Gy/image.png" group-title="✳️ Espanha",|ES| ENERGY
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuEjZAsCJGnKs-wjy4goYXI/ts
-#EXTINF:-1 xui-id="587026" tvg-id="" tvg-name="|ES| IBERALIA TV" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/IBERALIA.png" group-title="Espanha",|ES| IBERALIA TV
+#EXTINF:-1 xui-id="587026" tvg-id="" tvg-name="|ES| IBERALIA TV" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/IBERALIA.png" group-title="✳️ Espanha",|ES| IBERALIA TV
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjo0CcPCS8CZCj9yhQUQclI/ts
-#EXTINF:-1 xui-id="587027" tvg-id="" tvg-name="|ES| NOVA" tvg-logo="http://fanc.tmsimg.com/assets/s81786_ll_h3_aa.png" group-title="Espanha",|ES| NOVA
+#EXTINF:-1 xui-id="587027" tvg-id="" tvg-name="|ES| NOVA" tvg-logo="http://fanc.tmsimg.com/assets/s81786_ll_h3_aa.png" group-title="✳️ Espanha",|ES| NOVA
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqjU_0FrAYuE1HTwl7qWAW4/ts
-#EXTINF:-1 xui-id="587028" tvg-id="" tvg-name="|ES| Mega" tvg-logo="https://i.postimg.cc/SNWxJg5p/Mega-2015-n-v.png" group-title="Espanha",|ES| Mega
+#EXTINF:-1 xui-id="587028" tvg-id="" tvg-name="|ES| Mega" tvg-logo="https://i.postimg.cc/SNWxJg5p/Mega-2015-n-v.png" group-title="✳️ Espanha",|ES| Mega
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp_tZq0FpvNz7bwXiXkwzzI/ts
-#EXTINF:-1 xui-id="587029" tvg-id="" tvg-name="|ES| NEOX" tvg-logo="http://fanc.tmsimg.com/assets/s78990_ll_h3_ab.png" group-title="Espanha",|ES| NEOX
+#EXTINF:-1 xui-id="587029" tvg-id="" tvg-name="|ES| NEOX" tvg-logo="http://fanc.tmsimg.com/assets/s78990_ll_h3_ab.png" group-title="✳️ Espanha",|ES| NEOX
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg1XE_T0HLpVrB_xYYP3CAw/ts
-#EXTINF:-1 xui-id="587030" tvg-id="" tvg-name="|ES| NEOX HD" tvg-logo="http://fanc.tmsimg.com/assets/s102754_ll_h3_aa.png" group-title="Espanha",|ES| NEOX HD
+#EXTINF:-1 xui-id="587030" tvg-id="" tvg-name="|ES| NEOX HD" tvg-logo="http://fanc.tmsimg.com/assets/s102754_ll_h3_aa.png" group-title="✳️ Espanha",|ES| NEOX HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKixc_Twoi3kEHIm0J3U283c/ts
-#EXTINF:-1 xui-id="587031" tvg-id="" tvg-name="|ES| CANAL DECASA" tvg-logo="http://fanc.tmsimg.com/assets/s87012_h3_aa.png" group-title="Espanha",|ES| CANAL DECASA
+#EXTINF:-1 xui-id="587031" tvg-id="" tvg-name="|ES| CANAL DECASA" tvg-logo="http://fanc.tmsimg.com/assets/s87012_h3_aa.png" group-title="✳️ Espanha",|ES| CANAL DECASA
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoCLWi-mqDOQ4PISyIog9U8/ts
-#EXTINF:-1 xui-id="587032" tvg-id="" tvg-name="|ES| CANAL DECASA HD" tvg-logo="http://fanc.tmsimg.com/assets/s102745_h3_aa.png" group-title="Espanha",|ES| CANAL DECASA HD
+#EXTINF:-1 xui-id="587032" tvg-id="" tvg-name="|ES| CANAL DECASA HD" tvg-logo="http://fanc.tmsimg.com/assets/s102745_h3_aa.png" group-title="✳️ Espanha",|ES| CANAL DECASA HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKij-G_MTwsAot1BCq4WMepg/ts
-#EXTINF:-1 xui-id="587033" tvg-id="" tvg-name="|ES| CANAL COCINA" tvg-logo="http://fanc.tmsimg.com/assets/s90332_ll_h3_aa.png" group-title="Espanha",|ES| CANAL COCINA
+#EXTINF:-1 xui-id="587033" tvg-id="" tvg-name="|ES| CANAL COCINA" tvg-logo="http://fanc.tmsimg.com/assets/s90332_ll_h3_aa.png" group-title="✳️ Espanha",|ES| CANAL COCINA
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtaeF5bw6cVUb90Zxpp9xEE/ts
-#EXTINF:-1 xui-id="587034" tvg-id="" tvg-name="|ES| CANAL COCINA HD" tvg-logo="http://fanc.tmsimg.com/assets/s90332_ll_h3_aa.png" group-title="Espanha",|ES| CANAL COCINA HD
+#EXTINF:-1 xui-id="587034" tvg-id="" tvg-name="|ES| CANAL COCINA HD" tvg-logo="http://fanc.tmsimg.com/assets/s90332_ll_h3_aa.png" group-title="✳️ Espanha",|ES| CANAL COCINA HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqv3sY_4JivMau1fCYuBcfE/ts
-#EXTINF:-1 xui-id="587035" tvg-id="" tvg-name="|ES| COSMO HD" tvg-logo="https://i.postimg.cc/pXcyNsmQ/1200px-Cosmo-TV-logo-svg.png" group-title="Espanha",|ES| COSMO HD
+#EXTINF:-1 xui-id="587035" tvg-id="" tvg-name="|ES| COSMO HD" tvg-logo="https://i.postimg.cc/pXcyNsmQ/1200px-Cosmo-TV-logo-svg.png" group-title="✳️ Espanha",|ES| COSMO HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj4Rnnmq3FxuOMjn1hBbQw4/ts
-#EXTINF:-1 xui-id="587036" tvg-id="" tvg-name="|ES| COSMO FHD" tvg-logo="https://i.postimg.cc/pXcyNsmQ/1200px-Cosmo-TV-logo-svg.png" group-title="Espanha",|ES| COSMO FHD
+#EXTINF:-1 xui-id="587036" tvg-id="" tvg-name="|ES| COSMO FHD" tvg-logo="https://i.postimg.cc/pXcyNsmQ/1200px-Cosmo-TV-logo-svg.png" group-title="✳️ Espanha",|ES| COSMO FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiOr5YC6wIL-FwBZay7MT8s/ts
-#EXTINF:-1 xui-id="587037" tvg-id="" tvg-name="|ES| AMC" tvg-logo="https://i.postimg.cc/tT174P8Z/1280px-AMC-logo-2019-svg.png" group-title="Espanha",|ES| AMC
+#EXTINF:-1 xui-id="587037" tvg-id="" tvg-name="|ES| AMC" tvg-logo="https://i.postimg.cc/tT174P8Z/1280px-AMC-logo-2019-svg.png" group-title="✳️ Espanha",|ES| AMC
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkPhSgNYJ4oF2z9-HOx6AEE/ts
-#EXTINF:-1 xui-id="587038" tvg-id="" tvg-name="|ES| AMC HD" tvg-logo="https://i.postimg.cc/tT174P8Z/1280px-AMC-logo-2019-svg.png" group-title="Espanha",|ES| AMC HD
+#EXTINF:-1 xui-id="587038" tvg-id="" tvg-name="|ES| AMC HD" tvg-logo="https://i.postimg.cc/tT174P8Z/1280px-AMC-logo-2019-svg.png" group-title="✳️ Espanha",|ES| AMC HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjP6s3r_KnTw70xj7UBiBS4/ts
-#EXTINF:-1 xui-id="587039" tvg-id="" tvg-name="|ES| AMC FHD" tvg-logo="https://i.postimg.cc/tT174P8Z/1280px-AMC-logo-2019-svg.png" group-title="Espanha",|ES| AMC FHD
+#EXTINF:-1 xui-id="587039" tvg-id="" tvg-name="|ES| AMC FHD" tvg-logo="https://i.postimg.cc/tT174P8Z/1280px-AMC-logo-2019-svg.png" group-title="✳️ Espanha",|ES| AMC FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKszy8Jlyk2pdLe4pilgr2LQ/ts
-#EXTINF:-1 xui-id="587040" tvg-id="" tvg-name="|ES| CALLE 13 HD" tvg-logo="https://i.postimg.cc/jjkdmXZw/png-clipart-13th-street-universal-television-channel-television-show-others-television-text-thumbnai.png" group-title="Espanha",|ES| CALLE 13 HD
+#EXTINF:-1 xui-id="587040" tvg-id="" tvg-name="|ES| CALLE 13 HD" tvg-logo="https://i.postimg.cc/jjkdmXZw/png-clipart-13th-street-universal-television-channel-television-show-others-television-text-thumbnai.png" group-title="✳️ Espanha",|ES| CALLE 13 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKheGjbtn2JZXskxIdYMchdI/ts
-#EXTINF:-1 xui-id="587041" tvg-id="" tvg-name="|ES| CALLE 13 FHD" tvg-logo="https://i.postimg.cc/jjkdmXZw/png-clipart-13th-street-universal-television-channel-television-show-others-television-text-thumbnai.png" group-title="Espanha",|ES| CALLE 13 FHD
+#EXTINF:-1 xui-id="587041" tvg-id="" tvg-name="|ES| CALLE 13 FHD" tvg-logo="https://i.postimg.cc/jjkdmXZw/png-clipart-13th-street-universal-television-channel-television-show-others-television-text-thumbnai.png" group-title="✳️ Espanha",|ES| CALLE 13 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpO1ZjyDc7IN0jGnL93zCKI/ts
-#EXTINF:-1 xui-id="587042" tvg-id="" tvg-name="|ES| AXN" tvg-logo="https://i.postimg.cc/ZRj48q3P/1200px-AXN-logo-2015-svg.png" group-title="Espanha",|ES| AXN
+#EXTINF:-1 xui-id="587042" tvg-id="" tvg-name="|ES| AXN" tvg-logo="https://i.postimg.cc/ZRj48q3P/1200px-AXN-logo-2015-svg.png" group-title="✳️ Espanha",|ES| AXN
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiha1uxkqjZmfXceHlcyD8A/ts
-#EXTINF:-1 xui-id="587043" tvg-id="" tvg-name="|ES| AXN HD" tvg-logo="https://i.postimg.cc/ZRj48q3P/1200px-AXN-logo-2015-svg.png" group-title="Espanha",|ES| AXN HD
+#EXTINF:-1 xui-id="587043" tvg-id="" tvg-name="|ES| AXN HD" tvg-logo="https://i.postimg.cc/ZRj48q3P/1200px-AXN-logo-2015-svg.png" group-title="✳️ Espanha",|ES| AXN HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKin1tehJTCYJsIWK5PZ8PS0/ts
-#EXTINF:-1 xui-id="587044" tvg-id="" tvg-name="|ES| AXN FHD" tvg-logo="https://i.postimg.cc/ZRj48q3P/1200px-AXN-logo-2015-svg.png" group-title="Espanha",|ES| AXN FHD
+#EXTINF:-1 xui-id="587044" tvg-id="" tvg-name="|ES| AXN FHD" tvg-logo="https://i.postimg.cc/ZRj48q3P/1200px-AXN-logo-2015-svg.png" group-title="✳️ Espanha",|ES| AXN FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKudvuzg--UBhUTjCjFr5pQU/ts
-#EXTINF:-1 xui-id="587045" tvg-id="" tvg-name="|ES| AXN WHITE HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-WHITE-HD(1).png" group-title="Espanha",|ES| AXN WHITE HD
+#EXTINF:-1 xui-id="587045" tvg-id="" tvg-name="|ES| AXN WHITE HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-WHITE-HD(1).png" group-title="✳️ Espanha",|ES| AXN WHITE HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKn3WxJZGHgVEcY2RB0a496Q/ts
-#EXTINF:-1 xui-id="587046" tvg-id="" tvg-name="|ES| AXN WHITE FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-WHITE-HD(1).png" group-title="Espanha",|ES| AXN WHITE FHD
+#EXTINF:-1 xui-id="587046" tvg-id="" tvg-name="|ES| AXN WHITE FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-WHITE-HD(1).png" group-title="✳️ Espanha",|ES| AXN WHITE FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlwl_l4oQ0pT1D1FsMJL4qI/ts
-#EXTINF:-1 xui-id="587047" tvg-id="" tvg-name="|ES| FOX" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="Espanha",|ES| FOX
+#EXTINF:-1 xui-id="587047" tvg-id="" tvg-name="|ES| FOX" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="✳️ Espanha",|ES| FOX
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtSclyqo76SPF0btY1mhQVE/ts
-#EXTINF:-1 xui-id="587048" tvg-id="" tvg-name="|ES| FOX HD" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="Espanha",|ES| FOX HD
+#EXTINF:-1 xui-id="587048" tvg-id="" tvg-name="|ES| FOX HD" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="✳️ Espanha",|ES| FOX HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKh78NHzc9DMF4LnXla0raTs/ts
-#EXTINF:-1 xui-id="587049" tvg-id="" tvg-name="|ES| FOX FHD" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="Espanha",|ES| FOX FHD
+#EXTINF:-1 xui-id="587049" tvg-id="" tvg-name="|ES| FOX FHD" tvg-logo="https://i.postimg.cc/k5b2vWXQ/FOX-ESPA-A-LOGO.png" group-title="✳️ Espanha",|ES| FOX FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuDB9ebz2thXvDyvd-TeaAo/ts
-#EXTINF:-1 xui-id="587050" tvg-id="" tvg-name="|ES| COMEDY CENTRAL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s100848_ll_h3_ac.png" group-title="Espanha",|ES| COMEDY CENTRAL FHD
+#EXTINF:-1 xui-id="587050" tvg-id="" tvg-name="|ES| COMEDY CENTRAL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s100848_ll_h3_ac.png" group-title="✳️ Espanha",|ES| COMEDY CENTRAL FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkAJxOoHegL7raRe1IRzuvk/ts
-#EXTINF:-1 xui-id="587051" tvg-id="" tvg-name="|ES| COMEDY CENTRAL HD" tvg-logo="http://fanc.tmsimg.com/assets/s100848_ll_h3_ac.png" group-title="Espanha",|ES| COMEDY CENTRAL HD
+#EXTINF:-1 xui-id="587051" tvg-id="" tvg-name="|ES| COMEDY CENTRAL HD" tvg-logo="http://fanc.tmsimg.com/assets/s100848_ll_h3_ac.png" group-title="✳️ Espanha",|ES| COMEDY CENTRAL HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjHbl9RhQ_f4Y1ow6TYLjaE/ts
-#EXTINF:-1 xui-id="587052" tvg-id="" tvg-name="|ES| HOLLYWOOD" tvg-logo="https://i.postimg.cc/C1vCWjkR/Chollywood.png" group-title="Espanha",|ES| HOLLYWOOD
+#EXTINF:-1 xui-id="587052" tvg-id="" tvg-name="|ES| HOLLYWOOD" tvg-logo="https://i.postimg.cc/C1vCWjkR/Chollywood.png" group-title="✳️ Espanha",|ES| HOLLYWOOD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKga-a6X7-hUHGls5MfWYPoI/ts
-#EXTINF:-1 xui-id="587053" tvg-id="" tvg-name="|ES| HOLLYWOOD HD" tvg-logo="https://i.postimg.cc/C1vCWjkR/Chollywood.png" group-title="Espanha",|ES| HOLLYWOOD HD
+#EXTINF:-1 xui-id="587053" tvg-id="" tvg-name="|ES| HOLLYWOOD HD" tvg-logo="https://i.postimg.cc/C1vCWjkR/Chollywood.png" group-title="✳️ Espanha",|ES| HOLLYWOOD HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj2ljxUBaAh6SA7rXoTty6o/ts
-#EXTINF:-1 xui-id="587054" tvg-id="" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="https://i.postimg.cc/C1vCWjkR/Chollywood.png" group-title="Espanha",|ES| HOLLYWOOD FHD
+#EXTINF:-1 xui-id="587054" tvg-id="" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="https://i.postimg.cc/C1vCWjkR/Chollywood.png" group-title="✳️ Espanha",|ES| HOLLYWOOD FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpdDMnCXHTE4st8RhJTyVa8/ts
-#EXTINF:-1 xui-id="587055" tvg-id="" tvg-name="|ES| TCM HD" tvg-logo="https://i.postimg.cc/d0DJ2Cwq/Turner-Classic-Movies-TCM-Latin-America-2015-logo.png" group-title="Espanha",|ES| TCM HD
+#EXTINF:-1 xui-id="587055" tvg-id="" tvg-name="|ES| TCM HD" tvg-logo="https://i.postimg.cc/d0DJ2Cwq/Turner-Classic-Movies-TCM-Latin-America-2015-logo.png" group-title="✳️ Espanha",|ES| TCM HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoGu8H-9F_RXtqRc2N2bqgY/ts
-#EXTINF:-1 xui-id="587056" tvg-id="" tvg-name="|ES| TCM FHD" tvg-logo="https://i.postimg.cc/d0DJ2Cwq/Turner-Classic-Movies-TCM-Latin-America-2015-logo.png" group-title="Espanha",|ES| TCM FHD
+#EXTINF:-1 xui-id="587056" tvg-id="" tvg-name="|ES| TCM FHD" tvg-logo="https://i.postimg.cc/d0DJ2Cwq/Turner-Classic-Movies-TCM-Latin-America-2015-logo.png" group-title="✳️ Espanha",|ES| TCM FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjwbEYf6en5RXfz0t8W_uCQ/ts
-#EXTINF:-1 xui-id="587057" tvg-id="" tvg-name="|ES| TNT HD" tvg-logo="https://i.postimg.cc/5Nq9b1sM/1200px-TNT-Logo-2016-svg.png" group-title="Espanha",|ES| TNT HD
+#EXTINF:-1 xui-id="587057" tvg-id="" tvg-name="|ES| TNT HD" tvg-logo="https://i.postimg.cc/5Nq9b1sM/1200px-TNT-Logo-2016-svg.png" group-title="✳️ Espanha",|ES| TNT HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhnv9FDa92xHIwFG7Z16l4I/ts
-#EXTINF:-1 xui-id="587058" tvg-id="" tvg-name="|ES| TNT FHD" tvg-logo="https://i.postimg.cc/5Nq9b1sM/1200px-TNT-Logo-2016-svg.png" group-title="Espanha",|ES| TNT FHD
+#EXTINF:-1 xui-id="587058" tvg-id="" tvg-name="|ES| TNT FHD" tvg-logo="https://i.postimg.cc/5Nq9b1sM/1200px-TNT-Logo-2016-svg.png" group-title="✳️ Espanha",|ES| TNT FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpfhbe4qjHizra8d2fUyHzw/ts
-#EXTINF:-1 xui-id="587059" tvg-id="" tvg-name="|ES| SYFY HD" tvg-logo="https://i.postimg.cc/jSs5JBGr/2560px-SYFY-svg.png" group-title="Espanha",|ES| SYFY HD
+#EXTINF:-1 xui-id="587059" tvg-id="" tvg-name="|ES| SYFY HD" tvg-logo="https://i.postimg.cc/jSs5JBGr/2560px-SYFY-svg.png" group-title="✳️ Espanha",|ES| SYFY HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKt8A0oKIOqid_8SbHXOpSkU/ts
-#EXTINF:-1 xui-id="587060" tvg-id="" tvg-name="|ES| SYFY FHD" tvg-logo="https://i.postimg.cc/jSs5JBGr/2560px-SYFY-svg.png" group-title="Espanha",|ES| SYFY FHD
+#EXTINF:-1 xui-id="587060" tvg-id="" tvg-name="|ES| SYFY FHD" tvg-logo="https://i.postimg.cc/jSs5JBGr/2560px-SYFY-svg.png" group-title="✳️ Espanha",|ES| SYFY FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiwy8EfS9xHR6War9GVydfE/ts
-#EXTINF:-1 xui-id="587061" tvg-id="" tvg-name="|ES| M. ACCI©N" tvg-logo="http://fanc.tmsimg.com/assets/s86942_ll_h3_aa.png" group-title="Espanha",|ES| M. ACCI©N
+#EXTINF:-1 xui-id="587061" tvg-id="" tvg-name="|ES| M. ACCI©N" tvg-logo="http://fanc.tmsimg.com/assets/s86942_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. ACCI©N
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmRc4wkeSGkntsdaAoekjH0/ts
-#EXTINF:-1 xui-id="587062" tvg-id="" tvg-name="|ES| M. ACCI©N HD" tvg-logo="http://fanc.tmsimg.com/assets/s91183_ll_h3_aa.png" group-title="Espanha",|ES| M. ACCI©N HD
+#EXTINF:-1 xui-id="587062" tvg-id="" tvg-name="|ES| M. ACCI©N HD" tvg-logo="http://fanc.tmsimg.com/assets/s91183_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. ACCI©N HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmVCBbe4Cb3a26jAPTwG_i4/ts
-#EXTINF:-1 xui-id="587063" tvg-id="" tvg-name="|ES| M. ACCI©N FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91183_ll_h3_aa.png" group-title="Espanha",|ES| M. ACCI©N FHD
+#EXTINF:-1 xui-id="587063" tvg-id="" tvg-name="|ES| M. ACCI©N FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91183_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. ACCI©N FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgXTDFXmxRfiy6CeDZjJQhM/ts
-#EXTINF:-1 xui-id="587064" tvg-id="" tvg-name="|ES| M. COMEDIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s86943_ll_h3_ab.png" group-title="Espanha",|ES| M. COMEDIA HD
+#EXTINF:-1 xui-id="587064" tvg-id="" tvg-name="|ES| M. COMEDIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s86943_ll_h3_ab.png" group-title="✳️ Espanha",|ES| M. COMEDIA HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKogDBw-qjfYVM-iuWYZmA2w/ts
-#EXTINF:-1 xui-id="587065" tvg-id="" tvg-name="|ES| M.COMEDIA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s86943_ll_h3_ab.png" group-title="Espanha",|ES| M.COMEDIA FHD
+#EXTINF:-1 xui-id="587065" tvg-id="" tvg-name="|ES| M.COMEDIA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s86943_ll_h3_ab.png" group-title="✳️ Espanha",|ES| M.COMEDIA FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp7w_x4JiaC_H5luJna1yDk/ts
-#EXTINF:-1 xui-id="587066" tvg-id="" tvg-name="|ES| M. DRAMA HD" tvg-logo="http://fanc.tmsimg.com/assets/s87011_ll_h3_aa.png" group-title="Espanha",|ES| M. DRAMA HD
+#EXTINF:-1 xui-id="587066" tvg-id="" tvg-name="|ES| M. DRAMA HD" tvg-logo="http://fanc.tmsimg.com/assets/s87011_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. DRAMA HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtrH10LSAdgvSJhJaVfSOtw/ts
-#EXTINF:-1 xui-id="587067" tvg-id="" tvg-name="|ES| M. DRAMA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87011_ll_h3_aa.png" group-title="Espanha",|ES| M. DRAMA FHD
+#EXTINF:-1 xui-id="587067" tvg-id="" tvg-name="|ES| M. DRAMA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87011_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. DRAMA FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgBILTKdOKqlaLfQWyMTGow/ts
-#EXTINF:-1 xui-id="587068" tvg-id="" tvg-name="|ES| M. ESTRENOS HD" tvg-logo="http://fanc.tmsimg.com/assets/s102940_ll_h3_aa.png" group-title="Espanha",|ES| M. ESTRENOS HD
+#EXTINF:-1 xui-id="587068" tvg-id="" tvg-name="|ES| M. ESTRENOS HD" tvg-logo="http://fanc.tmsimg.com/assets/s102940_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. ESTRENOS HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKopFus5rjzBgXjm6JtuJNmk/ts
-#EXTINF:-1 xui-id="587069" tvg-id="" tvg-name="|ES| M.ESTRENOS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s96397_ll_h3_aa.png" group-title="Espanha",|ES| M.ESTRENOS FHD
+#EXTINF:-1 xui-id="587069" tvg-id="" tvg-name="|ES| M.ESTRENOS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s96397_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M.ESTRENOS FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlnOMdsiK9AqcrHd5UWmawA/ts
-#EXTINF:-1 xui-id="587070" tvg-id="" tvg-name="|ES| M. Estrenos 2 HD" tvg-logo="https://i.postimg.cc/63VgRbkD/1366-2000.png" group-title="Espanha",|ES| M. Estrenos 2 HD
+#EXTINF:-1 xui-id="587070" tvg-id="" tvg-name="|ES| M. Estrenos 2 HD" tvg-logo="https://i.postimg.cc/63VgRbkD/1366-2000.png" group-title="✳️ Espanha",|ES| M. Estrenos 2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnfiTmOkSSkDLLwYtooeQTo/ts
-#EXTINF:-1 xui-id="587071" tvg-id="" tvg-name="|ES| M. Estrenos 2 FHD" tvg-logo="https://i.postimg.cc/63VgRbkD/1366-2000.png" group-title="Espanha",|ES| M. Estrenos 2 FHD
+#EXTINF:-1 xui-id="587071" tvg-id="" tvg-name="|ES| M. Estrenos 2 FHD" tvg-logo="https://i.postimg.cc/63VgRbkD/1366-2000.png" group-title="✳️ Espanha",|ES| M. Estrenos 2 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrSQSdyK-c-B4heOqZXlpUc/ts
-#EXTINF:-1 xui-id="587072" tvg-id="" tvg-name="|ES| M. Classicos HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Movistar-Cl%c3%a1sicos.png" group-title="Espanha",|ES| M. Classicos HD
+#EXTINF:-1 xui-id="587072" tvg-id="" tvg-name="|ES| M. Classicos HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Movistar-Cl%c3%a1sicos.png" group-title="✳️ Espanha",|ES| M. Classicos HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpRb44X1h-o1RbFyOK9CqlM/ts
-#EXTINF:-1 xui-id="587073" tvg-id="" tvg-name="|ES| M. Cine Español HD" tvg-logo="http://fanc.tmsimg.com/assets/s86948_ll_h3_ab.png" group-title="Espanha",|ES| M. Cine Español HD
+#EXTINF:-1 xui-id="587073" tvg-id="" tvg-name="|ES| M. Cine Español HD" tvg-logo="http://fanc.tmsimg.com/assets/s86948_ll_h3_ab.png" group-title="✳️ Espanha",|ES| M. Cine Español HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqdiRKjFKO6KBBS8Rs3sNWg/ts
-#EXTINF:-1 xui-id="587074" tvg-id="" tvg-name="|ES| M. SERIES HD" tvg-logo="http://fanc.tmsimg.com/assets/s91195_ll_h3_aa.png" group-title="Espanha",|ES| M. SERIES HD
+#EXTINF:-1 xui-id="587074" tvg-id="" tvg-name="|ES| M. SERIES HD" tvg-logo="http://fanc.tmsimg.com/assets/s91195_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. SERIES HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhan-Zqd3qNBOzKUHMfUn4A/ts
-#EXTINF:-1 xui-id="587075" tvg-id="" tvg-name="|ES| M.Series  FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91195_ll_h3_aa.png" group-title="Espanha",|ES| M.Series  FHD
+#EXTINF:-1 xui-id="587075" tvg-id="" tvg-name="|ES| M.Series  FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91195_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M.Series  FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnuHiugFAYPEkfB2nNfE3ww/ts
-#EXTINF:-1 xui-id="587076" tvg-id="" tvg-name="|ES| M. SERIES 2 HD" tvg-logo="https://i.postimg.cc/h472QYBv/1200px-Movistar-Series-svg.png" group-title="Espanha",|ES| M. SERIES 2 HD
+#EXTINF:-1 xui-id="587076" tvg-id="" tvg-name="|ES| M. SERIES 2 HD" tvg-logo="https://i.postimg.cc/h472QYBv/1200px-Movistar-Series-svg.png" group-title="✳️ Espanha",|ES| M. SERIES 2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrPNM-YsMuW25YgcHx-cT6I/ts
-#EXTINF:-1 xui-id="587077" tvg-id="" tvg-name="|ES| M. SERIES 2 FHD" tvg-logo="https://i.postimg.cc/h472QYBv/1200px-Movistar-Series-svg.png" group-title="Espanha",|ES| M. SERIES 2 FHD
+#EXTINF:-1 xui-id="587077" tvg-id="" tvg-name="|ES| M. SERIES 2 FHD" tvg-logo="https://i.postimg.cc/h472QYBv/1200px-Movistar-Series-svg.png" group-title="✳️ Espanha",|ES| M. SERIES 2 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk4qEwTwGz9zaa5Sgx4sdzk/ts
-#EXTINF:-1 xui-id="587078" tvg-id="" tvg-name="|ES| SUNDANCE TV HD" tvg-logo="https://i.postimg.cc/c6yYfTf8/sundance-placeholder-16x9.png" group-title="Espanha",|ES| SUNDANCE TV HD
+#EXTINF:-1 xui-id="587078" tvg-id="" tvg-name="|ES| SUNDANCE TV HD" tvg-logo="https://i.postimg.cc/c6yYfTf8/sundance-placeholder-16x9.png" group-title="✳️ Espanha",|ES| SUNDANCE TV HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhxy5N1kly2dTpCrLs1jyvM/ts
-#EXTINF:-1 xui-id="587079" tvg-id="" tvg-name="|ES| PARAMOUNT" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="Espanha",|ES| PARAMOUNT
+#EXTINF:-1 xui-id="587079" tvg-id="" tvg-name="|ES| PARAMOUNT" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="✳️ Espanha",|ES| PARAMOUNT
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpgKFI5jeeDVVhdDWGXtYN0/ts
-#EXTINF:-1 xui-id="587080" tvg-id="" tvg-name="|ES| A3 Series HD" tvg-logo="https://i.postimg.cc/d0Mxx964/Atreseries-Logo-svg.png" group-title="Espanha",|ES| A3 Series HD
+#EXTINF:-1 xui-id="587080" tvg-id="" tvg-name="|ES| A3 Series HD" tvg-logo="https://i.postimg.cc/d0Mxx964/Atreseries-Logo-svg.png" group-title="✳️ Espanha",|ES| A3 Series HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKidL0-HBeeiFegM6ZhIR_1w/ts
-#EXTINF:-1 xui-id="587081" tvg-id="" tvg-name="|ES| A3 Series FHD" tvg-logo="https://i.postimg.cc/d0Mxx964/Atreseries-Logo-svg.png" group-title="Espanha",|ES| A3 Series FHD
+#EXTINF:-1 xui-id="587081" tvg-id="" tvg-name="|ES| A3 Series FHD" tvg-logo="https://i.postimg.cc/d0Mxx964/Atreseries-Logo-svg.png" group-title="✳️ Espanha",|ES| A3 Series FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrkKD5hHGMaBuRoYvPUvB7U/ts
-#EXTINF:-1 xui-id="587082" tvg-id="" tvg-name="|ES| DARK" tvg-logo="http://fanc.tmsimg.com/assets/s90324_ll_h3_aa.png" group-title="Espanha",|ES| DARK
+#EXTINF:-1 xui-id="587082" tvg-id="" tvg-name="|ES| DARK" tvg-logo="http://fanc.tmsimg.com/assets/s90324_ll_h3_aa.png" group-title="✳️ Espanha",|ES| DARK
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnE9zQHvTxHqODd-vuzFOYo/ts
-#EXTINF:-1 xui-id="587083" tvg-id="" tvg-name="|ES| XTRM HD" tvg-logo="https://cm-ihttp://betaone.enjoysat.biz:8282/tacos/bsjM6Nanzh/10346nter.xyz/Logos/SPAIN/XTRM.png" group-title="Espanha",|ES| XTRM HD
+#EXTINF:-1 xui-id="587083" tvg-id="" tvg-name="|ES| XTRM HD" tvg-logo="https://cm-ihttp://betaone.enjoysat.biz:8282/tacos/bsjM6Nanzh/10346nter.xyz/Logos/SPAIN/XTRM.png" group-title="✳️ Espanha",|ES| XTRM HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkttNAUuo8nptuvdj6oz-sU/ts
-#EXTINF:-1 xui-id="587084" tvg-id="" tvg-name="|ES| SOMOS" tvg-logo="http://fanc.tmsimg.com/assets/s90363_ll_h3_aa.png" group-title="Espanha",|ES| SOMOS
+#EXTINF:-1 xui-id="587084" tvg-id="" tvg-name="|ES| SOMOS" tvg-logo="http://fanc.tmsimg.com/assets/s90363_ll_h3_aa.png" group-title="✳️ Espanha",|ES| SOMOS
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgLQfSSwVK7YDM2kP0bzd5o/ts
-#EXTINF:-1 xui-id="587085" tvg-id="" tvg-name="|ES| #VAMOS" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/32/06/62/5116653309927620632_1.png" group-title="Espanha",|ES| #VAMOS
+#EXTINF:-1 xui-id="587085" tvg-id="" tvg-name="|ES| #VAMOS" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/32/06/62/5116653309927620632_1.png" group-title="✳️ Espanha",|ES| #VAMOS
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhzM1EvM0kmVg8oz7-f6204/ts
-#EXTINF:-1 xui-id="587086" tvg-id="" tvg-name="|ES| #VAMOS HD" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/32/06/62/5116653309927620632_1.png" group-title="Espanha",|ES| #VAMOS HD
+#EXTINF:-1 xui-id="587086" tvg-id="" tvg-name="|ES| #VAMOS HD" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/32/06/62/5116653309927620632_1.png" group-title="✳️ Espanha",|ES| #VAMOS HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKh4jVGIRaL5AHVwECae2Q7w/ts
-#EXTINF:-1 xui-id="587087" tvg-id="" tvg-name="|ES| #VAMOS FHD" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/32/06/62/5116653309927620632_1.png" group-title="Espanha",|ES| #VAMOS FHD
+#EXTINF:-1 xui-id="587087" tvg-id="" tvg-name="|ES| #VAMOS FHD" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/32/06/62/5116653309927620632_1.png" group-title="✳️ Espanha",|ES| #VAMOS FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhxMGJQJSNftukZK0cCQmM0/ts
-#EXTINF:-1 xui-id="587088" tvg-id="" tvg-name="|ES| MULTIDEPORTE" tvg-logo="https://i.postimg.cc/bJxt01NG/1-0-1-76-A3-41-E-1-C00000-0-0-0.png" group-title="Espanha",|ES| MULTIDEPORTE
+#EXTINF:-1 xui-id="587088" tvg-id="" tvg-name="|ES| MULTIDEPORTE" tvg-logo="https://i.postimg.cc/bJxt01NG/1-0-1-76-A3-41-E-1-C00000-0-0-0.png" group-title="✳️ Espanha",|ES| MULTIDEPORTE
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgPILZBAXUV6wcCgeLdX9L0/ts
-#EXTINF:-1 xui-id="587089" tvg-id="" tvg-name="|ES| Dazn F1" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="Espanha",|ES| Dazn F1
+#EXTINF:-1 xui-id="587089" tvg-id="" tvg-name="|ES| Dazn F1" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="✳️ Espanha",|ES| Dazn F1
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp7lPgxQL80_uFf6NLNFzG4/ts
-#EXTINF:-1 xui-id="587090" tvg-id="" tvg-name="|ES| Dazn F1 HD" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="Espanha",|ES| Dazn F1 HD
+#EXTINF:-1 xui-id="587090" tvg-id="" tvg-name="|ES| Dazn F1 HD" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="✳️ Espanha",|ES| Dazn F1 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs_CSS3s10a_2Ly2-6Zt5jQ/ts
-#EXTINF:-1 xui-id="587091" tvg-id="" tvg-name="|ES| Dazn F1 FHD" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="Espanha",|ES| Dazn F1 FHD
+#EXTINF:-1 xui-id="587091" tvg-id="" tvg-name="|ES| Dazn F1 FHD" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="✳️ Espanha",|ES| Dazn F1 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnsHEeMIxa8E0P49jlO_fzQ/ts
-#EXTINF:-1 xui-id="587092" tvg-id="" tvg-name="|ES| Dazn 1" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="Espanha",|ES| Dazn 1
+#EXTINF:-1 xui-id="587092" tvg-id="" tvg-name="|ES| Dazn 1" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="✳️ Espanha",|ES| Dazn 1
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjtYqS86XnYR6ksQ7qcO5kM/ts
-#EXTINF:-1 xui-id="587093" tvg-id="" tvg-name="|ES| Dazn 1 HD" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="Espanha",|ES| Dazn 1 HD
+#EXTINF:-1 xui-id="587093" tvg-id="" tvg-name="|ES| Dazn 1 HD" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="✳️ Espanha",|ES| Dazn 1 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmkHeNbEvnjYbs6NV-pSEqA/ts
-#EXTINF:-1 xui-id="587094" tvg-id="" tvg-name="|ES| Dazn 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="Espanha",|ES| Dazn 1 FHD
+#EXTINF:-1 xui-id="587094" tvg-id="" tvg-name="|ES| Dazn 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/germany/DAZN1BARFHD.png" group-title="✳️ Espanha",|ES| Dazn 1 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKilknhzhDuCRexPrAK8UIfY/ts
-#EXTINF:-1 xui-id="587095" tvg-id="" tvg-name="|ES| Dazn 2" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%202.png" group-title="Espanha",|ES| Dazn 2
+#EXTINF:-1 xui-id="587095" tvg-id="" tvg-name="|ES| Dazn 2" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%202.png" group-title="✳️ Espanha",|ES| Dazn 2
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvYwnWqSSmqObcXTvQXUqnE/ts
-#EXTINF:-1 xui-id="587096" tvg-id="" tvg-name="|ES| Dazn 2 HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%202.png" group-title="Espanha",|ES| Dazn 2 HD
+#EXTINF:-1 xui-id="587096" tvg-id="" tvg-name="|ES| Dazn 2 HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%202.png" group-title="✳️ Espanha",|ES| Dazn 2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKriR1syJ6a97jQqig6rRcE0/ts
-#EXTINF:-1 xui-id="587097" tvg-id="" tvg-name="|ES| Dazn 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%202.png" group-title="Espanha",|ES| Dazn 2 FHD
+#EXTINF:-1 xui-id="587097" tvg-id="" tvg-name="|ES| Dazn 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%202.png" group-title="✳️ Espanha",|ES| Dazn 2 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnqt_sT7vYQ74RFRYZ7bwBQ/ts
-#EXTINF:-1 xui-id="587098" tvg-id="" tvg-name="|ES| Dazn 3 HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%203.png" group-title="Espanha",|ES| Dazn 3 HD
+#EXTINF:-1 xui-id="587098" tvg-id="" tvg-name="|ES| Dazn 3 HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%203.png" group-title="✳️ Espanha",|ES| Dazn 3 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoIxrCC3kVc0Tc5Pr_jV5h0/ts
-#EXTINF:-1 xui-id="587099" tvg-id="" tvg-name="|ES| Dazn 3 FHD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%203.png" group-title="Espanha",|ES| Dazn 3 FHD
+#EXTINF:-1 xui-id="587099" tvg-id="" tvg-name="|ES| Dazn 3 FHD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%203.png" group-title="✳️ Espanha",|ES| Dazn 3 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKus-VQ0CAh8-iVGhGs73GA8/ts
-#EXTINF:-1 xui-id="587100" tvg-id="" tvg-name="|ES| Dazn 4 HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%204.png" group-title="Espanha",|ES| Dazn 4 HD
+#EXTINF:-1 xui-id="587100" tvg-id="" tvg-name="|ES| Dazn 4 HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%204.png" group-title="✳️ Espanha",|ES| Dazn 4 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlei6g66HUmTdydoJ_2Mgo0/ts
-#EXTINF:-1 xui-id="587101" tvg-id="" tvg-name="|ES| Dazn 4 FHD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%204.png" group-title="Espanha",|ES| Dazn 4 FHD
+#EXTINF:-1 xui-id="587101" tvg-id="" tvg-name="|ES| Dazn 4 FHD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Dazn%204.png" group-title="✳️ Espanha",|ES| Dazn 4 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrGP60dS93MSkcUZR4cfzMk/ts
-#EXTINF:-1 xui-id="587102" tvg-id="" tvg-name="|ES| DAZN LaLiga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWaXWiIOIlJ7jZdvWe2mr5sWFC4MuigVCsDPp1mZgBA&s" group-title="Espanha",|ES| DAZN LaLiga
+#EXTINF:-1 xui-id="587102" tvg-id="" tvg-name="|ES| DAZN LaLiga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWaXWiIOIlJ7jZdvWe2mr5sWFC4MuigVCsDPp1mZgBA&s" group-title="✳️ Espanha",|ES| DAZN LaLiga
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhPbUqAZdP7CKPI9KqdpEvU/ts
-#EXTINF:-1 xui-id="587103" tvg-id="" tvg-name="|ES| DAZN LaLiga HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWaXWiIOIlJ7jZdvWe2mr5sWFC4MuigVCsDPp1mZgBA&s" group-title="Espanha",|ES| DAZN LaLiga HD
+#EXTINF:-1 xui-id="587103" tvg-id="" tvg-name="|ES| DAZN LaLiga HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWaXWiIOIlJ7jZdvWe2mr5sWFC4MuigVCsDPp1mZgBA&s" group-title="✳️ Espanha",|ES| DAZN LaLiga HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvCPA-A7a4NKC8cPqw-SRTo/ts
-#EXTINF:-1 xui-id="587104" tvg-id="" tvg-name="|ES| DAZN LaLiga FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWaXWiIOIlJ7jZdvWe2mr5sWFC4MuigVCsDPp1mZgBA&s" group-title="Espanha",|ES| DAZN LaLiga FHD
+#EXTINF:-1 xui-id="587104" tvg-id="" tvg-name="|ES| DAZN LaLiga FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWaXWiIOIlJ7jZdvWe2mr5sWFC4MuigVCsDPp1mZgBA&s" group-title="✳️ Espanha",|ES| DAZN LaLiga FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuqBQDcP6ZvrzYnYx5eVQfo/ts
-#EXTINF:-1 xui-id="587105" tvg-id="" tvg-name="|ES| DAZN LaLiga 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiSaXFzQgE_OMvWIGqSN9yehjUa-h8Dy32xgh3XSt&s" group-title="Espanha",|ES| DAZN LaLiga 2
+#EXTINF:-1 xui-id="587105" tvg-id="" tvg-name="|ES| DAZN LaLiga 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiSaXFzQgE_OMvWIGqSN9yehjUa-h8Dy32xgh3XSt&s" group-title="✳️ Espanha",|ES| DAZN LaLiga 2
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpmOVui-IP4eJSupTalcYUw/ts
-#EXTINF:-1 xui-id="587106" tvg-id="" tvg-name="|ES| DAZN LaLiga 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiSaXFzQgE_OMvWIGqSN9yehjUa-h8Dy32xgh3XSt&s" group-title="Espanha",|ES| DAZN LaLiga 2 HD
+#EXTINF:-1 xui-id="587106" tvg-id="" tvg-name="|ES| DAZN LaLiga 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiSaXFzQgE_OMvWIGqSN9yehjUa-h8Dy32xgh3XSt&s" group-title="✳️ Espanha",|ES| DAZN LaLiga 2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpaoQFWNMtNGKgk5dGEAT7I/ts
-#EXTINF:-1 xui-id="587107" tvg-id="" tvg-name="|ES|  LaLiga TV Bar HD" tvg-logo="https://i.postimg.cc/NFqgpXVX/208-laliga-tv-bar.png" group-title="Espanha",|ES|  LaLiga TV Bar HD
+#EXTINF:-1 xui-id="587107" tvg-id="" tvg-name="|ES|  LaLiga TV Bar HD" tvg-logo="https://i.postimg.cc/NFqgpXVX/208-laliga-tv-bar.png" group-title="✳️ Espanha",|ES|  LaLiga TV Bar HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvPkKwzmbpSxOjkzvo2mi_U/ts
-#EXTINF:-1 xui-id="587108" tvg-id="" tvg-name="|ES| LaLiga TV Bar H265" tvg-logo="https://i.postimg.cc/NFqgpXVX/208-laliga-tv-bar.png" group-title="Espanha",|ES| LaLiga TV Bar H265
+#EXTINF:-1 xui-id="587108" tvg-id="" tvg-name="|ES| LaLiga TV Bar H265" tvg-logo="https://i.postimg.cc/NFqgpXVX/208-laliga-tv-bar.png" group-title="✳️ Espanha",|ES| LaLiga TV Bar H265
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKi6OXHyACBts5oakeVLUY8Y/ts
-#EXTINF:-1 xui-id="587109" tvg-id="" tvg-name="|ES| M. LaLiga (Opc A)" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="Espanha",|ES| M. LaLiga (Opc A)
+#EXTINF:-1 xui-id="587109" tvg-id="" tvg-name="|ES| M. LaLiga (Opc A)" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="✳️ Espanha",|ES| M. LaLiga (Opc A)
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoQ9zr9GWWZ_QdIQBt42CLc/ts
-#EXTINF:-1 xui-id="587110" tvg-id="" tvg-name="|ES| M. LaLiga  (Opc B)" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/la%20laliga.png" group-title="Espanha",|ES| M. LaLiga  (Opc B)
+#EXTINF:-1 xui-id="587110" tvg-id="" tvg-name="|ES| M. LaLiga  (Opc B)" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/la%20laliga.png" group-title="✳️ Espanha",|ES| M. LaLiga  (Opc B)
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvpMi8yO2NaV6xq4Eqx87aI/ts
-#EXTINF:-1 xui-id="587111" tvg-id="" tvg-name="|ES| M. LaLiga HD" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="Espanha",|ES| M. LaLiga HD
+#EXTINF:-1 xui-id="587111" tvg-id="" tvg-name="|ES| M. LaLiga HD" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="✳️ Espanha",|ES| M. LaLiga HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKthUIh8ouFUxb8zeB48zqJY/ts
-#EXTINF:-1 xui-id="587112" tvg-id="" tvg-name="|ES| M. LaLiga FHD (Opc A)" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="Espanha",|ES| M. LaLiga FHD (Opc A)
+#EXTINF:-1 xui-id="587112" tvg-id="" tvg-name="|ES| M. LaLiga FHD (Opc A)" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="✳️ Espanha",|ES| M. LaLiga FHD (Opc A)
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKq2obLcoJao7GJWzmlWpBPg/ts
-#EXTINF:-1 xui-id="587113" tvg-id="" tvg-name="|ES| M. LaLiga FHD (Opc B)" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/la%20laliga.png" group-title="Espanha",|ES| M. LaLiga FHD (Opc B)
+#EXTINF:-1 xui-id="587113" tvg-id="" tvg-name="|ES| M. LaLiga FHD (Opc B)" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/la%20laliga.png" group-title="✳️ Espanha",|ES| M. LaLiga FHD (Opc B)
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvZxNWyirQjauwdjDQfYTKc/ts
-#EXTINF:-1 xui-id="587114" tvg-id="" tvg-name="|ES| M. LaLiga 2" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="Espanha",|ES| M. LaLiga 2
+#EXTINF:-1 xui-id="587114" tvg-id="" tvg-name="|ES| M. LaLiga 2" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="✳️ Espanha",|ES| M. LaLiga 2
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjCytCRlkvVh39j6wCaVEzc/ts
-#EXTINF:-1 xui-id="587115" tvg-id="" tvg-name="|ES| M. LaLiga 2 HD" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="Espanha",|ES| M. LaLiga 2 HD
+#EXTINF:-1 xui-id="587115" tvg-id="" tvg-name="|ES| M. LaLiga 2 HD" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="✳️ Espanha",|ES| M. LaLiga 2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtiDWesLZrS5NHnFRKVJXhM/ts
-#EXTINF:-1 xui-id="587116" tvg-id="" tvg-name="|ES| M. LaLiga 2 FHD" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="Espanha",|ES| M. LaLiga 2 FHD
+#EXTINF:-1 xui-id="587116" tvg-id="" tvg-name="|ES| M. LaLiga 2 FHD" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="✳️ Espanha",|ES| M. LaLiga 2 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhlwXZv5Cn6PZiY7vCGZyJU/ts
-#EXTINF:-1 xui-id="587117" tvg-id="" tvg-name="|ES| M. LaLiga 3 HD" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="Espanha",|ES| M. LaLiga 3 HD
+#EXTINF:-1 xui-id="587117" tvg-id="" tvg-name="|ES| M. LaLiga 3 HD" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="✳️ Espanha",|ES| M. LaLiga 3 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKu7ZUlATMayQ7UIsi4CP0aE/ts
-#EXTINF:-1 xui-id="587118" tvg-id="" tvg-name="|ES| M. LaLiga 3 FHD" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="Espanha",|ES| M. LaLiga 3 FHD
+#EXTINF:-1 xui-id="587118" tvg-id="" tvg-name="|ES| M. LaLiga 3 FHD" tvg-logo="https://i.postimg.cc/52BgKWRk/logo-la-liga-200x156px.png" group-title="✳️ Espanha",|ES| M. LaLiga 3 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj5IW1S9Tho_Q3vOwZ6IIOA/ts
-#EXTINF:-1 xui-id="587119" tvg-id="" tvg-name="|ES| |ES| LaLiga Smartbank TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="Espanha",|ES| |ES| LaLiga Smartbank TV
+#EXTINF:-1 xui-id="587119" tvg-id="" tvg-name="|ES| |ES| LaLiga Smartbank TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="✳️ Espanha",|ES| |ES| LaLiga Smartbank TV
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKq2rZWMANaDoz8A5jXN1czc/ts
-#EXTINF:-1 xui-id="587120" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="Espanha",|ES| LaLiga Smartbank TV HD
+#EXTINF:-1 xui-id="587120" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="✳️ Espanha",|ES| LaLiga Smartbank TV HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgwLflQh4tMdQHccdfHXwdY/ts
-#EXTINF:-1 xui-id="587121" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="Espanha",|ES| LaLiga Smartbank TV FHD
+#EXTINF:-1 xui-id="587121" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="✳️ Espanha",|ES| LaLiga Smartbank TV FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsQmGTI1UdhADINrnnUIiC4/ts
-#EXTINF:-1 xui-id="587122" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="Espanha",|ES| LaLiga Smartbank TV M2
+#EXTINF:-1 xui-id="587122" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="✳️ Espanha",|ES| LaLiga Smartbank TV M2
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoZCp9Lbs2_Dh4oUBJ9gzb0/ts
-#EXTINF:-1 xui-id="587123" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="Espanha",|ES| LaLiga Smartbank TV M2 HD
+#EXTINF:-1 xui-id="587123" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="✳️ Espanha",|ES| LaLiga Smartbank TV M2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKop_JvaDplDeUwrZhPRP2Uc/ts
-#EXTINF:-1 xui-id="587124" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="Espanha",|ES| LaLiga Smartbank TV M2 FHD
+#EXTINF:-1 xui-id="587124" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="✳️ Espanha",|ES| LaLiga Smartbank TV M2 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpXNuTtSo7wfEjGvJ44520A/ts
-#EXTINF:-1 xui-id="587125" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="Espanha",|ES| LaLiga Smartbank TV M3 HD
+#EXTINF:-1 xui-id="587125" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="✳️ Espanha",|ES| LaLiga Smartbank TV M3 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhNYZzPb85-PjQMWkOh3ng4/ts
-#EXTINF:-1 xui-id="587126" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="Espanha",|ES| LaLiga Smartbank TV M3 FHD
+#EXTINF:-1 xui-id="587126" tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="✳️ Espanha",|ES| LaLiga Smartbank TV M3 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk8xDFWJ0IKo0CXcyAN9Xi4/ts
-#EXTINF:-1 xui-id="587127" tvg-id="" tvg-name="|ES|  M. Liga de Campeones" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="Espanha",|ES|  M. Liga de Campeones
+#EXTINF:-1 xui-id="587127" tvg-id="" tvg-name="|ES|  M. Liga de Campeones" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="✳️ Espanha",|ES|  M. Liga de Campeones
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKghmRudD-yZkgDa4PKKRU8w/ts
-#EXTINF:-1 xui-id="587128" tvg-id="" tvg-name="|ES| M. Liga de Campeones HD" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones HD
+#EXTINF:-1 xui-id="587128" tvg-id="" tvg-name="|ES| M. Liga de Campeones HD" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtZ_rutBWpAQ_4ZGq8juYic/ts
-#EXTINF:-1 xui-id="587129" tvg-id="" tvg-name="|ES| M. Liga de Campeones FHD" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones FHD
+#EXTINF:-1 xui-id="587129" tvg-id="" tvg-name="|ES| M. Liga de Campeones FHD" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnrhY7D5ktPseMUylXAfHR4/ts
-#EXTINF:-1 xui-id="587130" tvg-id="" tvg-name="|ES| M. Liga de Campeones 4k" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones 4k
+#EXTINF:-1 xui-id="587130" tvg-id="" tvg-name="|ES| M. Liga de Campeones 4k" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 4k
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp8BC-ntv-XorB_Y8pTAMb8/ts
-#EXTINF:-1 xui-id="587131" tvg-id="" tvg-name="|ES| Gol Mundial / M. Liga de Campeones  2" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Movistar_Liga_de_Campeones_2.png" group-title="Espanha",|ES| Gol Mundial / M. Liga de Campeones  2
+#EXTINF:-1 xui-id="587131" tvg-id="" tvg-name="|ES| Gol Mundial / M. Liga de Campeones  2" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Movistar_Liga_de_Campeones_2.png" group-title="✳️ Espanha",|ES| Gol Mundial / M. Liga de Campeones  2
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpBvKUC6nQQCR5UGFFaw-JY/ts
-#EXTINF:-1 xui-id="587132" tvg-id="" tvg-name="|ES| M. Liga de Campeones 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114692_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones 2 HD
+#EXTINF:-1 xui-id="587132" tvg-id="" tvg-name="|ES| M. Liga de Campeones 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114692_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkSGuPecMoJ2ifGjpAC7msI/ts
-#EXTINF:-1 xui-id="587133" tvg-id="" tvg-name="|ES| M. Liga de Campeones 2 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114692_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones 2 FHD
+#EXTINF:-1 xui-id="587133" tvg-id="" tvg-name="|ES| M. Liga de Campeones 2 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114692_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 2 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqQYKxB4a8XN912urkB-msA/ts
-#EXTINF:-1 xui-id="587134" tvg-id="" tvg-name="|ES| M. Liga de Campeones 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114693_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones 3 HD
+#EXTINF:-1 xui-id="587134" tvg-id="" tvg-name="|ES| M. Liga de Campeones 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114693_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 3 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoXsz0zeomr9PS-eCWo81t0/ts
-#EXTINF:-1 xui-id="587135" tvg-id="" tvg-name="|ES| M. Liga de Campeones 3 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114693_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones 3 FHD
+#EXTINF:-1 xui-id="587135" tvg-id="" tvg-name="|ES| M. Liga de Campeones 3 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114693_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 3 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpdYMtnJqQ7d-gFeliDr1Kc/ts
-#EXTINF:-1 xui-id="587136" tvg-id="" tvg-name="|ES| M. Liga de Campeones 4 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114694_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones 4 HD
+#EXTINF:-1 xui-id="587136" tvg-id="" tvg-name="|ES| M. Liga de Campeones 4 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114694_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 4 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhjVS9gSFcC4uZ1opxMHROg/ts
-#EXTINF:-1 xui-id="587137" tvg-id="" tvg-name="|ES| M. Liga de Campeones 4 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114694_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones 4 FHD
+#EXTINF:-1 xui-id="587137" tvg-id="" tvg-name="|ES| M. Liga de Campeones 4 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114694_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 4 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKie8d5bdp_MHlBw8bC7GmI0/ts
-#EXTINF:-1 xui-id="587138" tvg-id="" tvg-name="|ES| M. Liga de Campeones 5 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114712_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones 5 HD
+#EXTINF:-1 xui-id="587138" tvg-id="" tvg-name="|ES| M. Liga de Campeones 5 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114712_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 5 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrLIn5lPoroFONZDWJama8w/ts
-#EXTINF:-1 xui-id="587139" tvg-id="" tvg-name="|ES| M. Liga de Campeones 5 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114712_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones 5 FHD
+#EXTINF:-1 xui-id="587139" tvg-id="" tvg-name="|ES| M. Liga de Campeones 5 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114712_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 5 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr6HDpEcOLZr9MfaClFkeO4/ts
-#EXTINF:-1 xui-id="587140" tvg-id="" tvg-name="|ES| M. Liga de Campeones  6" tvg-logo="http://fanc.tmsimg.com/assets/s114714_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones  6
+#EXTINF:-1 xui-id="587140" tvg-id="" tvg-name="|ES| M. Liga de Campeones  6" tvg-logo="http://fanc.tmsimg.com/assets/s114714_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones  6
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsOLrlBzvcVoiipa6IKzHMc/ts
-#EXTINF:-1 xui-id="587141" tvg-id="" tvg-name="|ES| M. Liga de Campeones 7" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_7.png" group-title="Espanha",|ES| M. Liga de Campeones 7
+#EXTINF:-1 xui-id="587141" tvg-id="" tvg-name="|ES| M. Liga de Campeones 7" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_7.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 7
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKt3lQlXy8Bg2t0q75otj7Lo/ts
-#EXTINF:-1 xui-id="587142" tvg-id="" tvg-name="|ES| M. Liga de Campeones 8" tvg-logo="http://fanc.tmsimg.com/assets/s114713_ll_h3_aa.png" group-title="Espanha",|ES| M. Liga de Campeones 8
+#EXTINF:-1 xui-id="587142" tvg-id="" tvg-name="|ES| M. Liga de Campeones 8" tvg-logo="http://fanc.tmsimg.com/assets/s114713_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. Liga de Campeones 8
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhXia98aTh6-Sf8UeI9LXEA/ts
-#EXTINF:-1 xui-id="587143" tvg-id="" tvg-name="|ES| M. DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s86945_ll_h3_ab.png" group-title="Espanha",|ES| M. DEPORTES
+#EXTINF:-1 xui-id="587143" tvg-id="" tvg-name="|ES| M. DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s86945_ll_h3_ab.png" group-title="✳️ Espanha",|ES| M. DEPORTES
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrIieakEFYPi0oFoEk7K6lQ/ts
-#EXTINF:-1 xui-id="587144" tvg-id="" tvg-name="|ES| M. DEPORTES HD" tvg-logo="http://fanc.tmsimg.com/assets/s87010_ll_h3_aa.png" group-title="Espanha",|ES| M. DEPORTES HD
+#EXTINF:-1 xui-id="587144" tvg-id="" tvg-name="|ES| M. DEPORTES HD" tvg-logo="http://fanc.tmsimg.com/assets/s87010_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. DEPORTES HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs5LWDsPQcK2lwWQUwpVBxI/ts
-#EXTINF:-1 xui-id="587145" tvg-id="" tvg-name="|ES| M. DEPORTES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87010_ll_h3_aa.png" group-title="Espanha",|ES| M. DEPORTES FHD
+#EXTINF:-1 xui-id="587145" tvg-id="" tvg-name="|ES| M. DEPORTES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87010_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. DEPORTES FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrPEpINUwk2d3-DsEBgoPTY/ts
-#EXTINF:-1 xui-id="587146" tvg-id="" tvg-name="|ES| M. DEPORTES 2" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="Espanha",|ES| M. DEPORTES 2
+#EXTINF:-1 xui-id="587146" tvg-id="" tvg-name="|ES| M. DEPORTES 2" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="✳️ Espanha",|ES| M. DEPORTES 2
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg6DEjmz_V137PS17QosiYU/ts
-#EXTINF:-1 xui-id="587147" tvg-id="" tvg-name="|ES| M. DEPORTES 2 HD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="Espanha",|ES| M. DEPORTES 2 HD
+#EXTINF:-1 xui-id="587147" tvg-id="" tvg-name="|ES| M. DEPORTES 2 HD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="✳️ Espanha",|ES| M. DEPORTES 2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlpTf3fYRt_36N7MJ2LACLM/ts
-#EXTINF:-1 xui-id="587148" tvg-id="" tvg-name="|ES| M. DEPORTES 2 FHD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="Espanha",|ES| M. DEPORTES 2 FHD
+#EXTINF:-1 xui-id="587148" tvg-id="" tvg-name="|ES| M. DEPORTES 2 FHD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="✳️ Espanha",|ES| M. DEPORTES 2 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsVFO9qgEBs1fOtDOx92IDg/ts
-#EXTINF:-1 xui-id="587149" tvg-id="" tvg-name="|ES| M. DEPORTES 3 HD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="Espanha",|ES| M. DEPORTES 3 HD
+#EXTINF:-1 xui-id="587149" tvg-id="" tvg-name="|ES| M. DEPORTES 3 HD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="✳️ Espanha",|ES| M. DEPORTES 3 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKh2q21f4xSXdF9Db5SjEE1Y/ts
-#EXTINF:-1 xui-id="587150" tvg-id="" tvg-name="|ES| M. DEPORTES 3 FHD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="Espanha",|ES| M. DEPORTES 3 FHD
+#EXTINF:-1 xui-id="587150" tvg-id="" tvg-name="|ES| M. DEPORTES 3 FHD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="✳️ Espanha",|ES| M. DEPORTES 3 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqol6sb-gn0YWQrLW8Yx9es/ts
-#EXTINF:-1 xui-id="587151" tvg-id="" tvg-name="|ES| M. DEPORTES 4 HD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="Espanha",|ES| M. DEPORTES 4 HD
+#EXTINF:-1 xui-id="587151" tvg-id="" tvg-name="|ES| M. DEPORTES 4 HD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="✳️ Espanha",|ES| M. DEPORTES 4 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKo7XRdc5SsUyDj4pMY3402s/ts
-#EXTINF:-1 xui-id="587152" tvg-id="" tvg-name="|ES| M. DEPORTES 5 HD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="Espanha",|ES| M. DEPORTES 5 HD
+#EXTINF:-1 xui-id="587152" tvg-id="" tvg-name="|ES| M. DEPORTES 5 HD" tvg-logo="https://i.postimg.cc/gjynRps3/movistar-deportes.png" group-title="✳️ Espanha",|ES| M. DEPORTES 5 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiau4qSOtR-11e3HADbBn1I/ts
-#EXTINF:-1 xui-id="587153" tvg-id="" tvg-name="|ES| TELEDEPORTE" tvg-logo="http://fanc.tmsimg.com/assets/s17189_ll_h3_aa.png" group-title="Espanha",|ES| TELEDEPORTE
+#EXTINF:-1 xui-id="587153" tvg-id="" tvg-name="|ES| TELEDEPORTE" tvg-logo="http://fanc.tmsimg.com/assets/s17189_ll_h3_aa.png" group-title="✳️ Espanha",|ES| TELEDEPORTE
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkidFaE7VUfRyUwdZD03P3w/ts
-#EXTINF:-1 xui-id="587154" tvg-id="" tvg-name="|ES| TELEDEPORTE HD" tvg-logo="http://fanc.tmsimg.com/assets/s91225_ll_h3_aa.png" group-title="Espanha",|ES| TELEDEPORTE HD
+#EXTINF:-1 xui-id="587154" tvg-id="" tvg-name="|ES| TELEDEPORTE HD" tvg-logo="http://fanc.tmsimg.com/assets/s91225_ll_h3_aa.png" group-title="✳️ Espanha",|ES| TELEDEPORTE HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpZmKMOyy-0ZkdRi-NhngZ8/ts
-#EXTINF:-1 xui-id="587155" tvg-id="" tvg-name="|ES| GOL" tvg-logo="http://fanc.tmsimg.com/assets/s90356_ll_h3_aa.png" group-title="Espanha",|ES| GOL
+#EXTINF:-1 xui-id="587155" tvg-id="" tvg-name="|ES| GOL" tvg-logo="http://fanc.tmsimg.com/assets/s90356_ll_h3_aa.png" group-title="✳️ Espanha",|ES| GOL
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpKX78FdWWqIxZRljXu4LlU/ts
-#EXTINF:-1 xui-id="587156" tvg-id="" tvg-name="|ES| GOL HD" tvg-logo="http://fanc.tmsimg.com/assets/s91279_ll_h3_ab.png" group-title="Espanha",|ES| GOL HD
+#EXTINF:-1 xui-id="587156" tvg-id="" tvg-name="|ES| GOL HD" tvg-logo="http://fanc.tmsimg.com/assets/s91279_ll_h3_ab.png" group-title="✳️ Espanha",|ES| GOL HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsoAIaXI81tjswgADFfD76Y/ts
-#EXTINF:-1 xui-id="587157" tvg-id="" tvg-name="|ES| Esport 3" tvg-logo="http://fanc.tmsimg.com/assets/s90348_ll_h3_aa.png" group-title="Espanha",|ES| Esport 3
+#EXTINF:-1 xui-id="587157" tvg-id="" tvg-name="|ES| Esport 3" tvg-logo="http://fanc.tmsimg.com/assets/s90348_ll_h3_aa.png" group-title="✳️ Espanha",|ES| Esport 3
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlQevow_jtCQ7sjecK4PSII/ts
-#EXTINF:-1 xui-id="587158" tvg-id="" tvg-name="|ES| Bein Sports HD Espanol" tvg-logo="https://i.postimg.cc/XYK6bJJf/png-transparent-la-liga-bein-sports-1-bein-channels-network-others-purple-text-sport.png" group-title="Espanha",|ES| Bein Sports HD Espanol
+#EXTINF:-1 xui-id="587158" tvg-id="" tvg-name="|ES| Bein Sports HD Espanol" tvg-logo="https://i.postimg.cc/XYK6bJJf/png-transparent-la-liga-bein-sports-1-bein-channels-network-others-purple-text-sport.png" group-title="✳️ Espanha",|ES| Bein Sports HD Espanol
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiCnfkWCA-oWsXtnidAN_1k/ts
-#EXTINF:-1 xui-id="587159" tvg-id="" tvg-name="|ES| Sky Sports Liga Española HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/sky%20sports%20%20liga%20espanhola.png" group-title="Espanha",|ES| Sky Sports Liga Española HD
+#EXTINF:-1 xui-id="587159" tvg-id="" tvg-name="|ES| Sky Sports Liga Española HD" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/sky%20sports%20%20liga%20espanhola.png" group-title="✳️ Espanha",|ES| Sky Sports Liga Española HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlzAUuQVonhvt4BCWSqNyy0/ts
-#EXTINF:-1 xui-id="587160" tvg-id="" tvg-name="|ES| BARCA TV" tvg-logo="http://fanc.tmsimg.com/assets/s85437_h3_aa.png" group-title="Espanha",|ES| BARCA TV
+#EXTINF:-1 xui-id="587160" tvg-id="" tvg-name="|ES| BARCA TV" tvg-logo="http://fanc.tmsimg.com/assets/s85437_h3_aa.png" group-title="✳️ Espanha",|ES| BARCA TV
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpehn7dVXlsLcvULCLUFrv8/ts
-#EXTINF:-1 xui-id="587161" tvg-id="" tvg-name="|ES| R. MADRID TV" tvg-logo="http://fanc.tmsimg.com/assets/s109784_ll_h3_ab.png" group-title="Espanha",|ES| R. MADRID TV
+#EXTINF:-1 xui-id="587161" tvg-id="" tvg-name="|ES| R. MADRID TV" tvg-logo="http://fanc.tmsimg.com/assets/s109784_ll_h3_ab.png" group-title="✳️ Espanha",|ES| R. MADRID TV
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvE52pQhnpZqS_NxEyZZ8Uw/ts
-#EXTINF:-1 xui-id="587162" tvg-id="" tvg-name="|ES| R. MADRID TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s109784_h3_aa.png" group-title="Espanha",|ES| R. MADRID TV FHD
+#EXTINF:-1 xui-id="587162" tvg-id="" tvg-name="|ES| R. MADRID TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s109784_h3_aa.png" group-title="✳️ Espanha",|ES| R. MADRID TV FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuM2CQDOgCHlpLwhNel8I4w/ts
-#EXTINF:-1 xui-id="587163" tvg-id="" tvg-name="|ES| EUROSPORT 1 HD" tvg-logo="https://i.postimg.cc/MGztjZYm/eurosport-200x300.png" group-title="Espanha",|ES| EUROSPORT 1 HD
+#EXTINF:-1 xui-id="587163" tvg-id="" tvg-name="|ES| EUROSPORT 1 HD" tvg-logo="https://i.postimg.cc/MGztjZYm/eurosport-200x300.png" group-title="✳️ Espanha",|ES| EUROSPORT 1 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiYQJcRRd5dAumPtbmFJ5Qk/ts
-#EXTINF:-1 xui-id="587164" tvg-id="" tvg-name="|ES| EUROSPORT 1 FHD" tvg-logo="https://i.postimg.cc/MGztjZYm/eurosport-200x300.png" group-title="Espanha",|ES| EUROSPORT 1 FHD
+#EXTINF:-1 xui-id="587164" tvg-id="" tvg-name="|ES| EUROSPORT 1 FHD" tvg-logo="https://i.postimg.cc/MGztjZYm/eurosport-200x300.png" group-title="✳️ Espanha",|ES| EUROSPORT 1 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtVxCnbZCugM2LIJXm4KR08/ts
-#EXTINF:-1 xui-id="587165" tvg-id="" tvg-name="|ES| EUROSPORT 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s108370_ll_h3_aa.png" group-title="Espanha",|ES| EUROSPORT 2 HD
+#EXTINF:-1 xui-id="587165" tvg-id="" tvg-name="|ES| EUROSPORT 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s108370_ll_h3_aa.png" group-title="✳️ Espanha",|ES| EUROSPORT 2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgk_uNzEI9Z2aA0K-3za-4s/ts
-#EXTINF:-1 xui-id="587166" tvg-id="" tvg-name="|ES| EUROSPORT 2 FHD" tvg-logo="https://i.postimg.cc/MGztjZYm/eurosport-200x300.png" group-title="Espanha",|ES| EUROSPORT 2 FHD
+#EXTINF:-1 xui-id="587166" tvg-id="" tvg-name="|ES| EUROSPORT 2 FHD" tvg-logo="https://i.postimg.cc/MGztjZYm/eurosport-200x300.png" group-title="✳️ Espanha",|ES| EUROSPORT 2 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKryYSU3sCDTUqeW75kUxWKM/ts
-#EXTINF:-1 xui-id="587167" tvg-id="" tvg-name="|ES| NAUTICAL CHANNEL HD" tvg-logo="" group-title="Espanha",|ES| NAUTICAL CHANNEL HD
+#EXTINF:-1 xui-id="587167" tvg-id="" tvg-name="|ES| NAUTICAL CHANNEL HD" tvg-logo="" group-title="✳️ Espanha",|ES| NAUTICAL CHANNEL HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrONey59E9fHy-Sf3-IHusE/ts
-#EXTINF:-1 xui-id="587168" tvg-id="" tvg-name="|ES| M. GOLF HD" tvg-logo="http://fanc.tmsimg.com/assets/s91190_ll_h3_aa.png" group-title="Espanha",|ES| M. GOLF HD
+#EXTINF:-1 xui-id="587168" tvg-id="" tvg-name="|ES| M. GOLF HD" tvg-logo="http://fanc.tmsimg.com/assets/s91190_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. GOLF HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsSVj2OXwMFAFmKG47DsQEU/ts
-#EXTINF:-1 xui-id="587169" tvg-id="" tvg-name="|ES| M. GOLF FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91190_ll_h3_aa.png" group-title="Espanha",|ES| M. GOLF FHD
+#EXTINF:-1 xui-id="587169" tvg-id="" tvg-name="|ES| M. GOLF FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91190_ll_h3_aa.png" group-title="✳️ Espanha",|ES| M. GOLF FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKviGTDFlFbD6EXZnrB-V4WU/ts
-#EXTINF:-1 xui-id="587170" tvg-id="" tvg-name="|ES| M. ELLAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFFGLV_DiDuPoABqAx5ZoczxLmeA5bIEPRXc5WtSQkw&s" group-title="Espanha",|ES| M. ELLAS HD
+#EXTINF:-1 xui-id="587170" tvg-id="" tvg-name="|ES| M. ELLAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFFGLV_DiDuPoABqAx5ZoczxLmeA5bIEPRXc5WtSQkw&s" group-title="✳️ Espanha",|ES| M. ELLAS HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKq-oorQHDtZXc0E06IHd2ko/ts
-#EXTINF:-1 xui-id="587171" tvg-id="" tvg-name="|ES| M. ELLAS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFFGLV_DiDuPoABqAx5ZoczxLmeA5bIEPRXc5WtSQkw&s" group-title="Espanha",|ES| M. ELLAS FHD
+#EXTINF:-1 xui-id="587171" tvg-id="" tvg-name="|ES| M. ELLAS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFFGLV_DiDuPoABqAx5ZoczxLmeA5bIEPRXc5WtSQkw&s" group-title="✳️ Espanha",|ES| M. ELLAS FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrNatf1zXrUTpU2LrEG7zHo/ts
-#EXTINF:-1 xui-id="587172" tvg-id="" tvg-name="|ES| BabyTV" tvg-logo="http://fanc.tmsimg.com/assets/s56036_ll_h3_ab.png" group-title="Espanha",|ES| BabyTV
+#EXTINF:-1 xui-id="587172" tvg-id="" tvg-name="|ES| BabyTV" tvg-logo="http://fanc.tmsimg.com/assets/s56036_ll_h3_ab.png" group-title="✳️ Espanha",|ES| BabyTV
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk7dxSen2bWEXb8pu6ErtKg/ts
-#EXTINF:-1 xui-id="587173" tvg-id="" tvg-name="|ES| DISNEY CH. FHD" tvg-logo="http://fanc.tmsimg.com/assets/s41223_ll_h3_aa.png" group-title="Espanha",|ES| DISNEY CH. FHD
+#EXTINF:-1 xui-id="587173" tvg-id="" tvg-name="|ES| DISNEY CH. FHD" tvg-logo="http://fanc.tmsimg.com/assets/s41223_ll_h3_aa.png" group-title="✳️ Espanha",|ES| DISNEY CH. FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp9tTdOOkjzYD8lWdRA9yL8/ts
-#EXTINF:-1 xui-id="587174" tvg-id="" tvg-name="|ES| DISNEY CH HD" tvg-logo="http://fanc.tmsimg.com/assets/s41223_ll_h3_aa.png" group-title="Espanha",|ES| DISNEY CH HD
+#EXTINF:-1 xui-id="587174" tvg-id="" tvg-name="|ES| DISNEY CH HD" tvg-logo="http://fanc.tmsimg.com/assets/s41223_ll_h3_aa.png" group-title="✳️ Espanha",|ES| DISNEY CH HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmtoO2L3OH1uH38SXKhZsss/ts
-#EXTINF:-1 xui-id="587175" tvg-id="" tvg-name="|ES| DISNEY JR" tvg-logo="http://fanc.tmsimg.com/assets/s60506_ll_h3_aa.png" group-title="Espanha",|ES| DISNEY JR
+#EXTINF:-1 xui-id="587175" tvg-id="" tvg-name="|ES| DISNEY JR" tvg-logo="http://fanc.tmsimg.com/assets/s60506_ll_h3_aa.png" group-title="✳️ Espanha",|ES| DISNEY JR
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKonMazn241zqoE0rxPA9HiM/ts
-#EXTINF:-1 xui-id="587176" tvg-id="" tvg-name="|ES| DISNEY JR HD" tvg-logo="http://fanc.tmsimg.com/assets/s60506_ll_h3_aa.png" group-title="Espanha",|ES| DISNEY JR HD
+#EXTINF:-1 xui-id="587176" tvg-id="" tvg-name="|ES| DISNEY JR HD" tvg-logo="http://fanc.tmsimg.com/assets/s60506_ll_h3_aa.png" group-title="✳️ Espanha",|ES| DISNEY JR HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmhP8qynshOlzCFPbd640Cg/ts
-#EXTINF:-1 xui-id="587177" tvg-id="" tvg-name="|ES| DREAMWORKS" tvg-logo="https://i.postimg.cc/pd6YSVPx/1920px-Dream-Works-Animation-SKG-logo-svg.png" group-title="Espanha",|ES| DREAMWORKS
+#EXTINF:-1 xui-id="587177" tvg-id="" tvg-name="|ES| DREAMWORKS" tvg-logo="https://i.postimg.cc/pd6YSVPx/1920px-Dream-Works-Animation-SKG-logo-svg.png" group-title="✳️ Espanha",|ES| DREAMWORKS
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhnkJUw59cD8p3AQeqpoN74/ts
-#EXTINF:-1 xui-id="587178" tvg-id="" tvg-name="|ES| DREAMWORKS HD" tvg-logo="https://i.postimg.cc/pd6YSVPx/1920px-Dream-Works-Animation-SKG-logo-svg.png" group-title="Espanha",|ES| DREAMWORKS HD
+#EXTINF:-1 xui-id="587178" tvg-id="" tvg-name="|ES| DREAMWORKS HD" tvg-logo="https://i.postimg.cc/pd6YSVPx/1920px-Dream-Works-Animation-SKG-logo-svg.png" group-title="✳️ Espanha",|ES| DREAMWORKS HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjHuhuQXObjLA5hGBTj0Iss/ts
-#EXTINF:-1 xui-id="587179" tvg-id="" tvg-name="|ES| CLAN" tvg-logo="http://fanc.tmsimg.com/assets/s86931_h3_aa.png" group-title="Espanha",|ES| CLAN
+#EXTINF:-1 xui-id="587179" tvg-id="" tvg-name="|ES| CLAN" tvg-logo="http://fanc.tmsimg.com/assets/s86931_h3_aa.png" group-title="✳️ Espanha",|ES| CLAN
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKojCun7SrPDaEvE-1KZaITk/ts
-#EXTINF:-1 xui-id="587180" tvg-id="" tvg-name="|ES| CLAN FHD" tvg-logo="http://fanc.tmsimg.com/assets/s106102_h3_aa.png" group-title="Espanha",|ES| CLAN FHD
+#EXTINF:-1 xui-id="587180" tvg-id="" tvg-name="|ES| CLAN FHD" tvg-logo="http://fanc.tmsimg.com/assets/s106102_h3_aa.png" group-title="✳️ Espanha",|ES| CLAN FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnnU151KiOnypDrPwspvqU8/ts
-#EXTINF:-1 xui-id="587181" tvg-id="" tvg-name="|ES| BOING" tvg-logo="http://fanc.tmsimg.com/assets/s86956_ll_h3_aa.png" group-title="Espanha",|ES| BOING
+#EXTINF:-1 xui-id="587181" tvg-id="" tvg-name="|ES| BOING" tvg-logo="http://fanc.tmsimg.com/assets/s86956_ll_h3_aa.png" group-title="✳️ Espanha",|ES| BOING
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrxKTS2-kKNP8OOokdbMTvo/ts
-#EXTINF:-1 xui-id="587182" tvg-id="" tvg-name="|ES| NICK JR" tvg-logo="http://fanc.tmsimg.com/assets/s60295_ll_h3_aa.png" group-title="Espanha",|ES| NICK JR
+#EXTINF:-1 xui-id="587182" tvg-id="" tvg-name="|ES| NICK JR" tvg-logo="http://fanc.tmsimg.com/assets/s60295_ll_h3_aa.png" group-title="✳️ Espanha",|ES| NICK JR
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKh_fvBdpRcwa4d-hK6zOS-A/ts
-#EXTINF:-1 xui-id="587183" tvg-id="" tvg-name="|ES| NICK JR HD" tvg-logo="http://fanc.tmsimg.com/assets/s60295_ll_h3_aa.png" group-title="Espanha",|ES| NICK JR HD
+#EXTINF:-1 xui-id="587183" tvg-id="" tvg-name="|ES| NICK JR HD" tvg-logo="http://fanc.tmsimg.com/assets/s60295_ll_h3_aa.png" group-title="✳️ Espanha",|ES| NICK JR HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkAhe5jK9zMJCxxRl4C6NG4/ts
-#EXTINF:-1 xui-id="587184" tvg-id="" tvg-name="|ES| NICKELODEON HD" tvg-logo="http://fanc.tmsimg.com/assets/s101208_ll_h3_aa.png" group-title="Espanha",|ES| NICKELODEON HD
+#EXTINF:-1 xui-id="587184" tvg-id="" tvg-name="|ES| NICKELODEON HD" tvg-logo="http://fanc.tmsimg.com/assets/s101208_ll_h3_aa.png" group-title="✳️ Espanha",|ES| NICKELODEON HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuG2a86lFY5B55SHSbbjV8U/ts
-#EXTINF:-1 xui-id="587185" tvg-id="" tvg-name="|ES| NICKELODEON FHD" tvg-logo="http://fanc.tmsimg.com/assets/s101208_ll_h3_aa.png" group-title="Espanha",|ES| NICKELODEON FHD
+#EXTINF:-1 xui-id="587185" tvg-id="" tvg-name="|ES| NICKELODEON FHD" tvg-logo="http://fanc.tmsimg.com/assets/s101208_ll_h3_aa.png" group-title="✳️ Espanha",|ES| NICKELODEON FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgI4r49VKjJhPRMAFqVnKq0/ts
-#EXTINF:-1 xui-id="587186" tvg-id="" tvg-name="|ES| CANAL PANDA HD" tvg-logo="http://fanc.tmsimg.com/assets/s53736_ll_h3_aa.png" group-title="Espanha",|ES| CANAL PANDA HD
+#EXTINF:-1 xui-id="587186" tvg-id="" tvg-name="|ES| CANAL PANDA HD" tvg-logo="http://fanc.tmsimg.com/assets/s53736_ll_h3_aa.png" group-title="✳️ Espanha",|ES| CANAL PANDA HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgYLRbQIh8laIiofDR1ndlY/ts
-#EXTINF:-1 xui-id="587187" tvg-id="" tvg-name="|ES| CANAL PANDA" tvg-logo="http://fanc.tmsimg.com/assets/s53736_ll_h3_aa.png" group-title="Espanha",|ES| CANAL PANDA
+#EXTINF:-1 xui-id="587187" tvg-id="" tvg-name="|ES| CANAL PANDA" tvg-logo="http://fanc.tmsimg.com/assets/s53736_ll_h3_aa.png" group-title="✳️ Espanha",|ES| CANAL PANDA
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvppil5gh83sMNLDwmuu6hk/ts
-#EXTINF:-1 xui-id="587188" tvg-id="" tvg-name="|ES| TEN" tvg-logo="http://fanc.tmsimg.com/assets/s100496_ll_h3_aa.png" group-title="Espanha",|ES| TEN
+#EXTINF:-1 xui-id="587188" tvg-id="" tvg-name="|ES| TEN" tvg-logo="http://fanc.tmsimg.com/assets/s100496_ll_h3_aa.png" group-title="✳️ Espanha",|ES| TEN
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKojVh_gWZcv7mQLmk0rxT0U/ts
-#EXTINF:-1 xui-id="587189" tvg-id="" tvg-name="|ES| BREAK HD" tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/AMC_Break.png" group-title="Espanha",|ES| BREAK HD
+#EXTINF:-1 xui-id="587189" tvg-id="" tvg-name="|ES| BREAK HD" tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/AMC_Break.png" group-title="✳️ Espanha",|ES| BREAK HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpHQMcj105p4phzuXf_XXb8/ts
-#EXTINF:-1 xui-id="587190" tvg-id="" tvg-name="|ES| BREAK" tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/AMC_Break.png" group-title="Espanha",|ES| BREAK
+#EXTINF:-1 xui-id="587190" tvg-id="" tvg-name="|ES| BREAK" tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/AMC_Break.png" group-title="✳️ Espanha",|ES| BREAK
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjOWqBl2oGIe9pEXpNOUmCI/ts
-#EXTINF:-1 xui-id="587191" tvg-id="" tvg-name="|ES| M. BBC Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-CLyuYFmVJ-1Ih6nTMxv5UaeVR18I_RZ77_c0PJ-dA&s" group-title="Espanha",|ES| M. BBC Earth
+#EXTINF:-1 xui-id="587191" tvg-id="" tvg-name="|ES| M. BBC Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-CLyuYFmVJ-1Ih6nTMxv5UaeVR18I_RZ77_c0PJ-dA&s" group-title="✳️ Espanha",|ES| M. BBC Earth
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqhTmaDEPreiAA5K0ogSOoY/ts
-#EXTINF:-1 xui-id="587192" tvg-id="" tvg-name="|ES| CAZA Y PESCA HD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="Espanha",|ES| CAZA Y PESCA HD
+#EXTINF:-1 xui-id="587192" tvg-id="" tvg-name="|ES| CAZA Y PESCA HD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="✳️ Espanha",|ES| CAZA Y PESCA HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKva06pLQOOa_TSDwxh0dVjU/ts
-#EXTINF:-1 xui-id="587193" tvg-id="" tvg-name="|ES| CAZA Y PESCA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s86992_ll_h3_aa.png" group-title="Espanha",|ES| CAZA Y PESCA FHD
+#EXTINF:-1 xui-id="587193" tvg-id="" tvg-name="|ES| CAZA Y PESCA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s86992_ll_h3_aa.png" group-title="✳️ Espanha",|ES| CAZA Y PESCA FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrTQOeZ52uDp-Q69hGrIDG0/ts
-#EXTINF:-1 xui-id="587194" tvg-id="" tvg-name="|ES| CANAL ODISEA" tvg-logo="http://fanc.tmsimg.com/assets/s53785_ll_h3_aa.png" group-title="Espanha",|ES| CANAL ODISEA
+#EXTINF:-1 xui-id="587194" tvg-id="" tvg-name="|ES| CANAL ODISEA" tvg-logo="http://fanc.tmsimg.com/assets/s53785_ll_h3_aa.png" group-title="✳️ Espanha",|ES| CANAL ODISEA
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgyDmpUotr5hcLJswZRJ3Mg/ts
-#EXTINF:-1 xui-id="587195" tvg-id="" tvg-name="|ES| DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s87044_ll_h3_aa.png" group-title="Espanha",|ES| DISCOVERY
+#EXTINF:-1 xui-id="587195" tvg-id="" tvg-name="|ES| DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s87044_ll_h3_aa.png" group-title="✳️ Espanha",|ES| DISCOVERY
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsmil7ESowZ0vBk4hfLmktA/ts
-#EXTINF:-1 xui-id="587196" tvg-id="" tvg-name="|ES| AMC CRIME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/AMC_Crime.svg/revision/latest/scale-to-width-down/300?cb=20220420114936" group-title="Espanha",|ES| AMC CRIME
+#EXTINF:-1 xui-id="587196" tvg-id="" tvg-name="|ES| AMC CRIME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/AMC_Crime.svg/revision/latest/scale-to-width-down/300?cb=20220420114936" group-title="✳️ Espanha",|ES| AMC CRIME
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtUH0M2fIAV0rcdxLKvQ5fQ/ts
-#EXTINF:-1 xui-id="587197" tvg-id="" tvg-name="|ES| HISTORIA" tvg-logo="http://fanc.tmsimg.com/assets/s90350_ll_h3_aa.png" group-title="Espanha",|ES| HISTORIA
+#EXTINF:-1 xui-id="587197" tvg-id="" tvg-name="|ES| HISTORIA" tvg-logo="http://fanc.tmsimg.com/assets/s90350_ll_h3_aa.png" group-title="✳️ Espanha",|ES| HISTORIA
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr4sJfEBDSkhirfXm48QUFo/ts
-#EXTINF:-1 xui-id="587198" tvg-id="" tvg-name="[ES] HISTORIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s97473_ll_h3_aa.png" group-title="Espanha",[ES] HISTORIA HD
+#EXTINF:-1 xui-id="587198" tvg-id="" tvg-name="[ES] HISTORIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s97473_ll_h3_aa.png" group-title="✳️ Espanha",[ES] HISTORIA HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtf3yymz9MC1Cr5m7TKhT_M/ts
-#EXTINF:-1 xui-id="587199" tvg-id="" tvg-name="|ES| NAT GEO HD" tvg-logo="http://fanc.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="Espanha",|ES| NAT GEO HD
+#EXTINF:-1 xui-id="587199" tvg-id="" tvg-name="|ES| NAT GEO HD" tvg-logo="http://fanc.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="✳️ Espanha",|ES| NAT GEO HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpnQGukCByLhq_oLdi0Egq0/ts
-#EXTINF:-1 xui-id="587200" tvg-id="" tvg-name="|ES| NAT GEO FHD" tvg-logo="http://fanc.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="Espanha",|ES| NAT GEO FHD
+#EXTINF:-1 xui-id="587200" tvg-id="" tvg-name="|ES| NAT GEO FHD" tvg-logo="http://fanc.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="✳️ Espanha",|ES| NAT GEO FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKi2i4a-xcyqNsnxCz9eXkyI/ts
-#EXTINF:-1 xui-id="587201" tvg-id="" tvg-name="|ES| NAT GEO WILD HD" tvg-logo="http://fanc.tmsimg.com/assets/s66491_ll_h3_ab.png" group-title="Espanha",|ES| NAT GEO WILD HD
+#EXTINF:-1 xui-id="587201" tvg-id="" tvg-name="|ES| NAT GEO WILD HD" tvg-logo="http://fanc.tmsimg.com/assets/s66491_ll_h3_ab.png" group-title="✳️ Espanha",|ES| NAT GEO WILD HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpKrmS97eJ4oN73fA8QrZoY/ts
-#EXTINF:-1 xui-id="587202" tvg-id="" tvg-name="|ES| NAT GEO WILD FHD" tvg-logo="http://fanc.tmsimg.com/assets/s66491_ll_h3_ab.png" group-title="Espanha",|ES| NAT GEO WILD FHD
+#EXTINF:-1 xui-id="587202" tvg-id="" tvg-name="|ES| NAT GEO WILD FHD" tvg-logo="http://fanc.tmsimg.com/assets/s66491_ll_h3_ab.png" group-title="✳️ Espanha",|ES| NAT GEO WILD FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrtg8dlsVMZgILtWegabbug/ts
-#EXTINF:-1 xui-id="587203" tvg-id="" tvg-name="|ES| TOROS HD" tvg-logo="http://fanc.tmsimg.com/assets/s91196_ll_h3_ab.png" group-title="Espanha",|ES| TOROS HD
+#EXTINF:-1 xui-id="587203" tvg-id="" tvg-name="|ES| TOROS HD" tvg-logo="http://fanc.tmsimg.com/assets/s91196_ll_h3_ab.png" group-title="✳️ Espanha",|ES| TOROS HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnqb3waU1R_iqaBAlH0z2Yk/ts
-#EXTINF:-1 xui-id="587204" tvg-id="" tvg-name="|ES| TOROS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91196_ll_h3_ab.png" group-title="Espanha",|ES| TOROS FHD
+#EXTINF:-1 xui-id="587204" tvg-id="" tvg-name="|ES| TOROS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91196_ll_h3_ab.png" group-title="✳️ Espanha",|ES| TOROS FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsFN0vBgd_ehcf1WNS7wBsM/ts
-#EXTINF:-1 xui-id="587205" tvg-id="" tvg-name="|ES| Cazavision" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="Espanha",|ES| Cazavision
+#EXTINF:-1 xui-id="587205" tvg-id="" tvg-name="|ES| Cazavision" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="✳️ Espanha",|ES| Cazavision
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgXF4RUk6cKHr5B7Mr8C-B8/ts
-#EXTINF:-1 xui-id="587206" tvg-id="" tvg-name="|ES| LA Resistencia HD" tvg-logo="" group-title="Espanha",|ES| LA Resistencia HD
+#EXTINF:-1 xui-id="587206" tvg-id="" tvg-name="|ES| LA Resistencia HD" tvg-logo="" group-title="✳️ Espanha",|ES| LA Resistencia HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuNi-H90QM6UnlO6t0uYJCQ/ts
-#EXTINF:-1 xui-id="587207" tvg-id="" tvg-name="|ES| LA Resistencia FHD" tvg-logo="" group-title="Espanha",|ES| LA Resistencia FHD
+#EXTINF:-1 xui-id="587207" tvg-id="" tvg-name="|ES| LA Resistencia FHD" tvg-logo="" group-title="✳️ Espanha",|ES| LA Resistencia FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlM--1qwvsK_0Uo1wTNeRok/ts
-#EXTINF:-1 xui-id="587208" tvg-id="" tvg-name="|ES| MEZZO HD" tvg-logo="https://i.postimg.cc/FHt8KJnf/image.png" group-title="Espanha",|ES| MEZZO HD
+#EXTINF:-1 xui-id="587208" tvg-id="" tvg-name="|ES| MEZZO HD" tvg-logo="https://i.postimg.cc/FHt8KJnf/image.png" group-title="✳️ Espanha",|ES| MEZZO HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKh2D5U-6ClG7WozZzpsVxJ4/ts
-#EXTINF:-1 xui-id="587209" tvg-id="" tvg-name="|ES| MTV ESPAÑA" tvg-logo="http://fanc.tmsimg.com/assets/s86934_ll_h3_aa.png" group-title="Espanha",|ES| MTV ESPAÑA
+#EXTINF:-1 xui-id="587209" tvg-id="" tvg-name="|ES| MTV ESPAÑA" tvg-logo="http://fanc.tmsimg.com/assets/s86934_ll_h3_aa.png" group-title="✳️ Espanha",|ES| MTV ESPAÑA
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhAgf0oL2FEIHRTc_1Uo8zg/ts
-#EXTINF:-1 xui-id="587210" tvg-id="" tvg-name="|ES| DARK HD" tvg-logo="http://fanc.tmsimg.com/assets/s90324_ll_h3_aa.png" group-title="Espanha",|ES| DARK HD
+#EXTINF:-1 xui-id="587210" tvg-id="" tvg-name="|ES| DARK HD" tvg-logo="http://fanc.tmsimg.com/assets/s90324_ll_h3_aa.png" group-title="✳️ Espanha",|ES| DARK HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhieOcG5FwsgY9o8lRQT97g/ts
-#EXTINF:-1 xui-id="587211" tvg-id="" tvg-name="|ES| SUNDANCE TV FHD" tvg-logo="https://i.postimg.cc/c6yYfTf8/sundance-placeholder-16x9.png" group-title="Espanha",|ES| SUNDANCE TV FHD
+#EXTINF:-1 xui-id="587211" tvg-id="" tvg-name="|ES| SUNDANCE TV FHD" tvg-logo="https://i.postimg.cc/c6yYfTf8/sundance-placeholder-16x9.png" group-title="✳️ Espanha",|ES| SUNDANCE TV FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmMlruLHYLaS9U3y7UHP4C4/ts
-#EXTINF:-1 xui-id="587212" tvg-id="" tvg-name="|ES|  VIAJE" tvg-logo="" group-title="Espanha",|ES|  VIAJE
+#EXTINF:-1 xui-id="587212" tvg-id="" tvg-name="|ES|  VIAJE" tvg-logo="" group-title="✳️ Espanha",|ES|  VIAJE
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKp1N609CxXicrGgy2xiN9GU/ts
-#EXTINF:-1 xui-id="378007" tvg-id="" tvg-name="PORNBOX: ASMR FANTASY" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: ASMR FANTASY
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtfw8bWkzvcFhWX8ysecu1Q/ts
-#EXTINF:-1 xui-id="378008" tvg-id="" tvg-name="PORNBOX: ATK GIRLFRIENDS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: ATK GIRLFRIENDS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhMRS-sZ6HgIXOePH0229v8/ts
-#EXTINF:-1 xui-id="378009" tvg-id="" tvg-name="PORNBOX: BABES" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BABES
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpu7O-7Nrv9xiwjjGFOV1Yw/ts
-#EXTINF:-1 xui-id="378010" tvg-id="" tvg-name="PORNBOX: BABES UNLEASHED" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BABES UNLEASHED
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoAFjBG0MP5U5NhcFPx-SSY/ts
-#EXTINF:-1 xui-id="378011" tvg-id="" tvg-name="PORNBOX: BABESALICIOUS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BABESALICIOUS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmQBBLvhbOIbO7L3P90cu5k/ts
-#EXTINF:-1 xui-id="378012" tvg-id="" tvg-name="PORNBOX: BAD DADDY POV" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BAD DADDY POV
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsbmxh0xCvFT5V8DE0QZJBw/ts
-#EXTINF:-1 xui-id="378013" tvg-id="" tvg-name="PORNBOX: BAEB" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BAEB
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKu2aIJ3q7lLdsh2lJ2Qgqa8/ts
-#EXTINF:-1 xui-id="378014" tvg-id="" tvg-name="PORNBOX: BANGBUS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BANGBUS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlpBsqJwi0f0D8MhCdRaVxs/ts
-#EXTINF:-1 xui-id="378015" tvg-id="" tvg-name="PORNBOX: BELLESA FILMS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BELLESA FILMS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmoE6iSccaQGOT64HsWZ1F0/ts
-#EXTINF:-1 xui-id="378016" tvg-id="" tvg-name="PORNBOX: BIG NATURALS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BIG NATURALS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqWK7wKJv-j8gjBe-YILKsQ/ts
-#EXTINF:-1 xui-id="378017" tvg-id="" tvg-name="PORNBOX: BITCHES ABROAD" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BITCHES ABROAD
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKv9fxWGs6n8Js0vCMZicmEM/ts
-#EXTINF:-1 xui-id="378018" tvg-id="" tvg-name="PORNBOX: BLACK IS BETTER" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BLACK IS BETTER
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsPgh6RMlhjk-RjmMODi2S0/ts
-#EXTINF:-1 xui-id="378019" tvg-id="" tvg-name="PORNBOX: BLACKED" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BLACKED
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKt8QjnrMTHrQjSSk3AOFbuY/ts
-#EXTINF:-1 xui-id="378020" tvg-id="" tvg-name="PORNBOX: BLACKED RAW" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BLACKED RAW
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoX14rrCnpU4pHOIgjL8OZI/ts
-#EXTINF:-1 xui-id="378021" tvg-id="" tvg-name="PORNBOX: BRATTY SIS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BRATTY SIS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKt9zkUQBjqXLkHNXACOSudo/ts
-#EXTINF:-1 xui-id="378022" tvg-id="" tvg-name="PORNBOX: BRAZZERS EN ESPANOL" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: BRAZZERS EN ESPANOL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoDN72L1jPtqgIeGBRBpFS8/ts
-#EXTINF:-1 xui-id="378023" tvg-id="" tvg-name="PORNBOX: CUM 4K" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: CUM 4K
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmFbvV3yDxCJ9HfkxaHhNKU/ts
-#EXTINF:-1 xui-id="378024" tvg-id="" tvg-name="PORNBOX: CUM FIESTA" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: CUM FIESTA
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoxdjItN1lNOqse2GBC0XOA/ts
-#EXTINF:-1 xui-id="378025" tvg-id="" tvg-name="PORNBOX: DAUGHTER SWAP" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: DAUGHTER SWAP
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuDZfkiivKzxcqr6yBRi0i0/ts
-#EXTINF:-1 xui-id="378026" tvg-id="" tvg-name="PORNBOX: DAY WITH A PORNSTAR" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: DAY WITH A PORNSTAR
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhrwXHxE-eQoHjQ_i2_LPiU/ts
-#EXTINF:-1 xui-id="378027" tvg-id="" tvg-name="PORNBOX: DEEPER" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: DEEPER
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnTiQ9af0qxBDw-tM_NVRmU/ts
-#EXTINF:-1 xui-id="378028" tvg-id="" tvg-name="PORNBOX: DFD BUSTY" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: DFD BUSTY
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhWQ9qumjRcFdvtrrAhiEWc/ts
-#EXTINF:-1 xui-id="378029" tvg-id="" tvg-name="PORNBOX: DDF NETWORK" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: DDF NETWORK
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlQRVOHtxeVZeXy_CwlzrHw/ts
-#EXTINF:-1 xui-id="378030" tvg-id="" tvg-name="PORNBOX: DIGITAL PLAYGROUND" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: DIGITAL PLAYGROUND
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkSKlKBMEGVWoSE-m9zuBLg/ts
-#EXTINF:-1 xui-id="378031" tvg-id="" tvg-name="PORNBOX: DOG FART NETWORK" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: DOG FART NETWORK
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvc4G2xpp-dk8UwX9bNgs50/ts
-#EXTINF:-1 xui-id="378032" tvg-id="" tvg-name="PORNBOX: DON'T BREAK ME" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: DON'T BREAK ME
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgnoU9Yh6oDeCnWWdbz0st0/ts
-#EXTINF:-1 xui-id="378033" tvg-id="" tvg-name="PORNBOX: ELEGANT ANAL" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: ELEGANT ANAL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuezDvRoWCUdPrX0oo31INY/ts
-#EXTINF:-1 xui-id="378034" tvg-id="" tvg-name="PORNBOX: ERITO" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: ERITO
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhSbxglRli7spoYWtmCDYDE/ts
-#EXTINF:-1 xui-id="378035" tvg-id="" tvg-name="PORNBOX: EROTIC SPICE" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: EROTIC SPICE
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjKkwalvMXuxhsXhkIt41OY/ts
-#EXTINF:-1 xui-id="378036" tvg-id="" tvg-name="PORNBOX: EXOTIC 4K" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: EXOTIC 4K
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuK4S5lwnBnTVFR2Lm0jeWs/ts
-#EXTINF:-1 xui-id="378037" tvg-id="" tvg-name="PORNBOX: EXXXTRA SMALL" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: EXXXTRA SMALL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKujnufFvBJksDdY658C_ZHM/ts
-#EXTINF:-1 xui-id="378038" tvg-id="" tvg-name="PORNBOX: FAKE AGENT" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FAKE AGENT
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhy4He1SKxTiM6mFJVVWgKI/ts
-#EXTINF:-1 xui-id="378039" tvg-id="" tvg-name="PORNBOX: FAKE AGENT UK" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FAKE AGENT UK
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlMdBQzC3UjBFSenRHapR1Y/ts
-#EXTINF:-1 xui-id="378040" tvg-id="" tvg-name="PORNBOX: FAKE COP" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FAKE COP
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKo70MBkbMJXbyCGYBrdP2DY/ts
-#EXTINF:-1 xui-id="378041" tvg-id="" tvg-name="PORNBOX: FAKE DRIVING SCHOOL" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FAKE DRIVING SCHOOL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlniypJ_Foqpzy8pSk4EbS0/ts
-#EXTINF:-1 xui-id="378042" tvg-id="" tvg-name="PORNBOX: FAKE HOSPITAL" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FAKE HOSPITAL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrPIiXjjUx1dV1_7nfRNbm8/ts
-#EXTINF:-1 xui-id="378043" tvg-id="" tvg-name="PORNBOX: FAKE HOSTEL" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FAKE HOSTEL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsD4dERaBxXhEhAgG12S6_o/ts
-#EXTINF:-1 xui-id="378044" tvg-id="" tvg-name="PORNBOX: FAKE TAXI" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FAKE TAXI
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoCRxXqXvZ2sCJfHOPo74Yg/ts
-#EXTINF:-1 xui-id="378045" tvg-id="" tvg-name="PORNBOX: REALITY KINGS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: REALITY KINGS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnxmXkILsrHmcAzBBtDzOUM/ts
-#EXTINF:-1 xui-id="378046" tvg-id="" tvg-name="PORNBOX: FAMILY STROKES" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FAMILY STROKES
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtFIt7KJ4nI1a11QdyMxy6Y/ts
-#EXTINF:-1 xui-id="378047" tvg-id="" tvg-name="PORNBOX: FAMILY XXX" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FAMILY XXX
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKm8L5Oi3Ci5oWnM2AkAnSAM/ts
-#EXTINF:-1 xui-id="378048" tvg-id="" tvg-name="PORNBOX: FEMALE AGENT" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FEMALE AGENT
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqldDB8TnYUEbGImcFvyREQ/ts
-#EXTINF:-1 xui-id="378049" tvg-id="" tvg-name="PORNBOX: FEMALE FAKE TAXI" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FEMALE FAKE TAXI
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlCk9lvNywHwH2xAHnCUYN0/ts
-#EXTINF:-1 xui-id="378050" tvg-id="" tvg-name="PORNBOX: FEVER FILMS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FEVER FILMS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqaxq4fbDqDbFSKt8D2pICE/ts
-#EXTINF:-1 xui-id="378051" tvg-id="" tvg-name="PORNBOX: FIRST ANAL QUEST" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FIRST ANAL QUEST
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlzHi0b5LSacLH_Bo7nna5I/ts
-#EXTINF:-1 xui-id="378052" tvg-id="" tvg-name="PORNBOX: FITNESS ROOMS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FITNESS ROOMS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmkZYxRkPxpG03CVK3KsO58/ts
-#EXTINF:-1 xui-id="378053" tvg-id="" tvg-name="PORNBOX: FORGIVE ME FATHER" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: FORGIVE ME FATHER
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKroVOzojWlGNdfbpOk66pPo/ts
-#EXTINF:-1 xui-id="378054" tvg-id="" tvg-name="PORNBOX: GF REGENVE" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: GF REGENVE
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqd91LjhYaUfIpYUCQYqCD8/ts
-#EXTINF:-1 xui-id="378055" tvg-id="" tvg-name="PORNBOX: GIRLS GONE PINK" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: GIRLS GONE PINK
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlSypDZXC5uO3_POGY1NjFU/ts
-#EXTINF:-1 xui-id="378056" tvg-id="" tvg-name="PORNBOX: GOTMYLF" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: GOTMYLF
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKselUOHIa_qnBAQK7JjMstg/ts
-#EXTINF:-1 xui-id="378057" tvg-id="" tvg-name="PORNBOX: DORCEL CLUB" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: DORCEL CLUB
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlpFNGV4S1KyBroiV3jpy8w/ts
-#EXTINF:-1 xui-id="378058" tvg-id="" tvg-name="PORNBOX: HER LIMIT" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: HER LIMIT
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjV3pO2RxQtnRzAfB_M0K6k/ts
-#EXTINF:-1 xui-id="378059" tvg-id="" tvg-name="PORNBOX: HOT WIFE XXX" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: HOT WIFE XXX
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKknLhEg8Bh_NWAW4wP1LI7Q/ts
-#EXTINF:-1 xui-id="378060" tvg-id="" tvg-name="PORNBOX: I KNOW THAT GIRL" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: I KNOW THAT GIRL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk1dQUtZ78W-I42ECoLif8U/ts
-#EXTINF:-1 xui-id="378061" tvg-id="" tvg-name="PORNBOX: JAPAN LUST" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: JAPAN LUST
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiRnQFgMI6nr90AYAmZ0oV0/ts
-#EXTINF:-1 xui-id="378062" tvg-id="" tvg-name="PORNBOX: JAV HUB" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: JAV HUB
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmrrKxQK2COfN_D-xugbxrQ/ts
-#EXTINF:-1 xui-id="378063" tvg-id="" tvg-name="PORNBOX: JAYS POV" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: JAYS POV
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg-c40ObSNpN9QmbIuGEk0o/ts
-#EXTINF:-1 xui-id="378064" tvg-id="" tvg-name="PORNBOX: JESH BY JESH" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: JESH BY JESH
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpi7GKvAIk8CMBXA9PahZ6U/ts
-#EXTINF:-1 xui-id="378065" tvg-id="" tvg-name="PORNBOX: KINKY SPA" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: KINKY SPA
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqS5U6F5VNs1vo0bvLJSPLc/ts
-#EXTINF:-1 xui-id="378066" tvg-id="" tvg-name="PORNBOX: LETS DO IT" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: LETS DO IT
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhNtFEP7hy5mb7AyOmIdsSI/ts
-#EXTINF:-1 xui-id="378067" tvg-id="" tvg-name="PORNBOX: LIFE SELECTON" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: LIFE SELECTON
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnBnqzYL1l-GPJYNlNtaEOI/ts
-#EXTINF:-1 xui-id="378068" tvg-id="" tvg-name="PORNBOX: LOVE HER ASS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: LOVE HER ASS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuYPwQlChdvszVQGmn8uz34/ts
-#EXTINF:-1 xui-id="378069" tvg-id="" tvg-name="PORNBOX: MASSAGE ROOMS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MASSAGE ROOMS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKio-sgTbOAVPC1Lv1sJ6xF8/ts
-#EXTINF:-1 xui-id="378070" tvg-id="" tvg-name="PORNBOX: MEAN GIRLS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MEAN GIRLS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmd7WHBE0p22cEM4JDoYwNM/ts
-#EXTINF:-1 xui-id="378071" tvg-id="" tvg-name="PORNBOX: MIKES APARTMENT" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MIKES APARTMENT
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoaxQywn2FO-TZeC-QohO5A/ts
-#EXTINF:-1 xui-id="378072" tvg-id="" tvg-name="PORNBOX: MILE HIGH" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MILE HIGH
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnyDQ5P4GD594hR8RcDt8-c/ts
-#EXTINF:-1 xui-id="378073" tvg-id="" tvg-name="PORNBOX: MILF HUNTER" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MILF HUNTER
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKurWoKxpfNqhVZ_5ZY8I-kQ/ts
-#EXTINF:-1 xui-id="378074" tvg-id="" tvg-name="PORNBOX: MOFOS B SIDES" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MOFOS B SIDES
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgDWUV6yD3ADq-c3CETgem0/ts
-#EXTINF:-1 xui-id="378075" tvg-id="" tvg-name="PORNBOX: MOFOS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MOFOS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhAwm0pQqDNayXDSi4cNhQU/ts
-#EXTINF:-1 xui-id="378076" tvg-id="" tvg-name="PORNBOX: MOM KNOWS BEST" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MOM KNOWS BEST
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtozC3KvX-CfSvW1XVX183w/ts
-#EXTINF:-1 xui-id="378077" tvg-id="" tvg-name="PORNBOX: MOM TEACH SEX" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MOM TEACH SEX
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKl8tqvH42Y3qCl4gYOk-MPs/ts
-#EXTINF:-1 xui-id="378078" tvg-id="" tvg-name="PORNBOX: MONEY TALKS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MONEY TALKS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg0fa669oTsVAWLrYnoxHiI/ts
-#EXTINF:-1 xui-id="378079" tvg-id="" tvg-name="PORNBOX: MR LUCKY POV" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MR LUCKY POV
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuuJclnUdxkyBus1rs60Z6o/ts
-#EXTINF:-1 xui-id="378080" tvg-id="" tvg-name="PORNBOX: SWEET SINNER" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: SWEET SINNER
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKngFWjdGLPxwEJENP9zkmvM/ts
-#EXTINF:-1 xui-id="378081" tvg-id="" tvg-name="PORNBOX: MY DIRT HOBBY" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MY DIRT HOBBY
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKufaA-OQ_10LM8xu0V3X_6o/ts
-#EXTINF:-1 xui-id="378082" tvg-id="" tvg-name="PORNBOX: MY FAMILY PIES" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MY FAMILY PIES
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgG7_hh16BrbszEHulRCNFc/ts
-#EXTINF:-1 xui-id="378083" tvg-id="" tvg-name="PORNBOX: MY FRIENDS HOT MOM" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MY FRIENDS HOT MOM
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnAOQEuYXIzkduF_vDZrOME/ts
-#EXTINF:-1 xui-id="378084" tvg-id="" tvg-name="PORNBOX: MY LIFE IN MIAMI" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MY LIFE IN MIAMI
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpu7BEIcPdAh2XczomC-mdQ/ts
-#EXTINF:-1 xui-id="378085" tvg-id="" tvg-name="PORNBOX: MY PERVY FAMILY" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MY PERVY FAMILY
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrbixYfpG5c6qscuujDAsjE/ts
-#EXTINF:-1 xui-id="378086" tvg-id="" tvg-name="PORNBOX: MY VERY FIRST TIME" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MY VERY FIRST TIME
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuUpnxnhMxHuqKo2jakqSTg/ts
-#EXTINF:-1 xui-id="378087" tvg-id="" tvg-name="PORNBOX: MYLF" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: MYLF
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmIvweZjQjKMSiaxCmUBnYY/ts
-#EXTINF:-1 xui-id="378088" tvg-id="" tvg-name="PORNBOX: NANNY SPY" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: NANNY SPY
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjMWBo3Xf9ly43P2TkNd-4A/ts
-#EXTINF:-1 xui-id="378089" tvg-id="" tvg-name="PORNBOX: NAUGHTY AMERICA" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: NAUGHTY AMERICA
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsHFo2oR4OPj_ABg5zqOeQU/ts
-#EXTINF:-1 xui-id="378090" tvg-id="" tvg-name="PORNBOX: NF BUSTY" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: NF BUSTY
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrvcnPTS14VispFsusaVb0M/ts
-#EXTINF:-1 xui-id="378091" tvg-id="" tvg-name="PORNBOX: NUBILE FILMS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: NUBILE FILMS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvPINph5c2E0cLK1DLj59XA/ts
-#EXTINF:-1 xui-id="378092" tvg-id="" tvg-name="PORNBOX: OFFICE OBSESSION" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: OFFICE OBSESSION
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkgL7K1nUmwfnqIJSDjIMec/ts
-#EXTINF:-1 xui-id="378093" tvg-id="" tvg-name="PORNBOX: PERV MOM" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: PERV MOM
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvvmU9N_JMOh1MEmw6myNhY/ts
-#EXTINF:-1 xui-id="378094" tvg-id="" tvg-name="PORNBOX: PERVS ON PATROL" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: PERVS ON PATROL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmjG5w9zTKha2f2TQQqJHwA/ts
-#EXTINF:-1 xui-id="378095" tvg-id="" tvg-name="PORNBOX: PORNO ACADEMIE" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: PORNO ACADEMIE
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqsBpj7Ja4AJolM11j2a3kI/ts
-#EXTINF:-1 xui-id="378096" tvg-id="" tvg-name="PORNBOX: POVD" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: POVD
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvzctE43J2hWIFVKVsuMDa4/ts
-#EXTINF:-1 xui-id="378097" tvg-id="" tvg-name="PORNBOX: PRESTIGE JAPAN" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: PRESTIGE JAPAN
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKu5JQXHBIZu2V5KILRwtyko/ts
-#EXTINF:-1 xui-id="378098" tvg-id="" tvg-name="PORNBOX: PRETTY DIRTY" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: PRETTY DIRTY
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjan44LHyCtQYygUDb3RvEU/ts
-#EXTINF:-1 xui-id="378099" tvg-id="" tvg-name="PORNBOX: PRIVATE" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: PRIVATE
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgv_VU0D4p4jbc9dsIdeFSI/ts
-#EXTINF:-1 xui-id="378100" tvg-id="" tvg-name="PORNBOX: PROPERTY SEX" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: PROPERTY SEX
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhqt3HmzI4x0Rbfg8mLEm1E/ts
-#EXTINF:-1 xui-id="378101" tvg-id="" tvg-name="PORNBOX: PUBLIC AGENT" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: PUBLIC AGENT
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjcK-pO6zHZI8o4A82sMbK4/ts
-#EXTINF:-1 xui-id="378102" tvg-id="" tvg-name="PORNBOX: PUBLIC PICKUPS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: PUBLIC PICKUPS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuRQ4sP8NEe68ukuAg0a0DM/ts
-#EXTINF:-1 xui-id="378103" tvg-id="" tvg-name="PORNBOX: PURE18" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: PURE18
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs0n2-6dgwDBDnQySM4eIF0/ts
-#EXTINF:-1 xui-id="378104" tvg-id="" tvg-name="PORNBOX: RAW ATTACK" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: RAW ATTACK
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoQlTfYkbhiifO5bO2REiqo/ts
-#EXTINF:-1 xui-id="378105" tvg-id="" tvg-name="PORNBOX: REAL EX GIRLFRIENDS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: REAL EX GIRLFRIENDS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs9zwuoriNJA0IM4NdlHF2c/ts
-#EXTINF:-1 xui-id="378106" tvg-id="" tvg-name="PORNBOX: REAL SENSUAL" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: REAL SENSUAL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkDYUb0HhyNeYc5XnON0Mek/ts
-#EXTINF:-1 xui-id="378107" tvg-id="" tvg-name="PORNBOX: RK PRIME" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: RK PRIME
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKv2aVswuud7tT3l3cN70n_I/ts
-#EXTINF:-1 xui-id="378108" tvg-id="" tvg-name="PORNBOX: SELL YOUR GF" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: SELL YOUR GF
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoo6eAAPyFs5WLP66rG_Mf4/ts
-#EXTINF:-1 xui-id="378109" tvg-id="" tvg-name="PORNBOX: SEX WORKING" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: SEX WORKING
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg7mgEUzxQPeD2qZFgnW3Ow/ts
-#EXTINF:-1 xui-id="378110" tvg-id="" tvg-name="PORNBOX: SHARE MY BF" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: SHARE MY BF
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiwMQhYOelj4nfMF6BlO4Ew/ts
-#EXTINF:-1 xui-id="378111" tvg-id="" tvg-name="PORNBOX: SIS LOVES ME" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: SIS LOVES ME
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrm-cn83RGdNsnldErGe7rI/ts
-#EXTINF:-1 xui-id="378112" tvg-id="" tvg-name="PORNBOX: STEP MOM LESSONS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: STEP MOM LESSONS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrLZdT8yJ6zvRChm6zySXhE/ts
-#EXTINF:-1 xui-id="378113" tvg-id="" tvg-name="PORNBOX: STEPSIBLINGS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: STEPSIBLINGS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuHjTsxEW-eccMQGvYxovDE/ts
-#EXTINF:-1 xui-id="378114" tvg-id="" tvg-name="PORNBOX: STRANDED TEENS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: STRANDED TEENS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrspELkEOQ14gTxcjMY-S0U/ts
-#EXTINF:-1 xui-id="378115" tvg-id="" tvg-name="PORNBOX: SWALLOW SALON" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: SWALLOW SALON
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpwzh_03sCUVx57VtZ4SOJ4/ts
-#EXTINF:-1 xui-id="378116" tvg-id="" tvg-name="PORNBOX: THE INNOCENCE OF YOUTH" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: THE INNOCENCE OF YOUTH
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKij_mJ9jDv5dG3SPqh-4tkU/ts
-#EXTINF:-1 xui-id="378117" tvg-id="" tvg-name="PORNBOX: TINY 4K" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: TINY 4K
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKor-9Ugt2WX-tK2LXn-sD6w/ts
-#EXTINF:-1 xui-id="378118" tvg-id="" tvg-name="PORNBOX: TONIGHTS GIRLFRIEND" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: TONIGHTS GIRLFRIEND
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsJfadwA-40Y2vsSWaLA2jg/ts
-#EXTINF:-1 xui-id="378119" tvg-id="" tvg-name="PORNBOX: TURNING TWISTYS" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: TURNING TWISTYS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKv_ukSgEw_L3YJqJeaI0h3E/ts
-#EXTINF:-1 xui-id="378120" tvg-id="" tvg-name="PORNBOX: TUSHY" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: TUSHY
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpMTS1FICktFmKU6zKe89EY/ts
-#EXTINF:-1 xui-id="378121" tvg-id="" tvg-name="PORNBOX: TWISTYS ORIGINAL" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: TWISTYS ORIGINAL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjvQPmieQbsIuRVuDDWh3gI/ts
-#EXTINF:-1 xui-id="378122" tvg-id="" tvg-name="PORNBOX: VIXEN" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: VIXEN
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnRQ1JUxGfyljJGfI9iOnTM/ts
-#EXTINF:-1 xui-id="378123" tvg-id="" tvg-name="PORNBOX: VLOG XXX" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: VLOG XXX
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKliZs6phMT_DzptKpWQ-tAs/ts
-#EXTINF:-1 xui-id="378124" tvg-id="" tvg-name="PORNBOX: WE LIVE TOGETHER" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: WE LIVE TOGETHER
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkwOqUbsjI_EgCod0JOnQYU/ts
-#EXTINF:-1 xui-id="378125" tvg-id="" tvg-name="PORNBOX: WHEN GIRLS PLAY" tvg-logo="http://sonickx.xyz:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTdaNa6s8SQ1oO4sS9mmKIE.png" group-title="PornBox",PORNBOX: WHEN GIRLS PLAY
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKn9tETs3RKXP3mmjd_rIRYo/ts
-#EXTINF:-1 xui-id="557738" tvg-name="ADULTS - BIG WET TITS" tvg-logo="" group-title="Xxx Adults",ADULTS - BIG WET TITS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH6L3xOWo1eQfxHaW712fd5urcqOV-ViDPeD1eVlMiMZU#.mp4
-#EXTINF:-1 xui-id="557739" tvg-name="ADULTS - ARABES EXPOSED" tvg-logo="" group-title="Xxx Adults",ADULTS - ARABES EXPOSED
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH6xXZ447wnRHrpa2w7WXX__h8Pb91FZpSGgLCH05UN0w#.mp4
-#EXTINF:-1 xui-id="557740" tvg-name="ADULTS - CUM DRAINING ASIANS" tvg-logo="" group-title="Xxx Adults",ADULTS - CUM DRAINING ASIANS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHy4wJTvkP9sSa8xPp3RL-qvL56_FQCy4W8oQBFmwRp4B#.mp4
-#EXTINF:-1 xui-id="557742" tvg-name="ADULTS - TUSHY RAW 6" tvg-logo="" group-title="Xxx Adults",ADULTS - TUSHY RAW 6
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHxZgBn-8RPrOqWoxEQNDbxLBm4GzAikgz4FyVSHKQFlM#.mp4
-#EXTINF:-1 xui-id="557744" tvg-name="ADULTS - BANGBROS POV ANAL" tvg-logo="" group-title="Xxx Adults",ADULTS - BANGBROS POV ANAL
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH5pnj8CMchF5g1ZcfZA4vk-6HrCAP2jcf7Fq178m_XRD#.mp4
-#EXTINF:-1 xui-id="557745" tvg-name="ADULTS - THE BOOTY MOVIE" tvg-logo="" group-title="Xxx Adults",ADULTS - THE BOOTY MOVIE
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH2uCauaxWGeZlEujVkbcvl_wEq2Zs6wUDryMa3ppXOpu#.mp4
-#EXTINF:-1 xui-id="557746" tvg-name="ADULTS - MAID FOR ANAL" tvg-logo="" group-title="Xxx Adults",ADULTS - MAID FOR ANAL
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHyrXEO691-zatRz21lr87008KV2yHPESas2Z-cQKraae#.mp4
-#EXTINF:-1 xui-id="557747" tvg-name="ADULTS - RUSSIAN SEX INSTITUTE" tvg-logo="" group-title="Xxx Adults",ADULTS - RUSSIAN SEX INSTITUTE
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHwizLowOy4lhjui6W9zSh30j5YknsHum6enm3snRgTWO#.mp4
-#EXTINF:-1 xui-id="557748" tvg-name="ADULTS - SEX ISLAND" tvg-logo="" group-title="Xxx Adults",ADULTS - SEX ISLAND
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHyz3lz_RouK3j5UGskPDhF0xYMzkSDzuKt0FMb0maCxF#.mp4
-#EXTINF:-1 xui-id="557749" tvg-name="ADULTS - POV" tvg-logo="" group-title="Xxx Adults",ADULTS - POV
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHzBC6Ju3yPDmVzMXX4Z2sQtKjMc4PpKAA9FDIDwAYmd0#.mp4
-#EXTINF:-1 xui-id="557751" tvg-name="ADULTOS - DUELOS ANAIS DUPLOS" tvg-logo="" group-title="Xxx Adults",ADULTOS - DUELOS ANAIS DUPLOS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH9EthcnUFIebmLRwwXuXuk2rE5zkFhX-frBo2sOHbSG0#.mp4
-#EXTINF:-1 xui-id="557752" tvg-name="ADULTS - FAMILY PIES 6" tvg-logo="" group-title="Xxx Adults",ADULTS - FAMILY PIES 6
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH58aGV0LcSTMVUCg6Ctq6ZprnVUtOaV6xdF6-nXemIpY#.mp4
-#EXTINF:-1 xui-id="557753" tvg-name="ADULTS - ASIAN LOVE" tvg-logo="" group-title="Xxx Adults",ADULTS - ASIAN LOVE
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH2JSIr6dFIMXVY22ALf6jzP1vRHiXVkqtYntHJklI9_v#.mp4
-#EXTINF:-1 xui-id="557754" tvg-name="ADULTS - SLUTTY ANAL MILFS" tvg-logo="" group-title="Xxx Adults",ADULTS - SLUTTY ANAL MILFS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHwPuFZz1b-yAL2NC2mL7IGnM0zUAQfsYnli9iuONA4-2#.mp4
-#EXTINF:-1 xui-id="557755" tvg-name="ADULTS - ANAL MILFS ONLY" tvg-logo="" group-title="Xxx Adults",ADULTS - ANAL MILFS ONLY
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHyPxulICsixsF81Qd3uxBKz3RuInd_7ZLm3CRazPd5Gf#.mp4
-#EXTINF:-1 xui-id="557756" tvg-name="ADULTS - TEENS KITTENS" tvg-logo="" group-title="Xxx Adults",ADULTS - TEENS KITTENS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH13WJIWI9fEf6iFyxwPaRkctbwQNt1VYU-iWGw2PxsZ4#.mp4
-#EXTINF:-1 xui-id="557757" tvg-name="ADULTS - BUSTIE PETITES" tvg-logo="" group-title="Xxx Adults",ADULTS - BUSTIE PETITES
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH8Eluc6br1tZ1RZamS7AEMDudZL_BamMjEQK_XlX8AxY#.mp4
-#EXTINF:-1 xui-id="557758" tvg-name="ADULTS - BABYSITTER AUDITIONS" tvg-logo="" group-title="Xxx Adults",ADULTS - BABYSITTER AUDITIONS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHzZeEzpd03pmLDKKvLV3TGHAC0kyGnR-szrxojmhIr_K#.mp4
-#EXTINF:-1 xui-id="557760" tvg-name="ADULTS - SHE LIKE WHITE" tvg-logo="" group-title="Xxx Adults",ADULTS - SHE LIKE WHITE
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4ovtkLr9BT1awKDdjk--wMOff6LYprZEBqhVs3PFESG#.mp4
-#EXTINF:-1 xui-id="557761" tvg-name="ADULTS - CONSEQUENCES" tvg-logo="" group-title="Xxx Adults",ADULTS - CONSEQUENCES
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH2-CAmbFV1HHASv9Rj8sTszuYEjbsseiwJS7swR7b5jw#.mp4
-#EXTINF:-1 xui-id="557762" tvg-name="ADULTS - YOUNG AND CURIOUS" tvg-logo="" group-title="Xxx Adults",ADULTS - YOUNG AND CURIOUS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH3SnCxXgkWvu74SS8gv-MQa8huLLvc4WEsh7C98RrlSX#.mp4
-#EXTINF:-1 xui-id="557763" tvg-name="ADULTS - CUM DRAINING ASIANS" tvg-logo="" group-title="Xxx Adults",ADULTS - CUM DRAINING ASIANS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHwC-Dyq8HBbfERZ1RynDWFvMpX7pzwrCBmDRpBiekVCu#.mp4
-#EXTINF:-1 xui-id="557764" tvg-name="ADULTS - IN THE ROOM I LIKE TO WATCH" tvg-logo="" group-title="Xxx Adults",ADULTS - IN THE ROOM I LIKE TO WATCH
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH9knKd32uxMchrG0C4f_SkZUFN8KpmbWzDZ2-CzBG8ND#.mp4
-#EXTINF:-1 xui-id="557765" tvg-name="ADULTS - FAMILY PIES" tvg-logo="" group-title="Xxx Adults",ADULTS - FAMILY PIES
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHzf9GsPTb0wHn1lPKgzsBlk___x9QhlFAhFU364XJd0S#.mp4
-#EXTINF:-1 xui-id="557766" tvg-name="ADULTS - MY FRIEND HOT MOM" tvg-logo="" group-title="Xxx Adults",ADULTS - MY FRIEND HOT MOM
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH31gox2TGN9Z1_eFh7kNSe77UeHJ0eYkJ5vB-wHPpDyh#.mp4
-#EXTINF:-1 xui-id="557767" tvg-name="ADULTS - ADORO AS TETAS DA MINHA IRMÃ" tvg-logo="" group-title="Xxx Adults",ADULTS - ADORO AS TETAS DA MINHA IRMÃ
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHygdRKGPZFaYewNJcFBPC-PmO3mP0eeWcexki7eQtw3n#.mp4
-#EXTINF:-1 xui-id="557768" tvg-name="ADULTS - PERVERSÕES EM FAMILIA" tvg-logo="" group-title="Xxx Adults",ADULTS - PERVERSÕES EM FAMILIA
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH6cI0-a_Qhqz9RUU9Z-i9C5dswf5hksh7GRReDAYfxmr#.mp4
-#EXTINF:-1 xui-id="557769" tvg-name="ADULTS - Orgasmo" tvg-logo="" group-title="Xxx Adults",ADULTS - Orgasmo
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4c_W3PlYiv14OpaYbfZXO2Iy1lhV7YFIUML3LOA0xsL#.mp4
-#EXTINF:-1 xui-id="557770" tvg-name="ADULTS - DRIVE" tvg-logo="" group-title="Xxx Adults",ADULTS - DRIVE
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH6SArZ_3Pt7AKBSfuJZzsulcRZLlfdawsmqgB-kUcKEY#.mp4
-#EXTINF:-1 xui-id="557771" tvg-name="ADULTS - O MEU ENTEADO É TERRÍVEL" tvg-logo="" group-title="Xxx Adults",ADULTS - O MEU ENTEADO É TERRÍVEL
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH3REhXQo7Mbxqcon-IxQbAgbbB-_3gC0yELfSg0lyN3J#.mp4
-#EXTINF:-1 xui-id="557772" tvg-name="ADULTS - Swingers" tvg-logo="" group-title="Xxx Adults",ADULTS - Swingers
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHwmTboNr30_iUC4-3pYz5Uc91Xj6xjCDWdSKhDolwliG#.mp4
-#EXTINF:-1 xui-id="557773" tvg-name="ADULTS - SLAYSIANS" tvg-logo="" group-title="Xxx Adults",ADULTS - SLAYSIANS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH7zl2wsjFpRd0DPpzYwtT_v7qvAzdBQ077od3HrkCo3J#.mp4
-#EXTINF:-1 xui-id="557774" tvg-name="ADULTS - MIÚDAS QUE SE VÊM" tvg-logo="" group-title="Xxx Adults",ADULTS - MIÚDAS QUE SE VÊM
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH8sY4kFC3IA7rXc2mQ5udE3yYHhS8IHPCnuJbsXWfp1h#.mp4
-#EXTINF:-1 xui-id="557776" tvg-name="ADULTS - UP MY ASIAN ASS" tvg-logo="" group-title="Xxx Adults",ADULTS - UP MY ASIAN ASS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH-kozGPN8R1IpCFrlXYQUTSy8AWPRBuM8cXBzXA-w0EF#.mp4
-#EXTINF:-1 xui-id="557777" tvg-name="ADULTS - ROCCO CASTINGS 29" tvg-logo="" group-title="Xxx Adults",ADULTS - ROCCO CASTINGS 29
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4YUHEkCIjRBp8pjcd15TlL4-QfwLZ5plSLlSux-y40q#.mp4
-#EXTINF:-1 xui-id="557778" tvg-name="XXX - THAI GIRLS PARTE 2" tvg-logo="" group-title="Xxx Adults",XXX - THAI GIRLS PARTE 2
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH5Xm7BUXHw2w31tJWWZ2v1BptJ54rv0_9mkB4EwVPRha#.mp4
-#EXTINF:-1 xui-id="557779" tvg-name="XXX - THAI GIRLS PARTE 1" tvg-logo="" group-title="Xxx Adults",XXX - THAI GIRLS PARTE 1
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH7LfYeyBCMVGao376ssXlCKbW7oOO7R7RYBgfK4tGcqq#.mp4
-#EXTINF:-1 xui-id="557780" tvg-name="XXX - CUS FOFINHOS" tvg-logo="" group-title="Xxx Adults",XXX - CUS FOFINHOS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHx_kE1wcz3NCuXLzVseHA0HljeS86d4Qn_WQBVbmIVDH#.mp4
-#EXTINF:-1 xui-id="557781" tvg-name="XXX - ANAL CHECKUP" tvg-logo="" group-title="Xxx Adults",XXX - ANAL CHECKUP
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH9KhaG0V1-FjuSD0NT5rqxfDjBnZtrdPLcnpIXF-h3b9#.mp4
-#EXTINF:-1 xui-id="557782" tvg-name="XXX - CONSENTIDA PARTE 2" tvg-logo="" group-title="Xxx Adults",XXX - CONSENTIDA PARTE 2
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHyTOI4mxTEoKmh85GVgJRv8zS-cuSSluWv5wOsPPlhzY#.mp4
-#EXTINF:-1 xui-id="557783" tvg-name="XXX - ALEMANHA NO SEU MELHOR" tvg-logo="" group-title="Xxx Adults",XXX - ALEMANHA NO SEU MELHOR
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH5xaZpK_nryoY4Oc45xr_-WpBxAHyIrAnYep0b0WhjQe#.mp4
-#EXTINF:-1 xui-id="557784" tvg-name="XXX - NOVINHAS EXPERIMENTAM ANAL" tvg-logo="" group-title="Xxx Adults",XXX - NOVINHAS EXPERIMENTAM ANAL
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH2sKOt4PEAaPzPzIz2JsbugOkErrWrdqDCmpagecTrme#.mp4
-#EXTINF:-1 xui-id="557785" tvg-name="XXX - ADRIANA CHECHIK PARTE 1" tvg-logo="" group-title="Xxx Adults",XXX - ADRIANA CHECHIK PARTE 1
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHxbaPZg8TI0VR_iDr2JM0S9Eft1dfPTWKW5a9IrwA7FO#.mp4
-#EXTINF:-1 xui-id="557786" tvg-name="XXX- CONSENTIDA PARTE 1" tvg-logo="" group-title="Xxx Adults",XXX- CONSENTIDA PARTE 1
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH2jCVBTGhvjEg9V1whQ_DPHGGQupUnPJuYsl-tIjvPzy#.mp4
-#EXTINF:-1 xui-id="557787" tvg-name="XXX- ADRIANA CHECHIK PARTE 2" tvg-logo="" group-title="Xxx Adults",XXX- ADRIANA CHECHIK PARTE 2
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH2zJNNIHyPbtwwwF1N5X46WLtZxs7fY_8-90qNLTb374#.mp4
-#EXTINF:-1 xui-id="557788" tvg-name="XXX - CUS MALDOSOS PARTE 1" tvg-logo="" group-title="Xxx Adults",XXX - CUS MALDOSOS PARTE 1
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH6Tgc5PRC2oi8dPBMj1HlcRJT3A1jVmjz5RiEbHXnpga#.mp4
-#EXTINF:-1 xui-id="557789" tvg-name="XXX - UMA NOITE EM PARIS" tvg-logo="" group-title="Xxx Adults",XXX - UMA NOITE EM PARIS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHweYPO7_fjJKj-BjQoVpyrgt4eqE1LGMprPpmAcrPRLO#.mp4
-#EXTINF:-1 xui-id="557790" tvg-name="XXX - CUS MALDOSOS PARTE 2" tvg-logo="" group-title="Xxx Adults",XXX - CUS MALDOSOS PARTE 2
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHwxcIvLugbUjmv0aRSk1Y1711n4xbCxWqAc1b9ZDbLrx#.mp4
-#EXTINF:-1 xui-id="557791" tvg-name="XXX - ABRE BEM ESSE BUJON" tvg-logo="" group-title="Xxx Adults",XXX - ABRE BEM ESSE BUJON
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH6TA3EIgt36T2Fz5GWTU5JafV4R62Mswinq0fUAIg5JT#.mp4
-#EXTINF:-1 xui-id="557792" tvg-name="XXX - DUPLAS PENETRAÇÕES" tvg-logo="" group-title="Xxx Adults",XXX - DUPLAS PENETRAÇÕES
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH6XZeHxhWnsfDLNALUMJV-Ypmpd76i3VTqm3D-0cOG9Y#.mp4
-#EXTINF:-1 xui-id="557793" tvg-name="XXX - LIMPA-ME A PISTOLA PARTE 1" tvg-logo="" group-title="Xxx Adults",XXX - LIMPA-ME A PISTOLA PARTE 1
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH-B0qubGGmbe0MchmR4j71UB77BOWQbA9p25y4Iu7xJ_#.mp4
-#EXTINF:-1 xui-id="557795" tvg-name="XXX - VICIADAS EM ANAL PARTE 1" tvg-logo="" group-title="Xxx Adults",XXX - VICIADAS EM ANAL PARTE 1
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH96XygmOAVk5j0P5Zel5hQx8o1FsEDwQc8e7Iy3GhZRh#.mp4
-#EXTINF:-1 xui-id="557796" tvg-name="XXX - VICIADAS EM ANAL PARTE 2" tvg-logo="" group-title="Xxx Adults",XXX - VICIADAS EM ANAL PARTE 2
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH8ek_a__fRKgUwv7hA-3kBuvOXr7ZfPQYMuOsmnQRkVf#.mp4
-#EXTINF:-1 xui-id="557797" tvg-name="XXX - PARÓDIA CAPITÃ MARVEL" tvg-logo="" group-title="Xxx Adults",XXX - PARÓDIA CAPITÃ MARVEL
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH530Uz8pDFsS8rdqWYrZ6igP9jTuZFv1bvDh1S7Dnv8u#.mp4
-#EXTINF:-1 xui-id="557799" tvg-name="XXX - ANAL PROS" tvg-logo="" group-title="Xxx Adults",XXX - ANAL PROS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH3-fh_HVZXJZeRnaP6_fZ5zAx3y_2KwCIA9bw4YdzGc_#.mp4
-#EXTINF:-1 xui-id="557800" tvg-name="XXX: ANAL CREAM PIES" tvg-logo="" group-title="Xxx Adults",XXX: ANAL CREAM PIES
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH3_G3CMLFqCfz6oPzR6Qp5RtP-W1msiA5P3wd5577c9q#.mp4
-#EXTINF:-1 xui-id="557801" tvg-name="XXX: BANG BROS TUGS" tvg-logo="" group-title="Xxx Adults",XXX: BANG BROS TUGS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHy6_zcgNArmD8ehfqsNmeNBTXcjZbueCQjXgUh6P5s9U#.mp4
-#EXTINF:-1 xui-id="557802" tvg-name="XXX: ANAL ICONS" tvg-logo="" group-title="Xxx Adults",XXX: ANAL ICONS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH3GZ4KOH53ntpvFH-8pOjqI0i6x5izYpQLdbVjj5ZIZT#.mp4
-#EXTINF:-1 xui-id="557803" tvg-name="XXX: CLUBE ELITE" tvg-logo="" group-title="Xxx Adults",XXX: CLUBE ELITE
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH1grZxIijOm2DiChODQnSCrCkytJIVeqLesc8c8wnJ7r#.mp4
-#EXTINF:-1 xui-id="557804" tvg-name="XXX: MARC DORCEL: LOLA AT YOUR SERVICE" tvg-logo="" group-title="Xxx Adults",XXX: MARC DORCEL: LOLA AT YOUR SERVICE
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4x00VVqXy_A_uzqIlbKN6R9VaWh3vIzmRSASIvTZIWl#.mp4
-#EXTINF:-1 xui-id="557806" tvg-name="XXX: SMOCA HOLA" tvg-logo="" group-title="Xxx Adults",XXX: SMOCA HOLA
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHz6POAQ0dSMWSA4gobvinLAsorgn2xwQ3nTDoKgBnV_Z#.mp4
-#EXTINF:-1 xui-id="557807" tvg-name="XXX: LITLE ANAL LOVERS" tvg-logo="" group-title="Xxx Adults",XXX: LITLE ANAL LOVERS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH_gsk6_tUlHaDXksaHlpqHkV3MdiqiUfrFhlTLB8ndXZ#.mp4
-#EXTINF:-1 xui-id="557808" tvg-name="XXX: TEEN WET ASSES" tvg-logo="" group-title="Xxx Adults",XXX: TEEN WET ASSES
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH01RVSI1w0u5DqILPvakaoRbZlV1RIs2QYhJ8uVL2kfV#.mp4
-#EXTINF:-1 xui-id="557809" tvg-name="XXX - BLONDE BABES" tvg-logo="" group-title="Xxx Adults",XXX - BLONDE BABES
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHybxqqDB2JmNTiObiP-xsduFGGut-xI7OJsCZhA3-yL0#.mkv
-#EXTINF:-1 xui-id="557810" tvg-name="XXX - DREDD 12" tvg-logo="" group-title="Xxx Adults",XXX - DREDD 12
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH3ulaq-7dPybW5ud9uAT-QvRrGaaeOkm8Eo0vMRPtrfB#.mp4
-#EXTINF:-1 xui-id="557811" tvg-name="XXX - Magnificent Anal Milfs PARTE 1" tvg-logo="" group-title="Xxx Adults",XXX - Magnificent Anal Milfs PARTE 1
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH8CORp7D7yntPNKF9jwXRmgruojfquXFofieDH7rkNmo#.mp4
-#EXTINF:-1 xui-id="557812" tvg-name="XXX - Magnificent Anal Milfs PARTE 2" tvg-logo="" group-title="Xxx Adults",XXX - Magnificent Anal Milfs PARTE 2
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4UdV-vLw_PzGTbNg-PBEcscDLnuHjLhCJ623NN7gCev#.mp4
-#EXTINF:-1 xui-id="557813" tvg-name="XXX - UP YOUR SKIRT" tvg-logo="" group-title="Xxx Adults",XXX - UP YOUR SKIRT
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4fjdFAXbCgJOgX9PdMM1CIdkBJIp2AULdop8rPKB3HZ#.mp4
-#EXTINF:-1 xui-id="557814" tvg-name="XXX: MARC DORCEL-ANNA THE INFLUENCER" tvg-logo="" group-title="Xxx Adults",XXX: MARC DORCEL-ANNA THE INFLUENCER
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHwKGyM-PQJMhvYuiOwzw0kZKHDLehyA9YrnqlLVPv6n_#.mkv
-#EXTINF:-1 xui-id="557815" tvg-name="XXX - MANIAC MILFS" tvg-logo="" group-title="Xxx Adults",XXX - MANIAC MILFS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH5CFEjHQ8w0MsuFgEFRkMIwzuXnjkh3EKl-JxZwAKj54#.mp4
-#EXTINF:-1 xui-id="557816" tvg-name="XXX - PUMP MY ASS" tvg-logo="" group-title="Xxx Adults",XXX - PUMP MY ASS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4aWwlClOHEzY0TKqHkXCIxEYxrNfwn_edSTCdNbE2lr#.mp4
-#EXTINF:-1 xui-id="557817" tvg-name="XXX_ MARC DORCEL-LUXURE MY WIFE PERVERSIONS" tvg-logo="" group-title="Xxx Adults",XXX_ MARC DORCEL-LUXURE MY WIFE PERVERSIONS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH8-CAlxvpA-1DCBTzbwIpsAWCklmaHGLKlrgxbM9x5Ai#.mkv
-#EXTINF:-1 xui-id="557818" tvg-name="XXX-MARC DORCEL-STARS" tvg-logo="" group-title="Xxx Adults",XXX-MARC DORCEL-STARS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH8sujL60Yg--p3_BEn1PvoKgfsyX2gs83UELTdrgs-ms#.mkv
-#EXTINF:-1 xui-id="557819" tvg-name="XXX-MARC DORCEL-PULSIONS" tvg-logo="" group-title="Xxx Adults",XXX-MARC DORCEL-PULSIONS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH0p5P1HHS0DPTTg9Ccc6gPU7D237B8taQhhh05szTllf#.mkv
-#EXTINF:-1 xui-id="557821" tvg-name="XXX-MARC DORCEL-SYBIL AN INDECENT STORY" tvg-logo="" group-title="Xxx Adults",XXX-MARC DORCEL-SYBIL AN INDECENT STORY
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH_0NuFCq38yak_fWGemjmag5uiJDOoc0dZHdAh56UG3o#.mkv
-#EXTINF:-1 xui-id="557822" tvg-name="XXX: ANAL ENCOUNTERS 2" tvg-logo="" group-title="Xxx Adults",XXX: ANAL ENCOUNTERS 2
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4u3ExKG9VoITHeT-VYjlghuetCS1CbNgF9-BIZDhZMj#.mp4
-#EXTINF:-1 xui-id="557823" tvg-name="XXX: ANAL ENCOUNTERS" tvg-logo="" group-title="Xxx Adults",XXX: ANAL ENCOUNTERS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH_8qbCbNaDShLhPy3OIcFs3juUuhX_BUk6Si1VF3skwS#.mp4
-#EXTINF:-1 xui-id="557824" tvg-name="XXX-MARC DORCEL-VERY BEST OF CLEA GAULTIER INFINITY" tvg-logo="" group-title="Xxx Adults",XXX-MARC DORCEL-VERY BEST OF CLEA GAULTIER INFINITY
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHzN4XWSsJzAWDFIwTe3cOJPLfBOJUKbDu6mcXLViIHrN#.mkv
-#EXTINF:-1 xui-id="557825" tvg-name="XXX: ANAL CREAMPIE LESSONS" tvg-logo="" group-title="Xxx Adults",XXX: ANAL CREAMPIE LESSONS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHwzwKzM53P0rWZ34Db_tp8khuEf9rZ8y97yGxFrWx0m1#.mkv
-#EXTINF:-1 xui-id="557826" tvg-name="XXX: BLACK TO BASIC" tvg-logo="" group-title="Xxx Adults",XXX: BLACK TO BASIC
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH2igWyB2xrRlY5kZkisxzxH_7sxvIN7oEQ8gZwUlgvjh#.mkv
-#EXTINF:-1 xui-id="557827" tvg-name="XXX: I LIKE PHAT BUNZ" tvg-logo="" group-title="Xxx Adults",XXX: I LIKE PHAT BUNZ
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4CvLUsbK3dUD5g0G97h2ReV9Odjun32101kQWnEXMx0#.mp4
-#EXTINF:-1 xui-id="557828" tvg-name="XXX: FIXING FOR A FUCK" tvg-logo="" group-title="Xxx Adults",XXX: FIXING FOR A FUCK
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHyYzxRm5pRdpe7P2l6SiDcC1KK5dltIPiYEAENhtwTP6#.mkv
-#EXTINF:-1 xui-id="557829" tvg-name="XXX: OIL FOR DAYS" tvg-logo="" group-title="Xxx Adults",XXX: OIL FOR DAYS
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GHxBJL6s0yXqioo4MGYgslCsC0vYhayDrc81aY1yb_2fC#.mkv
-#EXTINF:-1 xui-id="557830" tvg-name="XXX: SEX NIRVANA" tvg-logo="" group-title="Xxx Adults",XXX: SEX NIRVANA
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH9wSXf-bMcp-7GGjlI7WTfa2hP1vLUv4hAkc2YdPvALf#.mkv
-#EXTINF:-1 xui-id="557831" tvg-name="XXX: MOM FUCKED MY BOYFRIEND" tvg-logo="" group-title="Xxx Adults",XXX: MOM FUCKED MY BOYFRIEND
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH3b8wmbDP7RFrK5Btk1xThri1Momh4PoawHJVAypA0IY#.mkv
-#EXTINF:-1 xui-id="557832" tvg-name="XXX: SNEAKY SEX" tvg-logo="" group-title="Xxx Adults",XXX: SNEAKY SEX
-http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH2O8Z1W5_45F0OfRlGyYnhw0K7oJirF_dTnG50G7SPKH#.mkv
-#EXTINF:-1 xui-id="378126" tvg-id="" tvg-name="STARS EXCLUSIVE: ABELLA DANGER" tvg-logo="https://imgur.com/7rn7oEw.png" group-title="Estrelas Porn",STARS EXCLUSIVE: ABELLA DANGER
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgGRKubHpbQhZuNaxPON5CU/ts
-#EXTINF:-1 xui-id="378127" tvg-id="" tvg-name="STARS EXCLUSIVE: ADRIANA CHECHIK" tvg-logo="https://imgur.com/2jcngH2.png" group-title="Estrelas Porn",STARS EXCLUSIVE: ADRIANA CHECHIK
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKobowEUcZzjuhxwZaf4xvDY/ts
-#EXTINF:-1 xui-id="378128" tvg-id="" tvg-name="STARS EXCLUSIVE: ALINA LOPEZ" tvg-logo="https://imgur.com/GAgfnZ9.png" group-title="Estrelas Porn",STARS EXCLUSIVE: ALINA LOPEZ
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjG2eN33rkn90chapu1Nu2M/ts
-#EXTINF:-1 xui-id="378129" tvg-id="" tvg-name="STARS EXCLUSIVE: ANGELA WHITE" tvg-logo="https://imgur.com/NSyAVKb.png" group-title="Estrelas Porn",STARS EXCLUSIVE: ANGELA WHITE
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiblFtXnIHGccbEJu-Mtqh8/ts
-#EXTINF:-1 xui-id="378130" tvg-id="" tvg-name="STARS EXCLUSIVE: ARIANA MARIE" tvg-logo="https://imgur.com/jzAdZOW.png" group-title="Estrelas Porn",STARS EXCLUSIVE: ARIANA MARIE
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjq8i4G5cZLvPvJe0DxLHaA/ts
-#EXTINF:-1 xui-id="378131" tvg-id="" tvg-name="STARS EXCLUSIVE: AUGUST AMES" tvg-logo="https://imgur.com/RbAisPj.png" group-title="Estrelas Porn",STARS EXCLUSIVE: AUGUST AMES
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiTqqobjmtj2ZXywtmS0oRM/ts
-#EXTINF:-1 xui-id="378132" tvg-id="" tvg-name="STARS EXCLUSIVE:AUTUMN FALLS" tvg-logo="https://imgur.com/yjaieKJ.png" group-title="Estrelas Porn",STARS EXCLUSIVE:AUTUMN FALLS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKve9QbSpCargz09Y42_mrqY/ts
-#EXTINF:-1 xui-id="378133" tvg-id="" tvg-name="STARS EXCLUSIVE: BRANDI LOVE" tvg-logo="https://imgur.com/biTuu4P.png" group-title="Estrelas Porn",STARS EXCLUSIVE: BRANDI LOVE
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsynGmcY-zkXvGnfA_7EjlU/ts
-#EXTINF:-1 xui-id="378134" tvg-id="" tvg-name="STARS EXCLUSIVE: DANI DANIELS" tvg-logo="https://imgur.com/DVAS4Ax.png" group-title="Estrelas Porn",STARS EXCLUSIVE: DANI DANIELS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkRsnX58Vb-sYbti9gKWv-k/ts
-#EXTINF:-1 xui-id="378135" tvg-id="" tvg-name="STARS EXCLUSIVE: DANI JENSEN" tvg-logo="https://imgur.com/woK4kLB.png" group-title="Estrelas Porn",STARS EXCLUSIVE: DANI JENSEN
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnwAV6snzAde-jBCAzNdQuQ/ts
-#EXTINF:-1 xui-id="378136" tvg-id="" tvg-name="STARS EXCLUSIVE: ELSA JEAN" tvg-logo="https://imgur.com/B8IhJCS.png" group-title="Estrelas Porn",STARS EXCLUSIVE: ELSA JEAN
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKveFi0VZl7RuA0LJbs8yGKs/ts
-#EXTINF:-1 xui-id="378137" tvg-id="" tvg-name="STARS EXCLUSIVE: EMILY WILLIS" tvg-logo="https://imgur.com/FwGvrVp.png" group-title="Estrelas Porn",STARS EXCLUSIVE: EMILY WILLIS
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKspNu5aDbwkWIdf89cMGroc/ts
-#EXTINF:-1 xui-id="378138" tvg-id="" tvg-name="STARS EXCLUSIVE: EVA LOVIA" tvg-logo="https://imgur.com/fqnHYnm.png" group-title="Estrelas Porn",STARS EXCLUSIVE: EVA LOVIA
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuTHs6l8C1oW2lPg9VsF-vk/ts
-#EXTINF:-1 xui-id="378139" tvg-id="" tvg-name="STARS EXCLUSIVE: GINA VALENTINA" tvg-logo="https://imgur.com/pQlxcLQ.png" group-title="Estrelas Porn",STARS EXCLUSIVE: GINA VALENTINA
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjyZV7ta7shqxXlPDJJW5ws/ts
-#EXTINF:-1 xui-id="378140" tvg-id="" tvg-name="STARS EXCLUSIVE: JANICE GRIFFITH" tvg-logo="https://imgur.com/5R88wFJ.png" group-title="Estrelas Porn",STARS EXCLUSIVE: JANICE GRIFFITH
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpFX3SethHO9QmjAdJcZIJ8/ts
-#EXTINF:-1 xui-id="378141" tvg-id="" tvg-name="STARS EXCLUSIVE: JESSA RHODES" tvg-logo="https://imgur.com/ERRQlXk.png" group-title="Estrelas Porn",STARS EXCLUSIVE: JESSA RHODES
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnh0jn_VAWFnUZpGKFaRxig/ts
-#EXTINF:-1 xui-id="378142" tvg-id="" tvg-name="STARS EXCLUSIVE: LANA RHOADES" tvg-logo="https://imgur.com/2PHYY4I.png" group-title="Estrelas Porn",STARS EXCLUSIVE: LANA RHOADES
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqNILKe_93-mK1kV723euP8/ts
-#EXTINF:-1 xui-id="378143" tvg-id="" tvg-name="STARS EXCLUSIVE: LENA PAUL" tvg-logo="https://imgur.com/Ie3LFgu.png" group-title="Estrelas Porn",STARS EXCLUSIVE: LENA PAUL
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrixet6mP6yJD6dRZID0M-s/ts
-#EXTINF:-1 xui-id="378144" tvg-id="" tvg-name="STARS EXCLUSIVE: LISA ANN" tvg-logo="https://imgur.com/peWKr1U.png" group-title="Estrelas Porn",STARS EXCLUSIVE: LISA ANN
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj6DhHmPP7DfTVPTGumjVWU/ts
-#EXTINF:-1 xui-id="378145" tvg-id="" tvg-name="STARS EXCLUSIVE: MADISON IVY" tvg-logo="https://imgur.com/O3T0yv6.png" group-title="Estrelas Porn",STARS EXCLUSIVE: MADISON IVY
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqqXix8EWWrsN0thYn7Fn0c/ts
-#EXTINF:-1 xui-id="378146" tvg-id="" tvg-name="STARS EXCLUSIVE: MIA MALKOVA" tvg-logo="https://imgur.com/04iLInq.png" group-title="Estrelas Porn",STARS EXCLUSIVE: MIA MALKOVA
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsQdObRrqAY7TpGNiT1RN0c/ts
-#EXTINF:-1 xui-id="378147" tvg-id="" tvg-name="STARS EXCLUSIVE: NICOLE ANISTON" tvg-logo="https://imgur.com/h3em1nR.png" group-title="Estrelas Porn",STARS EXCLUSIVE: NICOLE ANISTON
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjVw-bMVB53YftGeGr-siSg/ts
-#EXTINF:-1 xui-id="378148" tvg-id="" tvg-name="STARS EXCLUSIVE: RILEY REID" tvg-logo="https://imgur.com/arW9AyL.png" group-title="Estrelas Porn",STARS EXCLUSIVE: RILEY REID
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiyg2-821vlzLBKUVpOvJBc/ts
-#EXTINF:-1 xui-id="378149" tvg-id="" tvg-name="STARS EXCLUSIVE: UMA JOLIE" tvg-logo="https://imgur.com/gkTS0LQ.png" group-title="Estrelas Porn",STARS EXCLUSIVE: UMA JOLIE
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKphO2Km8wE_XbyYiumOeO0A/ts
-#EXTINF:-1 xui-id="378150" tvg-id="" tvg-name="STARS EXCLUSIVE: VALENTINA NAPPI" tvg-logo="https://imgur.com/lWBZGsX.png" group-title="Estrelas Porn",STARS EXCLUSIVE: VALENTINA NAPPI
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoYEzOGO3SqwtO6I4HYvwKQ/ts
