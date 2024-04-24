@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL",[COLOR magenta][I][B] *** 961meh1 *** [/B][/I][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-24 18:04:15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",[COLOR blue][I][B] *2024-04-24 18:04:15* [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-24 18:05:47" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",[COLOR blue][I][B] *2024-04-24 18:05:47* [/B][/I][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -35,34 +35,92 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKi7QSg1zrrzWYeT1oLJFQsE/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKulzepm4ZrxUpm8OwW-0BUg/ts
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp-2-pt.png" group-title="PORTUGAL",RTP 2 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg7rhDWIQ9ZBl_La_PBq0Ik/ts
-#EXTINF:-1 tvg-id="sic.pt" tvg-name=",SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="PORTUGAL",,SIC HD 
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKghUBkHr9vcS6ukWVy5wpF8/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="PORTUGAL",SIC HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrH__TjG2RxB7HRAXaF_el8/ts
-#EXTINF:-1 tvg-id="sic.pt" tvg-name=",SIC FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC.png" group-title="PORTUGAL",,SIC FHD 
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg5MTiG5bRU55ZUDXMQewIs/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-NOTICIAS.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkuWBg7xCZeAxcopZm56IMM/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-NOTICIAS.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKroYgUaZFUjLpr88lzA3T48/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-NOTICIAS.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhDnNzhQ9Z9iHu5SVxBMsEw/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKm9Bb-oeaoKnGWPhdvf0VNE/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="PORTUGAL",SIC FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhPsgi4FPE38NEOEcCCYL7w/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-MULHER-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKojLijQx4fXukCtlbQehUqc/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-MULHER-HD.png" group-title="PORTUGAL",SIC FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKl2DYCSjYL-k6BopnmUTEys/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-CARAS.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKncm8O1SLkYOJUva7FfN3wE/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-CARAS.png" group-title="PORTUGAL",SIC FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhUtO2MZF8QBo-YVyyza7Ec/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/9QdjSNp2/SIC-K-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuUKPOtytS7fZCcLLdNYR_8/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnD3Lc2fOvXIddtXcDOT_DY/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC.png" group-title="PORTUGAL",SIC FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkLvme1UClLP2SwjFOVg3EY/ts
-#EXTINF:-1 tvg-id="sic.pt" tvg-name=",SIC FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SIC.png" group-title="PORTUGAL",,SIC FHD 
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SIC.png" group-title="PORTUGAL",SIC FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKo9JUht7hccnqlROM9TClfY/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/cWnPLvI.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtSqtua40_PF8_mlu5nSP48/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKluCj5EuCy7giPWxVj2c5u0/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="PORTUGAL",SIC FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvPhHik4rn6HRjgng1skLE0/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/RhYMS66z/SIC-MULHER-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgFgDeMxRf3mpu1InFZS8iQ/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://i.postimg.cc/3RJ72C2T/SIC-CARAS.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjoZLfssOmxnfNVZUz3l0sM/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtpm_fzU09hZPYWMxZeKB-0/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlw4kCAvzDud1ikNzpPi37Y/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="PORTUGAL",SIC FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKub3XMMuxusxoyuLPb5SVfQ/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtA2IneAl-bLoqSi-X5YmrI/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkmGpgq_7rxNrAJnxB9hALY/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC LOW" tvg-logo="https://i.postimg.cc/J7ZKbV4R/SIC-NOTICIAS.png" group-title="PORTUGAL",SIC LOW 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqMhaH6yU6PcG10eMKpNE3E/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmzVSzmwCcATxJOxQrNzOH0/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/RhYMS66z/SIC-MULHER-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpsvPNP_NXoBvENa8sXQonU/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/9QdjSNp2/SIC-K-HD.png" group-title="PORTUGAL",SIC HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnkmj4FB7CKPO74ATrHk238/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC LOW" tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="PORTUGAL",SIC LOW 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiRdE9p2oYQw3jqxg64hh54/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://i.postimg.cc/Hnn8vL6C/SIC.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlR6N8MOvmI2gwCmmPPLLz0/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_noticias.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKu9FXBUQ1NPAC8Mas_kFMSc/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SIC%20CARAS.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvsUfwRitxwXvdcLSHG7YFg/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SICK.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiVaOWeJATmACrrE_xdHgeg/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_mulher.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoj2u6f290IC-XLGsfJ5Azk/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SIC%20RADICAL.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmvt2uowKI9kQt2069DdyZg/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnFKUUAFF3kGe4jLc27NvuM/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_noticias.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnCRZCiZzB_RAQ3Fb1VPGnc/ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_mulher.png" group-title="PORTUGAL",SIC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkGkmXRtpnCjEtxJGCTpf1E/ts
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI HD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKt70AcjagoHRM1tU9iRIDWw/ts
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKocrBll820pwTXq1RCfv32M/ts
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhmm_S249NBgs57C6PvtYUE/ts
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-NOTICIAS.png" group-title="PORTUGAL",SIC NOTICIAS 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkuWBg7xCZeAxcopZm56IMM/ts
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-NOTICIAS.png" group-title="PORTUGAL",SIC NOTICIAS HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKroYgUaZFUjLpr88lzA3T48/ts
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-NOTICIAS.png" group-title="PORTUGAL",SIC NOTICIAS 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhDnNzhQ9Z9iHu5SVxBMsEw/ts
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="PORTUGAL",SIC NOTICIAS 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKluCj5EuCy7giPWxVj2c5u0/ts
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS FHD" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="PORTUGAL",SIC NOTICIAS FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvPhHik4rn6HRjgng1skLE0/ts
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS LOW" tvg-logo="https://i.postimg.cc/J7ZKbV4R/SIC-NOTICIAS.png" group-title="PORTUGAL",SIC NOTICIAS LOW 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqMhaH6yU6PcG10eMKpNE3E/ts
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_noticias.png" group-title="PORTUGAL",SIC NOTICIAS 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKu9FXBUQ1NPAC8Mas_kFMSc/ts
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_noticias.png" group-title="PORTUGAL",SIC NOTICIAS 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnCRZCiZzB_RAQ3Fb1VPGnc/ts
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-3.png" group-title="PORTUGAL",RTP 3 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhzTfzkhI5Dlz_A4ljpbPiA/ts
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-3.png" group-title="PORTUGAL",RTP 3 FHD 
@@ -107,18 +165,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiJcluHVV5y0sxTZBmoZ4Pc/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiqDoW-QDEl4t2arAvxSTGw/ts
 #EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cm_tv_pt.png" group-title="PORTUGAL",CMTV 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKn3bgp9lULr4Ixj7tU9UioQ/ts
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC MULHER HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-MULHER-HD.png" group-title="PORTUGAL",SIC MULHER HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKojLijQx4fXukCtlbQehUqc/ts
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC MULHER FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-MULHER-HD.png" group-title="PORTUGAL",SIC MULHER FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKl2DYCSjYL-k6BopnmUTEys/ts
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC MULHER HD" tvg-logo="https://i.postimg.cc/RhYMS66z/SIC-MULHER-HD.png" group-title="PORTUGAL",SIC MULHER HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgFgDeMxRf3mpu1InFZS8iQ/ts
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC MULHER HD" tvg-logo="https://i.postimg.cc/RhYMS66z/SIC-MULHER-HD.png" group-title="PORTUGAL",SIC MULHER HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpsvPNP_NXoBvENa8sXQonU/ts
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC MULHER" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_mulher.png" group-title="PORTUGAL",SIC MULHER 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoj2u6f290IC-XLGsfJ5Azk/ts
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC MULHER" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_mulher.png" group-title="PORTUGAL",SIC MULHER 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkGkmXRtpnCjEtxJGCTpf1E/ts
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="TV GLOBO" tvg-logo="https://24h.laraia.xyz/Logos/globo.png" group-title="PORTUGAL",TV GLOBO 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrom9lgbOGej90kbO4ZmH3M/ts
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="TV GLOBO" tvg-logo="https://24h.laraia.xyz/Logos/now.png" group-title="PORTUGAL",TV GLOBO 
@@ -649,16 +695,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs5OrYbfOblqBXDfollFLf0/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqLqG-_kCEkluOnFCtpm_oc/ts
 #EXTINF:-1 tvg-id="Biggs.pt" tvg-name="BIGGS LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/panda_biggs.png" group-title="PORTUGAL",BIGGS LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqzPjR6yuXP81O7asrbsDR8/ts
-#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K HD" tvg-logo="https://i.postimg.cc/9QdjSNp2/SIC-K-HD.png" group-title="PORTUGAL",SIC K HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuUKPOtytS7fZCcLLdNYR_8/ts
-#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="PORTUGAL",SIC K 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlw4kCAvzDud1ikNzpPi37Y/ts
-#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K FHD" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="PORTUGAL",SIC K FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKub3XMMuxusxoyuLPb5SVfQ/ts
-#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K HD" tvg-logo="https://i.postimg.cc/9QdjSNp2/SIC-K-HD.png" group-title="PORTUGAL",SIC K HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnkmj4FB7CKPO74ATrHk238/ts
-#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SICK.png" group-title="PORTUGAL",SIC K 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiVaOWeJATmACrrE_xdHgeg/ts
 #EXTINF:-1 tvg-id="NickelodeonSpain.es" tvg-name="NICKELODEON" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/NICKELODEON.png" group-title="PORTUGAL",NICKELODEON 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKl_rI8PLkzAmgQlQIx6aBrM/ts
 #EXTINF:-1 tvg-id="NickelodeonSpain.es" tvg-name="NICKELODEON LOW" tvg-logo="https://i.postimg.cc/FzZcf0hC/NICKELODEON.png" group-title="PORTUGAL",NICKELODEON LOW 
@@ -927,20 +963,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgMvx7OQ6YdrLyhdeOBCPvE/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlRF4ENIGvejTLKxXfZoY6A/ts
 #EXTINF:-1 tvg-id="NationalGeographicPortugal.pt" tvg-name="NAT GEO WILD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="PORTUGAL",NAT GEO WILD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKske_srbP6YV0WwDuQZpMss/ts
-#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC RADICAL HD" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="PORTUGAL",SIC RADICAL HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKm9Bb-oeaoKnGWPhdvf0VNE/ts
-#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC RADICAL FHD" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="PORTUGAL",SIC RADICAL FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhPsgi4FPE38NEOEcCCYL7w/ts
-#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC RADICAL HD" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="PORTUGAL",SIC RADICAL HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtpm_fzU09hZPYWMxZeKB-0/ts
-#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC RADICAL HD" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="PORTUGAL",SIC RADICAL HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmzVSzmwCcATxJOxQrNzOH0/ts
-#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC RADICAL" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SIC%20RADICAL.png" group-title="PORTUGAL",SIC RADICAL 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmvt2uowKI9kQt2069DdyZg/ts
-#EXTINF:-1 tvg-id="None" tvg-name="SIC ADVANCE" tvg-logo="" group-title="PORTUGAL",SIC ADVANCE 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtA2IneAl-bLoqSi-X5YmrI/ts
-#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC INTERNACIONAL" tvg-logo="https://i.imgur.com/cWnPLvI.png" group-title="PORTUGAL",SIC INTERNACIONAL 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtSqtua40_PF8_mlu5nSP48/ts
 #EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV PORTUGAL HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/MTV-LIVE-HD.png" group-title="PORTUGAL",MTV PORTUGAL HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpy3r4GYtmKVDUlBBtCyQ4U/ts
 #EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV PORTUGAL" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/MTV-PORTUGAL.png" group-title="PORTUGAL",MTV PORTUGAL 
@@ -999,16 +1021,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr-_WB43efWQD_sGdougS4A/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoNcD77H5PTPOSNCNWVnBpU/ts
 #EXTINF:-1 tvg-id="TLCPanRegional.us" tvg-name="TLC LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/tlc.png" group-title="PORTUGAL",TLC LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvL7f4C7lOMFtMmZ546e5AY/ts
-#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC CARAS" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-CARAS.png" group-title="PORTUGAL",SIC CARAS 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKncm8O1SLkYOJUva7FfN3wE/ts
-#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC CARAS FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-CARAS.png" group-title="PORTUGAL",SIC CARAS FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhUtO2MZF8QBo-YVyyza7Ec/ts
-#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC CARAS" tvg-logo="https://i.postimg.cc/3RJ72C2T/SIC-CARAS.png" group-title="PORTUGAL",SIC CARAS 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjoZLfssOmxnfNVZUz3l0sM/ts
-#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC CARAS LOW" tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="PORTUGAL",SIC CARAS LOW 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiRdE9p2oYQw3jqxg64hh54/ts
-#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC CARAS" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SIC%20CARAS.png" group-title="PORTUGAL",SIC CARAS 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvsUfwRitxwXvdcLSHG7YFg/ts
 #EXTINF:-1 tvg-id="EEurope.us" tvg-name="E! ENTERTAINMENT" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/E-ENTRETAINMENT.png" group-title="PORTUGAL",E! ENTERTAINMENT 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpWM8tso_bIzpJ7JCs8fZXw/ts
 #EXTINF:-1 tvg-id="EEurope.us" tvg-name="E! ENTERTAINMENT" tvg-logo="https://i.imgur.com/DfsBEFp.png" group-title="PORTUGAL",E! ENTERTAINMENT 
@@ -1267,10 +1279,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsV2FQkf-4_IMjhyF5G2GoY/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuGzKy8Rv99XQmnnYxp22d8/ts
 #EXTINF:-1 tvg-id="Dizi.nl" tvg-name="DIZI CHANNEL" tvg-logo="" group-title="PORTUGAL",DIZI CHANNEL 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqWsWWZwWKm9BEvXz5P-Gag/ts
-#EXTINF:-1 xui-id="591522" tvg-id="sic.pt" SIC tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="✳️ Portugal",SIC
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKghUBkHr9vcS6ukWVy5wpF8/ts
-#EXTINF:-1 xui-id="591523" tvg-id="sic.pt" SIC ᶠᴴᴰ tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="✳️ Portugal",SIC ᶠᴴᴰ
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg5MTiG5bRU55ZUDXMQewIs/ts
 #EXTINF:-1 timeshift="5" xui-id="591524" tvg-id="tvi.pt" TVI tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="✳️ Portugal",TVI
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsP5W45fSM7wohYvZhbY7sU/ts
 #EXTINF:-1 xui-id="591525" tvg-id="tvi.pt" TVI ᶠᴴᴰ tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="✳️ Portugal",TVI ᶠᴴᴰ
@@ -1317,8 +1325,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKi4dReJks9zzKvDb50Spp5g/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj3Ur8EcXhtGJKxb0c2O6rE/ts
 #EXTINF:-1 xui-id="591691" tvg-id="tv5monde.pt" TV5 MONDE tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TV5-MONDE.png" group-title="✳️ Portugal",TV5 MONDE
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuvEi6NcrZ1EKcpWIMmoT6k/ts
-#EXTINF:-1 xui-id="591709" tvg-id="sic.pt" PT | SIC tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC.png" group-title="✳️ Portugal Extra",PT | Sic
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnD3Lc2fOvXIddtXcDOT_DY/ts
 #EXTINF:-1 xui-id="591713" tvg-id="tvi.pt" PT | TVI tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="✳️ Portugal Extra",PT | Tvi
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtXdi6_5KsvdmnmK1dOqMoI/ts
 #EXTINF:-1 xui-id="591723" tvg-id="rtpinternacional.pt" PT | RTP INTERNACIONAL tvg-logo="https://i.imgur.com/pnOzjZW.png" group-title="✳️ Portugal Extra",PT | Rtp Internacional
@@ -1401,8 +1407,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgZO9kemh0N9Qixhk0UXMQo/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj1L3bQwxm3DAjOPMFHW7WA/ts
 #EXTINF:-1 xui-id="629315" tvg-id="tvi.pt" TVI [LOW] tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="✳️ Portugal LOW",TVI [low]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKggV9d0GSibSoZR9n_7Vz94/ts
-#EXTINF:-1 xui-id="629316" tvg-id="sic.pt" SIC [LOW] tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="✳️ Portugal LOW",SIC [low]
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkmGpgq_7rxNrAJnxB9hALY/ts
 #EXTINF:-1 xui-id="629354" tvg-id="fox.pt" FOX [LOW]* tvg-logo="https://i.postimg.cc/QNYYbLRP/FOX.png" group-title="✳️ Portugal LOW",Fox [low]*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkFgNoMsGjPd59NWf8IeB8o/ts
 #EXTINF:-1 xui-id="629361" tvg-id="axn.pt" AXN [LOW] tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" group-title="✳️ Portugal LOW",AXN [low]
@@ -1413,8 +1417,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvIxfz1xdY4mjETnplQAB0s/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkoHJnyzUKdlfoX8cLsA6lQ/ts
 #EXTINF:-1 xui-id="629398" tvg-id="cacaepesca.pt" CACA Y PESCA [LOW] tvg-logo="http://intelcodecs.hopto.org:8080/picon/cacaepesca.png" group-title="✳️ Portugal LOW",Caca y Pesca [low]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg3QgrfAwMqgo2gdUVsiCFQ/ts
-#EXTINF:-1 xui-id="337728" tvg-id="sic.pt" SIC [HVEC/H265] tvg-logo="https://i.postimg.cc/Hnn8vL6C/SIC.png" group-title="✳️ Portugal HEVC / 265",SIC [HVEC/H265]
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlR6N8MOvmI2gwCmmPPLLz0/ts
 #EXTINF:-1 xui-id="337729" tvg-id="tvi.pt" TVI  [HEVC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="✳️ Portugal HEVC / 265",TVI  [HEVC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqbxcWGLlnDHasWEfzgHycw/ts
 #EXTINF:-1 xui-id="337722" tvg-id="axn.pt" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="✳️ Portugal HEVC / 265",AXN [HVEC/H265]
@@ -1427,8 +1429,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnJED3Z8gNsHv2QJkAklTAg/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhl0ZZiX_N0318CBx6eJrwg/ts
 #EXTINF:-1 xui-id="520187" tvg-id="" PT: 11 HD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/11.png" group-title="✳️ World Sports",PT: 11 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr9CUnauEBpUHBllFmx9GM4/ts
-#EXTINF:-1 xui-id="332029" tvg-id="" SIC [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt.png" group-title="✳️ Portugal HEVC / 265",SIC [HVEC/H265]
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnFKUUAFF3kGe4jLc27NvuM/ts
 #EXTINF:-1 xui-id="332030" tvg-id="" TVI  [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png" group-title="✳️ Portugal HEVC / 265",TVI  [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk5E1k5UCpOKFRGqG-yQ0ls/ts
 #EXTINF:-1 xui-id="332064" tvg-id="" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="✳️ Portugal HEVC / 265",AXN [HVEC/H265]
