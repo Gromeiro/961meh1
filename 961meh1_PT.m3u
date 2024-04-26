@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz,https://www.bevy.be/bevyfiles/portugal.xml.gz,https://www.bevy.be/bevyfiles/portugalpremium.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL", *** 961meh1 ***
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 18:47:32" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 18:47:32*
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 18:51:03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 18:51:03*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL", RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -493,19 +493,19 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvor6M_Sg7CD4hqjrvpfLWI/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKu-ZBTK_JSTh4seQ-lB0SKo/ts
 #EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT.TV6 LOW" tvg-logo="" group-title="PORTUGAL",SPORT.TV6 LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuqRlnzltwuTGlDXHOhX0yc/ts
-#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-NBA%20(1).png" group-title="PORTUGAL", SPORT.TV NBA 
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-NBA%20(1).png" group-title="PORTUGAL", SPORT.TV NBA 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuk2FyobXG6Qkt2fB8mBI_w/ts
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="SPORT.TV NBA FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-NBA%20(1).png" group-title="PORTUGAL",SPORT.TV NBA FHD 
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-name="SPORT.TV NBA FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-NBA%20(1).png" group-title="PORTUGAL",SPORT.TV NBA FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKq_Hj6FkvbA7FMoAUp4zO3g/ts
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="SPORT.TV NBA HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/NBA.png" group-title="PORTUGAL",SPORT.TV NBA HD 
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-name="SPORT.TV NBA HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/NBA.png" group-title="PORTUGAL",SPORT.TV NBA HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhPE5kMNIli5wSBn87_IUUc/ts
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="SPORT.TV NBA FHD" tvg-logo="https://i.imgur.com/fcE0eth.png" group-title="PORTUGAL",SPORT.TV NBA FHD 
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-name="SPORT.TV NBA FHD" tvg-logo="https://i.imgur.com/fcE0eth.png" group-title="PORTUGAL",SPORT.TV NBA FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjTSE1ocHz0WwVdshqiFX6o/ts
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="SPORT.TV NBA LOW" tvg-logo="https://i.postimg.cc/jjVgPx0Q/SPORT-TV-NBA.png" group-title="PORTUGAL",SPORT.TV NBA LOW 
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-name="SPORT.TV NBA LOW" tvg-logo="https://i.postimg.cc/jjVgPx0Q/SPORT-TV-NBA.png" group-title="PORTUGAL",SPORT.TV NBA LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpdgZALyBYIsioqFhhxJjH0/ts
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="SPORT.TV NBA HD HEVC" tvg-logo="https://i.postimg.cc/jjVgPx0Q/SPORT-TV-NBA.png" group-title="PORTUGAL",SPORT.TV NBA HD HEVC 
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-name="SPORT.TV NBA HD HEVC" tvg-logo="https://i.postimg.cc/jjVgPx0Q/SPORT-TV-NBA.png" group-title="PORTUGAL",SPORT.TV NBA HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg9XYDmHeBdGmXJWx0bi3QM/ts
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="SPORT.TV NBA HD HEVC" tvg-logo="https://i.postimg.cc/jjVgPx0Q/SPORT-TV-NBA.png" group-title="PORTUGAL",SPORT.TV NBA HD HEVC 
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-name="SPORT.TV NBA HD HEVC" tvg-logo="https://i.postimg.cc/jjVgPx0Q/SPORT-TV-NBA.png" group-title="PORTUGAL",SPORT.TV NBA HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiwUQ7tOlb_YYBRBV27pj-w/ts
 #EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL", BENFICA TV 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKn0bYoAOIYrIBO8CFogPRv8/ts
@@ -545,129 +545,129 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhydacYwMfCJnI3aJ5ZaMt0/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkO65yozG6tiV9UWuELAdC0/ts
 #EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV UHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/benfica_tv_pt.png" group-title="PORTUGAL",BENFICA TV 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhayVT4ufKSc7u_i8DCCxuM/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL", ELEVEN SPORTS 1 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL", ELEVEN 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj7Iq5lfyu9_q5KuavGmsW8/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgROKcxX23wEzeGp9kGCjak/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlEvA87NWmVXDKhsht8Uu1A/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjgHLglmJtBSXvlJrRjuVMc/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 UHD HEVC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 4K 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 UHD HEVC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgzLWkmsTFMrGGV-AHLARoo/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL", ELEVEN SPORTS 1 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL", ELEVEN 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhN6UauqFR-Jcot0_Tn3C98/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/elevensport1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/elevensport1.png" group-title="PORTUGAL",ELEVEN 1 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsxjakWEsn5DmsEYAzzIeVw/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 FHD" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKho5l2pMJ4L4wu-tYX01RoQ/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 LOW" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 LOW 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 LOW" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqUWt32RlhKFHXCd4axqVGE/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 LOW" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 LOW 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 LOW" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjyRS2vmzNXUJRvpUMDla8o/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 HD HEVC" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD HEVC 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 HD HEVC" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhUL7BspUDvZeBY9HJdMs44/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL", ELEVEN SPORTS 1 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL", ELEVEN 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr1W5OYd34tW3qOGK59Gszs/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoS_EU6Gw69RbXSnk-X-uh0/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrhJPc87MFxS_WVbnS8MIZs/ts
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN SPORTS 1 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD HEVC 
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="PORTUGAL",ELEVEN 1 HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoWmoMCxfa8IJ6OJkQwv7IM/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL", ELEVEN SPORTS 2 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL", ELEVEN 2 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpnBb76eRzcGyzjzYSpU7ds/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN 2 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpzAnGhiFIvJDhcjIHhsB70/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN 2 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjmuLsOEeg4C0HOzFDZLsDQ/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN 2 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKokz6MxoIE7aVy0lCpBuqIg/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 UHD HEVC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 4K 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 UHD HEVC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN 2 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmnbnySnsOJ0AIlQ4h9UV1U/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.imgur.com/49ZWPbm.png" group-title="PORTUGAL", ELEVEN SPORTS 2 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.imgur.com/49ZWPbm.png" group-title="PORTUGAL", ELEVEN 2 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoM17Ph3VuVbyegz0xjuJWk/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/elevensport2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/elevensport2.png" group-title="PORTUGAL",ELEVEN 2 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlXXzIrVSacwJybGPRj0HxI/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2(2).png" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2(2).png" group-title="PORTUGAL",ELEVEN 2 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhXJw9qGIgBWyXN_Z7j9_Ao/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 LOW" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 LOW 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 LOW" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN 2 LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjC9VFtxKUKeWBbdQHcdopo/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 HD HEVC" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD HEVC 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 HD HEVC" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN 2 HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKq7vnVRWKpwnVFHgzqaXEtU/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN 2 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtKmsZTbyybyuSLaxXhdLaA/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN 2 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhfln7-P1bmrLODlNokv8Us/ts
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN SPORTS 2 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD HEVC 
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="PORTUGAL",ELEVEN 2 HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk7qhzNIO7Q5vRAME3QXij0/ts
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-3.png" group-title="PORTUGAL", ELEVEN SPORTS 3 
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-3.png" group-title="PORTUGAL", ELEVEN 3 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKo7LPqAdAXjD44w9VQjKnEM/ts
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://i.imgur.com/JmJve1Z.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD 
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN 3 HD" tvg-logo="https://i.imgur.com/JmJve1Z.png" group-title="PORTUGAL",ELEVEN 3 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqkBrDnJNiYUyVZmDGHhaoc/ts
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN SPORTS 3 FHD 
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN 3 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN 3 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtC9b2n5DvNS2OSCbxZUifU/ts
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL", ELEVEN SPORTS 3 
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL", ELEVEN 3 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkZaqFQ0Tzzk0KDGlqfUjZA/ts
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN SPORTS 3 FHD 
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN 3 FHD" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN 3 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKn7rJ1e3sxh0LR6bxQ-Cbck/ts
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN SPORTS 3 LOW" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN SPORTS 3 LOW 
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN 3 LOW" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN 3 LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrlqqIGUx46YFZ9zRR_1pTE/ts
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN SPORTS 3 HD HEVC" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD HEVC 
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN 3 HD HEVC" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN 3 HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgDEX1ji9XbuoU5-NZStfvY/ts
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-3.png" group-title="PORTUGAL", ELEVEN SPORTS 3 
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-3.png" group-title="PORTUGAL", ELEVEN 3 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKu29toxe7KqgYFAKjJWPcq8/ts
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN SPORTS 3 FHD 
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN 3 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN 3 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnqYXSJfAMBfkVCB03JpMM8/ts
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN SPORTS 3 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD HEVC 
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN 3 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="PORTUGAL",ELEVEN 3 HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkiXDvvVVmhRaald35cNmVc/ts
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-4.png" group-title="PORTUGAL", ELEVEN SPORTS 4 
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-4.png" group-title="PORTUGAL", ELEVEN 4 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKszvNDZFydSNyX634dpwIhE/ts
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD 
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN 4 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN 4 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnwQNAzrms9TqSofxVsmWDc/ts
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN SPORTS 4 FHD 
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN 4 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN 4 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuf8IIsCdaos2IGNtMH6IEM/ts
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL", ELEVEN SPORTS 4 
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL", ELEVEN 4 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpBmgS_nsePZJszX0NEpVAI/ts
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN SPORTS 4 FHD 
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN 4 FHD" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN 4 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmDpfHSNmc9gBD6XWXtuKxU/ts
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN SPORTS 4 LOW" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN SPORTS 4 LOW 
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN 4 LOW" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN 4 LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhX4XGsJKjPmuG-LESOZYaw/ts
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN SPORTS 4 HD HEVC" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD HEVC 
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN 4 HD HEVC" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN 4 HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhHEsVBkTcuK3_T1i0F9Wlc/ts
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-4.png" group-title="PORTUGAL", ELEVEN SPORTS 4 
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-4.png" group-title="PORTUGAL", ELEVEN 4 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr5sLJr6SI4cnFe7L5WslxQ/ts
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN SPORTS 4 FHD 
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN 4 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN 4 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjt38zGASy06Bokmvw3XUVo/ts
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN SPORTS 4 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD HEVC 
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN 4 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png" group-title="PORTUGAL",ELEVEN 4 HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnhHYS7LXlQ3IKI5hyW8baY/ts
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-5.png" group-title="PORTUGAL", ELEVEN SPORTS 5 
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-5.png" group-title="PORTUGAL", ELEVEN 5 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpwBfCFLNGXcPn_yMO3XuVo/ts
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN SPORTS 5 FHD 
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN 5 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN 5 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoGtgeZRZ4CFg9megWijZus/ts
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN SPORTS 5 HD 
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN 5 HD" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN 5 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKn1o1yiAE2B5JW-6AYvzbJk/ts
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL", ELEVEN SPORTS 5 
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL", ELEVEN 5 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpR1CFfvna_rDwdYp3IMc1Q/ts
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN SPORTS 5 FHD 
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN 5 FHD" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN 5 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKl7_vhZ4gsHIIuOWpJh6CP0/ts
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN SPORTS 5 LOW" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN SPORTS 5 LOW 
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN 5 LOW" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN 5 LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnSaPrFyqa6ZITtAwpQsKCM/ts
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN SPORTS 5 HD 
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN 5 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN 5 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjBHyp72IQ3L1M80Gwl4bto/ts
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN SPORTS 5 FHD 
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN 5 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN 5 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmL8pmFf42wewa-Lvsv0Q4M/ts
-#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-6.png" group-title="PORTUGAL", ELEVEN SPORTS 6 
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-6.png" group-title="PORTUGAL", ELEVEN 6 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvBdUvHW-Kk-KNEW3IXdHy0/ts
-#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-logo="https://i.postimg.cc/C16BWK4W/ELEVEN-SPORTS-6.png" group-title="PORTUGAL", ELEVEN SPORTS 6 
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-logo="https://i.postimg.cc/C16BWK4W/ELEVEN-SPORTS-6.png" group-title="PORTUGAL", ELEVEN 6 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKh7_eqDTwTL_nROYNudW7Qg/ts
-#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="https://i.postimg.cc/C16BWK4W/ELEVEN-SPORTS-6.png" group-title="PORTUGAL",ELEVEN SPORTS 6 FHD 
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN 6 FHD" tvg-logo="https://i.postimg.cc/C16BWK4W/ELEVEN-SPORTS-6.png" group-title="PORTUGAL",ELEVEN 6 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkTFPmmt6OGaez5rgA8lGPM/ts
-#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 6 HD 
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN 6 HD" tvg-logo="" group-title="PORTUGAL",ELEVEN 6 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhLNbZdL2dS4NNqN40S5bDs/ts
-#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN SPORTS 6 LOW" tvg-logo="http://logos.fc-service.xyz/logos_paises/PORTUGAL/elevensport6.png" group-title="PORTUGAL",ELEVEN SPORTS 6 LOW 
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN 6 LOW" tvg-logo="http://logos.fc-service.xyz/logos_paises/PORTUGAL/elevensport6.png" group-title="PORTUGAL",ELEVEN 6 LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvYmGrXhJaHLZubFgo9DhWM/ts
-#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-6.png" group-title="PORTUGAL",ELEVEN SPORTS 6 FHD 
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN 6 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-6.png" group-title="PORTUGAL",ELEVEN 6 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnOLc0ZlF67PISwKm_xE-AE/ts
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://i.postimg.cc/htW5nBfC/EUROSPORT-1.png" group-title="PORTUGAL", EUROSPORT 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgBTJiHWacjR2zivoEDwUw0/ts
