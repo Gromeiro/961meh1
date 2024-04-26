@@ -1,7 +1,3 @@
 #EXTM3U  
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkBwMzua2nE3L4B135NOgEY/ts
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrlbyYOj-EfX9jdDOc9bQyM/ts
