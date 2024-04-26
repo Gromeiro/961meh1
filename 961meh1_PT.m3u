@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz"
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz,https://www.bevy.be/bevyfiles/portugal.xml.gz,https://www.bevy.be/bevyfiles/portugalpremium.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL", *** 961meh1 ***
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 18:32:24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 18:32:24*
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 18:47:32" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 18:47:32*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL", RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -507,43 +507,43 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpdgZALyBYIsioqFhhxJjH0/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg9XYDmHeBdGmXJWx0bi3QM/ts
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="SPORT.TV NBA HD HEVC" tvg-logo="https://i.postimg.cc/jjVgPx0Q/SPORT-TV-NBA.png" group-title="PORTUGAL",SPORT.TV NBA HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiwUQ7tOlb_YYBRBV27pj-w/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL", BENFICA TV 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL", BENFICA TV 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKn0bYoAOIYrIBO8CFogPRv8/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV HD 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtWjB7ZnMtohsXmuJ3P3ZQI/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV FHD 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhFeA4BfcQ0Eow3FwpVqNf4/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV FHD 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtXl08scxBhah4zgM9Iba8w/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV FHD 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKitVxNj6aPz_8l5eLR_DoEY/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV UHD HEVC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV 4K 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV UHD HEVC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiRuZ-mHbUNZ8XYF4AaQS5c/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL", BENFICA TV 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL", BENFICA TV 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvHznuER1wHSKW66QrrImOQ/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/BTV1HD.png" group-title="PORTUGAL",BENFICA TV HD 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/BTV1HD.png" group-title="PORTUGAL",BENFICA TV HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsC0od9EMztDBAHw8JN44ss/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/benfica_tv.png" group-title="PORTUGAL",BENFICA TV LOW 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/benfica_tv.png" group-title="PORTUGAL",BENFICA TV LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKku3L_q6gHtkSH3yjtqc5r0/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/benfica_tv.png" group-title="PORTUGAL",BENFICA TV LOW 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/benfica_tv.png" group-title="PORTUGAL",BENFICA TV LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtTAl7ZPF2GOLzPKmA8blBA/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV HD HEVC" tvg-logo="https://i.postimg.cc/RVkQbgsv/BTV-HD.png" group-title="PORTUGAL",BENFICA TV HD HEVC 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV HD HEVC" tvg-logo="https://i.postimg.cc/RVkQbgsv/BTV-HD.png" group-title="PORTUGAL",BENFICA TV HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpk5j7nOFdLzzcyZiPKqnWI/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV HD 265" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/BTV%201.png" group-title="PORTUGAL",BENFICA TV HD 265 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV HD 265" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/BTV%201.png" group-title="PORTUGAL",BENFICA TV HD 265 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKv5l8cAY_4WjTcTULO8011g/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV UHD HEVC" tvg-logo="https://i.postimg.cc/RVkQbgsv/BTV-HD.png" group-title="PORTUGAL",BENFICA TV 4K 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV UHD HEVC" tvg-logo="https://i.postimg.cc/RVkQbgsv/BTV-HD.png" group-title="PORTUGAL",BENFICA TV 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKv0uzUzn8Y6SvkKzeG_68W8/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL", BENFICA TV 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL", BENFICA TV 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqHeCcP1HGb2xOiCuAFbBxE/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV HD 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhPicb0UlKiCXytdv2JQs84/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV FHD 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL",BENFICA TV FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkvBnVqB1488-rpZmlMbivY/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV UHD HEVC" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",BENFICA TV 4K 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV UHD HEVC" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",BENFICA TV 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhydacYwMfCJnI3aJ5ZaMt0/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/benfica_tv_pt.png" group-title="PORTUGAL",BENFICA TV HD HEVC 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/benfica_tv_pt.png" group-title="PORTUGAL",BENFICA TV HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkO65yozG6tiV9UWuELAdC0/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV UHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/benfica_tv_pt.png" group-title="PORTUGAL",BENFICA TV 4K 
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV UHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/benfica_tv_pt.png" group-title="PORTUGAL",BENFICA TV 4K 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhayVT4ufKSc7u_i8DCCxuM/ts
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-1.png" group-title="PORTUGAL", ELEVEN SPORTS 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj7Iq5lfyu9_q5KuavGmsW8/ts
