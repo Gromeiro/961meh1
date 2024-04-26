@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz" 
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL", *** 961meh1 ***
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 17:25:31" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 17:25:31*
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 17:32:53" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 17:32:53*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL", RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -825,66 +825,72 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhNybxDWCQ7SvjsiCMtKedU/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk2ExRtG1MidzW0iPKUqzjI/ts
 #EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-name="AMC HD 265" tvg-logo="https://i.postimg.cc/T3RqZP2J/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-televisio.png" group-title="PORTUGAL",AMC HD 265 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKk7ul4VSUeGRcYuj_-jnFNI/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="PORTUGAL", FOX 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsC5oGG_KtPejEwSKunn1zI/ts
 #EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX FHD" tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="PORTUGAL",FOX FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkHFFpMzfITmz0mt0ML3D90/ts
-#EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL", FOX LIFE 
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-logo="https://i.postimg.cc/PJC4cxB7/FOX-COMEDY.png" group-title="PORTUGAL", FOX 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnLFSzeg65PhtPBPWNt1kHY/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX FHD" tvg-logo="https://i.postimg.cc/PJC4cxB7/FOX-COMEDY.png" group-title="PORTUGAL",FOX FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiaF3YaA6nBZg59OiNNHfqQ/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/FOX-CRIME.png" group-title="PORTUGAL", FOX 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgvUSoHccL8rCVXgoCxoZnI/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX FHD" tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/FOX-CRIME.png" group-title="PORTUGAL",FOX FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtAdDoY9CDqfNS1xtiR7g_s/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL", FOX 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhlauKAkjDI7Q8rIODDoH0Q/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX FHD" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL",FOX FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiUhssOSng9CEu60ECAlfQ0/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX HD" tvg-logo="https://i.postimg.cc/xTcfx2qb/FOX-MOVIES-HD.png" group-title="PORTUGAL",FOX HD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkCamila-2_c0KzL-U8jkQA/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX FHD" tvg-logo="https://i.postimg.cc/xTcfx2qb/FOX-MOVIES-HD.png" group-title="PORTUGAL",FOX FHD 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuPQL9R9u0tDH2DGlyiU9W8/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png" group-title="PORTUGAL",FOX HD HEVC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKij3_JQPlp0BZNEMO5gSMso/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="PORTUGAL",FOX HD HEVC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjfdPL_Pa0sqxCmBkeuy1iU/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-life-us.png" group-title="PORTUGAL",FOX HD HEVC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs4TncdqT3bj6YWHY6H8arc/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX HD 265" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/FOXCOMEDY.png" group-title="PORTUGAL",FOX HD 265 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnaQ5bKLFJ0L47RArKgEZ04/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX HD 265" tvg-logo="https://i.postimg.cc/vBc2R3nX/FOX-CRIME.png" group-title="PORTUGAL",FOX HD 265 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnQFf7HMqL6Vqvd_KPjN_XM/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="PORTUGAL",FOX HD HEVC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpwhCgTchOBrOIMc1r4DfJE/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-life-us.png" group-title="PORTUGAL",FOX HD HEVC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKu0DGfZoq_vqNmxBiZ9B1HA/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_crime_global.png" group-title="PORTUGAL",FOX HD HEVC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoEXKsNTyHUaZhLtp_gtuxs/ts
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png" group-title="PORTUGAL",FOX HD HEVC 
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjqbo0lnSzjYWXbxXF7hnhY/ts
 #EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="FOX LIFE HD" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL",FOX LIFE HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpJLiz92SouUZsj-iG5GlZE/ts
-#EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="FOX LIFE FHD" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL",FOX LIFE FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiUhssOSng9CEu60ECAlfQ0/ts
 #EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL", FOX LIFE 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKukAEHR6DbvTvWPfesxWOj0/ts
 #EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="FOX LIFE FHD" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL",FOX LIFE FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmCqzyyZg3fB2GEf3wxDyUI/ts
 #EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="FOX LIFE LOW" tvg-logo="https://i.postimg.cc/DyjW0641/FOX-LIFE.png" group-title="PORTUGAL",FOX LIFE LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKl9D--rojv0OL6C2VIhG5Sg/ts
-#EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="FOX LIFE HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-life-us.png" group-title="PORTUGAL",FOX LIFE HD HEVC 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs4TncdqT3bj6YWHY6H8arc/ts
-#EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="FOX LIFE HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-life-us.png" group-title="PORTUGAL",FOX LIFE HD HEVC 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKu0DGfZoq_vqNmxBiZ9B1HA/ts
-#EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-logo="https://i.postimg.cc/PJC4cxB7/FOX-COMEDY.png" group-title="PORTUGAL", FOX COMEDY 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnLFSzeg65PhtPBPWNt1kHY/ts
-#EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="FOX COMEDY FHD" tvg-logo="https://i.postimg.cc/PJC4cxB7/FOX-COMEDY.png" group-title="PORTUGAL",FOX COMEDY FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiaF3YaA6nBZg59OiNNHfqQ/ts
 #EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL", FOX COMEDY 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqQMIzE7Pq5eNIwJF-b3CB8/ts
 #EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="FOX COMEDY FHD" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",FOX COMEDY FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKndu7_K7uPDsEV0LLNludTY/ts
 #EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="FOX COMEDY LOW" tvg-logo="https://i.postimg.cc/PJC4cxB7/FOX-COMEDY.png" group-title="PORTUGAL",FOX COMEDY LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKid0KaFSpV12m6lXxPOxOQA/ts
-#EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="FOX COMEDY HD 265" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/FOXCOMEDY.png" group-title="PORTUGAL",FOX COMEDY HD 265 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnaQ5bKLFJ0L47RArKgEZ04/ts
-#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/FOX-CRIME.png" group-title="PORTUGAL", FOX CRIME 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgvUSoHccL8rCVXgoCxoZnI/ts
 #EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="FOX CRIME HD" tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/FOX-CRIME.png" group-title="PORTUGAL",FOX CRIME HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhObGvd9lQN9I8itMX-4m8k/ts
-#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="FOX CRIME FHD" tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/FOX-CRIME.png" group-title="PORTUGAL",FOX CRIME FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtAdDoY9CDqfNS1xtiR7g_s/ts
 #EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL", FOX CRIME 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKveLcDsp_adnLvQvF686ClU/ts
 #EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="FOX CRIME FHD" tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/FOX-CRIME.png" group-title="PORTUGAL",FOX CRIME FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKl5JGDDLKYTYnEiXhXL4D7M/ts
 #EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="FOX CRIME LOW" tvg-logo="https://i.postimg.cc/vBc2R3nX/FOX-CRIME.png" group-title="PORTUGAL",FOX CRIME LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlcFjbXKeeUU2sC6q458b_0/ts
-#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="FOX CRIME HD 265" tvg-logo="https://i.postimg.cc/vBc2R3nX/FOX-CRIME.png" group-title="PORTUGAL",FOX CRIME HD 265 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnQFf7HMqL6Vqvd_KPjN_XM/ts
-#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="FOX CRIME HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_crime_global.png" group-title="PORTUGAL",FOX CRIME HD HEVC 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoEXKsNTyHUaZhLtp_gtuxs/ts
-#EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-name="FOX MOVIES HD" tvg-logo="https://i.postimg.cc/xTcfx2qb/FOX-MOVIES-HD.png" group-title="PORTUGAL",FOX MOVIES HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkCamila-2_c0KzL-U8jkQA/ts
-#EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-name="FOX MOVIES FHD" tvg-logo="https://i.postimg.cc/xTcfx2qb/FOX-MOVIES-HD.png" group-title="PORTUGAL",FOX MOVIES FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuPQL9R9u0tDH2DGlyiU9W8/ts
 #EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL", FOX MOVIES 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmM4MMG9Oi2jwXbV_UlsAFw/ts
 #EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-name="FOX MOVIES FHD" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL",FOX MOVIES FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjtFQXPvV-gpwcRXD0fDSLQ/ts
 #EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-name="FOX MOVIES LOW" tvg-logo="https://i.postimg.cc/QNYYbLRP/FOX.png" group-title="PORTUGAL",FOX MOVIES LOW 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgzKJ0CmTSIwy95FqWrIHtw/ts
-#EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-name="FOX MOVIES HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png" group-title="PORTUGAL",FOX MOVIES HD HEVC 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKij3_JQPlp0BZNEMO5gSMso/ts
-#EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-name="FOX MOVIES HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png" group-title="PORTUGAL",FOX MOVIES HD HEVC 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjqbo0lnSzjYWXbxXF7hnhY/ts
 #EXTINF:-1 tvg-id="AXNPortugal.pt" tvg-name="AXN HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-HD.png" group-title="PORTUGAL",AXN HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpMvhUME33Sf6XMmnGUperw/ts
 #EXTINF:-1 tvg-id="AXNPortugal.pt" tvg-name="AXN FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-HD.png" group-title="PORTUGAL",AXN FHD 
@@ -1315,8 +1321,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvBV4iIsjKXEymLTlvxt1nA/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKut9y5IoFJME9WAfFzzUSCY/ts
 #EXTINF:-1 timeshift="3" xui-id="591638" tvg-id="axn.pt" AXN tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-HD.png" group-title="✳️ Portugal",AXN
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKozKZPUHs14AB4B0_U23s3g/ts
-#EXTINF:-1 xui-id="591642" tvg-id="fox.pt" FOX tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="✳️ Portugal",FOX
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsC5oGG_KtPejEwSKunn1zI/ts
 #EXTINF:-1 xui-id="591865" tvg-id="" FOX  HD tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="✳️ Portugal",Fox  HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhZBcKbGNUnTAIx2eX9Ggyg/ts
 #EXTINF:-1 xui-id="591651" tvg-id="" ꧁ INFANTIL ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/infantil.png" group-title="✳️ Portugal",꧁ INFANTIL ꧂
@@ -1423,8 +1427,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkoHJnyzUKdlfoX8cLsA6lQ/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg3QgrfAwMqgo2gdUVsiCFQ/ts
 #EXTINF:-1 xui-id="337722" tvg-id="axn.pt" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="✳️ Portugal HEVC / 265",AXN [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtI4C6ehZd7RwMgd7iBiayw/ts
-#EXTINF:-1 xui-id="337726" tvg-id="fox.pt" FOX [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="✳️ Portugal HEVC / 265",FOX [HVEC/H265]
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjfdPL_Pa0sqxCmBkeuy1iU/ts
 #EXTINF:-1 xui-id="520158" tvg-id="" •●★-- DESPORTO DE PORTUGAL --★●• tvg-logo="https://img1.gratispng.com/20180401/yye/kisspng-flag-of-portugal-national-flag-flag-of-poland-portugal-5ac0b5f3e18818.0715604115225789319238.jpg" group-title="✳️ World Sports",•●★-- Desporto de Portugal --★●•
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnJED3Z8gNsHv2QJkAklTAg/ts
 #EXTINF:-1 xui-id="520186" tvg-id="" PT: 11 FHD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/11.png" group-title="✳️ World Sports",PT: 11 FHD
@@ -1433,8 +1435,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhl0ZZiX_N0318CBx6eJrwg/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr9CUnauEBpUHBllFmx9GM4/ts
 #EXTINF:-1 xui-id="332064" tvg-id="" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="✳️ Portugal HEVC / 265",AXN [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgsvFb717Oa4P8VEvjhDcA4/ts
-#EXTINF:-1 xui-id="332067" tvg-id="" FOX [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="✳️ Portugal HEVC / 265",FOX [HVEC/H265]
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpwhCgTchOBrOIMc1r4DfJE/ts
 #EXTINF:-1 xui-id="608431" OPÉRATION PORTUGAL tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnJRQ8iSCncMe38339H9BvukkiX.jpg" group-title="♨️ Filmes 2021",Opération Portugal
 http://sonickx.xyz:80/play/dEWUwRi0M8DqKYz0AJ6GH4qF4_hvOZprMYpgkQyn2hS5_Yzeseti5fPxLXKAtO_6#.mkv
 #EXTINF:-1 xui-id="628340" XUTOS E PONTAPES - HOMEM DO LEME (VERSÃO ACUSTICA) tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg" group-title="♨️Karaoke Portugal",XUTOS E PONTAPES - HOMEM DO LEME (VERSÃO ACUSTICA)
