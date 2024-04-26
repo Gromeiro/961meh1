@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz" 
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL", *** 961meh1 ***
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 17:02:04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 17:02:04*
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 17:15:47" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 17:15:47*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL", RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -377,40 +377,6 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlWplybHr0H2jNvGQvqK22E/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnMU_3nJJbvMXTye7wCjvrQ/ts
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT.TV1 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_1.png" group-title="PORTUGAL",SPORT.TV1 HD HEVC 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmT5wMmuxQc8EexdiPwVJn8/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2%20(1).png" group-title="PORTUGAL", SPORT.TV2 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiubxrEdOEre-RtNfv1orKs/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 HD" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="PORTUGAL",SPORT.TV2 HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiKjd0j0dMzQKIkinGZ0h54/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 FHD" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="PORTUGAL",SPORT.TV2 FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKufkl94t-pglXN1P97AceyQ/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="PORTUGAL",SPORT.TV2 FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKq4ZeOfRWUdg4E9zgX5TTpI/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 UHD HEVC" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="PORTUGAL",SPORT.TV2 4K 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnyN1spTj4etZS5leAC5swo/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2.png" group-title="PORTUGAL", SPORT.TV2 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs-nU4kXYcyFC66xmB2BNnM/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="PORTUGAL",SPORT.TV2 HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKviWUp7vuUktos-zL_bMm30/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="PORTUGAL",SPORT.TV2 FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkQqLNY6242_CR1MvkDFkcE/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 LOW" tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="PORTUGAL",SPORT.TV2 LOW 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtFeWmyuDrNfSLQ8ZRuxOLs/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 LOW" tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="PORTUGAL",SPORT.TV2 LOW 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjUEo7O1S_gnI0MV7ALS4j8/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 HD HEVC" tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="PORTUGAL",SPORT.TV2 HD HEVC 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlyxqet7yyajeUklN7UP-jY/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 HD HEVC" tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="PORTUGAL",SPORT.TV2 HD HEVC 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsWZ13O0Tv67ai1Hi8E89tE/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2%20(1).png" group-title="PORTUGAL", SPORT.TV2 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpofuKUNa3oTvqzUilxz4Xk/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2%20(1).png" group-title="PORTUGAL",SPORT.TV2 HD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvW3RjVDWqOYgUFyZyUPPzg/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2%20(1).png" group-title="PORTUGAL",SPORT.TV2 FHD 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiUR01KD-ePKuqH2QSNEBwE/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_2.png" group-title="PORTUGAL",SPORT.TV2 HD HEVC 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsdGe4YsHfV3vIraeQFLNkQ/ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 HD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_2.png" group-title="PORTUGAL",SPORT.TV2 HD HEVC 
-http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKopou6J13ezvVC6OblfTjXo/ts
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-3.png" group-title="PORTUGAL", SPORT.TV3 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKoNJlOJRhe8vkIhghrvjitc/ts
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT.TV3 HD" tvg-logo="https://i.postimg.cc/MKVjXq58/SPORT-TV-3-HD.png" group-title="PORTUGAL",SPORT.TV3 HD 
@@ -1299,6 +1265,16 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqWsWWZwWKm9BEvXz5P-Gag/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKklAsK43OXWjmL6UNJq3GoY/ts
 #EXTINF:-1 xui-id="591555" tvg-id="" ꧁ DESPORTO ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/desporto.png" group-title="✳️ Portugal",꧁ DESPORTO ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuJI3FlTTRfi67R7o32atOs/ts
+#EXTINF:-1 xui-id="591563" tvg-id="sporttv2.pt" SPORT TV 2 tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2%20(1).png" group-title="✳️ Portugal",SPORT TV 2
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiubxrEdOEre-RtNfv1orKs/ts
+#EXTINF:-1 xui-id="591564" tvg-id="sporttv2.pt" SPORT TV 2 HD tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="✳️ Portugal",SPORT TV 2 HD
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiKjd0j0dMzQKIkinGZ0h54/ts
+#EXTINF:-1 xui-id="591565" tvg-id="sporttv2.pt" SPORT TV 2 FHD tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="✳️ Portugal",SPORT TV 2 FHD
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKufkl94t-pglXN1P97AceyQ/ts
+#EXTINF:-1 timeshift="2" xui-id="591784" tvg-id="sporttv2.pt" SPORT TV 2 FHD2⁶⁴ tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="✳️ Portugal",Sport TV 2 FHD2⁶⁴
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKq4ZeOfRWUdg4E9zgX5TTpI/ts
+#EXTINF:-1 xui-id="591566" tvg-id="sporttv2.pt" SPORT TV 2  4K tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="✳️ Portugal",SPORT TV 2  4K
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnyN1spTj4etZS5leAC5swo/ts
 #EXTINF:-1 xui-id="593150" tvg-id="" MUNDO TOURO TV FHD tvg-logo="https://24h.laraia.xyz/Logos/MUNDOTORO-TV-LOGO.png" group-title="✳️ Portugal",MUNDO TOURO TV FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvoaDq724eDhmwpu19kYmZg/ts
 #EXTINF:-1 xui-id="591613" tvg-id="" REDBULL TV FHD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/redbull.png" group-title="✳️ Portugal",REDBULL TV FHD
@@ -1347,6 +1323,12 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiJ7NcBArRu23oG0C02YAxs/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkyfa4DgNKx7tSFeGeB7y7k/ts
 #EXTINF:-1 xui-id="591767" tvg-id="" ---●★| PORTUGAL DESPORTO |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" group-title="✳️ Portugal Extra",---●★| Portugal Desporto |★●---
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgau0OtAZRh4nTc5jZTNreM/ts
+#EXTINF:-1 xui-id="591782" tvg-id="sporttv2.pt" PT | SPORT TV 2 tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2.png" group-title="✳️ Portugal Extra",PT | Sport TV 2
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs-nU4kXYcyFC66xmB2BNnM/ts
+#EXTINF:-1 xui-id="591783" tvg-id="sporttv2.pt" PT | SPORT TV 2 HD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="✳️ Portugal Extra",PT | Sport TV 2 HD
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKviWUp7vuUktos-zL_bMm30/ts
+#EXTINF:-1 xui-id="591785" tvg-id="" PT | SPORT TV 2 FHD2⁶⁵ tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="✳️ Portugal Extra",PT | Sport TV 2 FHD2⁶⁵
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkQqLNY6242_CR1MvkDFkcE/ts
 #EXTINF:-1 xui-id="591831" tvg-id="" PT | KOMBAT SPORT tvg-logo="https://i.imgur.com/1kpnKQ7.png" group-title="✳️ Portugal Extra",PT | KOMBAT SPORT
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKh3iSu1FA1-TaGLgSgqAg-o/ts
 #EXTINF:-1 xui-id="591832" tvg-id="" PT | NHK WORLD JAPAN tvg-logo="https://imgur.com/bsuG7v7.png" group-title="✳️ Portugal Extra",PT | NHK WORLD JAPAN
@@ -1411,6 +1393,10 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKizb6waJzB6PBUXEKBNCqH0/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgZO9kemh0N9Qixhk0UXMQo/ts
 #EXTINF:-1 xui-id="591962" tvg-id="" PT | TRAVEL XP tvg-logo="" group-title="✳️ Portugal Extra",PT | TRAVEL XP
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj1L3bQwxm3DAjOPMFHW7WA/ts
+#EXTINF:-1 xui-id="629326" tvg-id="elevensports2.pt" SPORT TV 2 [LOW]¹ tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="✳️ Portugal LOW",Sport TV 2 [low]¹
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtFeWmyuDrNfSLQ8ZRuxOLs/ts
+#EXTINF:-1 xui-id="629327" tvg-id="sporttv2.pt" SPORT TV 2 [LOW]2 tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="✳️ Portugal LOW",Sport TV 2 [low]2
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjUEo7O1S_gnI0MV7ALS4j8/ts
 #EXTINF:-1 xui-id="629354" tvg-id="fox.pt" FOX [LOW]* tvg-logo="https://i.postimg.cc/QNYYbLRP/FOX.png" group-title="✳️ Portugal LOW",Fox [low]*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkFgNoMsGjPd59NWf8IeB8o/ts
 #EXTINF:-1 xui-id="629361" tvg-id="axn.pt" AXN [LOW] tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" group-title="✳️ Portugal LOW",AXN [low]
@@ -1421,16 +1407,30 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvIxfz1xdY4mjETnplQAB0s/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkoHJnyzUKdlfoX8cLsA6lQ/ts
 #EXTINF:-1 xui-id="629398" tvg-id="cacaepesca.pt" CACA Y PESCA [LOW] tvg-logo="http://intelcodecs.hopto.org:8080/picon/cacaepesca.png" group-title="✳️ Portugal LOW",Caca y Pesca [low]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg3QgrfAwMqgo2gdUVsiCFQ/ts
+#EXTINF:-1 xui-id="337742" tvg-id="sporttv2.pt" SPORT TV 2 [HVEC/H265] tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="✳️ Portugal HEVC / 265",SPORT TV 2 [HVEC/H265]
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKlyxqet7yyajeUklN7UP-jY/ts
+#EXTINF:-1 xui-id="337696" tvg-id="sporttv2.pt" SPORT TV 2 [HVEC/H265] 2 tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="✳️ Portugal HEVC / 265",SPORT TV 2 [HVEC/H265] 2
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsWZ13O0Tv67ai1Hi8E89tE/ts
 #EXTINF:-1 xui-id="337722" tvg-id="axn.pt" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="✳️ Portugal HEVC / 265",AXN [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtI4C6ehZd7RwMgd7iBiayw/ts
 #EXTINF:-1 xui-id="337726" tvg-id="fox.pt" FOX [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="✳️ Portugal HEVC / 265",FOX [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjfdPL_Pa0sqxCmBkeuy1iU/ts
 #EXTINF:-1 xui-id="520158" tvg-id="" •●★-- DESPORTO DE PORTUGAL --★●• tvg-logo="https://img1.gratispng.com/20180401/yye/kisspng-flag-of-portugal-national-flag-flag-of-poland-portugal-5ac0b5f3e18818.0715604115225789319238.jpg" group-title="✳️ World Sports",•●★-- Desporto de Portugal --★●•
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnJED3Z8gNsHv2QJkAklTAg/ts
+#EXTINF:-1 xui-id="520164" tvg-id="" PT: SPORT TV 2 tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2%20(1).png" group-title="✳️ World Sports",PT: Sport TV 2
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKpofuKUNa3oTvqzUilxz4Xk/ts
+#EXTINF:-1 xui-id="520165" tvg-id="" PT: SPORT TV 2 HD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2%20(1).png" group-title="✳️ World Sports",PT: Sport TV 2 HD
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvW3RjVDWqOYgUFyZyUPPzg/ts
+#EXTINF:-1 xui-id="520166" tvg-id="" PT: SPORT TV 2 FHD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2%20(1).png" group-title="✳️ World Sports",PT: Sport TV 2 FHD
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiUR01KD-ePKuqH2QSNEBwE/ts
 #EXTINF:-1 xui-id="520186" tvg-id="" PT: 11 FHD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/11.png" group-title="✳️ World Sports",PT: 11 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhl0ZZiX_N0318CBx6eJrwg/ts
 #EXTINF:-1 xui-id="520187" tvg-id="" PT: 11 HD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/11.png" group-title="✳️ World Sports",PT: 11 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKr9CUnauEBpUHBllFmx9GM4/ts
+#EXTINF:-1 xui-id="332043" tvg-id="" SPORT TV 2 [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_2.png" group-title="✳️ Portugal HEVC / 265",SPORT TV 2 [HVEC/H265]
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsdGe4YsHfV3vIraeQFLNkQ/ts
+#EXTINF:-1 xui-id="332044" tvg-id="" SPORT TV 2 2K [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_2.png" group-title="✳️ Portugal HEVC / 265",SPORT TV 2 2K [HVEC/H265]
+http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKopou6J13ezvVC6OblfTjXo/ts
 #EXTINF:-1 xui-id="332064" tvg-id="" AXN [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="✳️ Portugal HEVC / 265",AXN [HVEC/H265]
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgsvFb717Oa4P8VEvjhDcA4/ts
 #EXTINF:-1 xui-id="332067" tvg-id="" FOX [HVEC/H265] tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="✳️ Portugal HEVC / 265",FOX [HVEC/H265]
