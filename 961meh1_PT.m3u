@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz" 
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL", *** 961meh1 ***
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 13:14:22" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 13:14:22*
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 13:30:51" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 13:30:51*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL", RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -1295,9 +1295,9 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqWsWWZwWKm9BEvXz5P-Gag/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKklAsK43OXWjmL6UNJq3GoY/ts
 #EXTINF:-1 xui-id="591555" tvg-id="" ꧁ DESPORTO ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/desporto.png" group-title="✳️ Portugal",꧁ DESPORTO ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuJI3FlTTRfi67R7o32atOs/ts
-#EXTINF:-1 xui-id="593150" tvg-id="" MUNDO TOURO TV ᶠᴴᴰ tvg-logo="https://24h.laraia.xyz/Logos/MUNDOTORO-TV-LOGO.png" group-title="✳️ Portugal",MUNDO TOURO TV ᶠᴴᴰ
+#EXTINF:-1 xui-id="593150" tvg-id="" MUNDO TOURO TV  tvg-logo="https://24h.laraia.xyz/Logos/MUNDOTORO-TV-LOGO.png" group-title="✳️ Portugal",MUNDO TOURO TV ᶠᴴᴰ
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvoaDq724eDhmwpu19kYmZg/ts
-#EXTINF:-1 xui-id="591613" tvg-id="" REDBULL TV ᶠᴴᴰ tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/redbull.png" group-title="✳️ Portugal",REDBULL TV ᶠᴴᴰ
+#EXTINF:-1 xui-id="591613" tvg-id="" REDBULL TV  tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/redbull.png" group-title="✳️ Portugal",REDBULL TV ᶠᴴᴰ
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs4eC9cOHsb_fpVBoqkvh1w/ts
 #EXTINF:-1 xui-id="591615" tvg-id="" KOMBAT SPORT tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/KOMBAT-SPORT.png" group-title="✳️ Portugal",KOMBAT SPORT
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhcUHoDXJn6ba6zFqOQ0ofk/ts
@@ -1311,13 +1311,13 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvBV4iIsjKXEymLTlvxt1nA/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKut9y5IoFJME9WAfFzzUSCY/ts
 #EXTINF:-1 timeshift="3" xui-id="591638" tvg-id="axn.pt" AXN tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-HD.png" group-title="✳️ Portugal",AXN
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKozKZPUHs14AB4B0_U23s3g/ts
-#EXTINF:-1 xui-id="591639" tvg-id="axn.pt" AXN ᶠᴴᴰ tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-HD.png" group-title="✳️ Portugal",AXN ᶠᴴᴰ
+#EXTINF:-1 xui-id="591639" tvg-id="axn.pt" AXN  tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/AXN-HD.png" group-title="✳️ Portugal",AXN ᶠᴴᴰ
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuvCw4gIfcOvkLX4rAJ7uUE/ts
 #EXTINF:-1 xui-id="591642" tvg-id="fox.pt" FOX tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="✳️ Portugal",FOX
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsC5oGG_KtPejEwSKunn1zI/ts
 #EXTINF:-1 xui-id="591865" tvg-id="" FOX  HD tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="✳️ Portugal",Fox  HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhZBcKbGNUnTAIx2eX9Ggyg/ts
-#EXTINF:-1 xui-id="591643" tvg-id="fox.pt" FOX ᶠᴴᴰ tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="✳️ Portugal",FOX ᶠᴴᴰ
+#EXTINF:-1 xui-id="591643" tvg-id="fox.pt" FOX  tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="✳️ Portugal",FOX ᶠᴴᴰ
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkHFFpMzfITmz0mt0ML3D90/ts
 #EXTINF:-1 xui-id="591651" tvg-id="" ꧁ INFANTIL ꧂ tvg-logo="https://cdn.24hcaseiros.xyz/logosseparadores/infantil.png" group-title="✳️ Portugal",꧁ INFANTIL ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgytfQ7l8n1EVMO9hjsmHlQ/ts
