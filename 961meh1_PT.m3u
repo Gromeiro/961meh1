@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz" 
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL", *** 961meh1 ***
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 17:40:36" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 17:40:36*
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 17:48:54" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 17:48:54*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https:  cm-inter.xyz Logos Portugal_2 RTP1.png" group-title="PORTUGAL", RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -1305,9 +1305,9 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsV2FQkf-4_IMjhyF5G2GoY/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuGzKy8Rv99XQmnnYxp22d8/ts
 #EXTINF:-1 tvg-id="Dizi.nl" tvg-logo="" group-title="PORTUGAL", DIZI CHANNEL 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKqWsWWZwWKm9BEvXz5P-Gag/ts
-#EXTINF:-1 xui-id="591526" tvg-id="" ꧁ INFORMAÇÃO ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores ultimas-noticias-canoinhas-online.png" ✳️ PORTUGAL,꧁ INFORMAÇÃO ꧂
+#EXTINF:-1 xui-id="591526" 0 INFORMAÇÃO ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores ultimas-noticias-canoinhas-online.png" ✳️ PORTUGAL,꧁ INFORMAÇÃO ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKklAsK43OXWjmL6UNJq3GoY/ts
-#EXTINF:-1 xui-id="591555" tvg-id="" ꧁ DESPORTO ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores desporto.png" ✳️ PORTUGAL,꧁ DESPORTO ꧂
+#EXTINF:-1 xui-id="591555" 0 DESPORTO ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores desporto.png" ✳️ PORTUGAL,꧁ DESPORTO ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuJI3FlTTRfi67R7o32atOs/ts
 #EXTINF:-1 xui-id="593150" tvg-id="" MUNDO TOURO TV FHD tvg-logo="https:  24h.laraia.xyz Logos MUNDOTORO-TV-LOGO.png" ✳️ PORTUGAL,MUNDO TOURO TV FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvoaDq724eDhmwpu19kYmZg/ts
@@ -1315,29 +1315,29 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvoaDq724eDhmwpu19kYmZg/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs4eC9cOHsb_fpVBoqkvh1w/ts
 #EXTINF:-1 xui-id="591615" tvg-id="" KOMBAT SPORT tvg-logo="https:  24h.laraia.xyz Logos Portugal_2 KOMBAT-SPORT.png" ✳️ PORTUGAL,KOMBAT SPORT
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhcUHoDXJn6ba6zFqOQ0ofk/ts
-#EXTINF:-1 xui-id="591538" tvg-id="" ꧁ ENTRETENIMENTO ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores entretenimento.png" ✳️ PORTUGAL,꧁ ENTRETENIMENTO ꧂
+#EXTINF:-1 xui-id="591538" 0 ENTRETENIMENTO ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores entretenimento.png" ✳️ PORTUGAL,꧁ ENTRETENIMENTO ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnHoEVmWUkiKnq3o9-pxrqk/ts
 #EXTINF:-1 xui-id="591760" tvg-id="" OPTO tvg-logo="https:  cm-inter.xyz Logos Portugal_2 original.png" ✳️ PORTUGAL,OPTO
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKtu6qEjLRtMyPhhVWGbI-wE/ts
 #EXTINF:-1 xui-id="591539" tvg-id="" OPTO tvg-logo="https:  cm-inter.xyz Logos Portugal_2 original.png" ✳️ PORTUGAL,OPTO
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKvBV4iIsjKXEymLTlvxt1nA/ts
-#EXTINF:-1 xui-id="591619" tvg-id="" ꧁ TV FILMES ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores cinema.png" ✳️ PORTUGAL,꧁ TV FILMES ꧂
+#EXTINF:-1 xui-id="591619" 0 TV FILMES ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores cinema.png" ✳️ PORTUGAL,꧁ TV FILMES ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKut9y5IoFJME9WAfFzzUSCY/ts
 #EXTINF:-1 timeshift="3" xui-id="591638" tvg-id="axn.pt" AXN tvg-logo="https:  cm-inter.xyz Logos Portugal_2 AXN-HD.png" ✳️ PORTUGAL,AXN
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKozKZPUHs14AB4B0_U23s3g/ts
 #EXTINF:-1 xui-id="591865" tvg-id="" FOX  HD tvg-logo="https:  i.imgur.com AK0dBI3.png" ✳️ PORTUGAL,Fox  HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKhZBcKbGNUnTAIx2eX9Ggyg/ts
-#EXTINF:-1 xui-id="591651" tvg-id="" ꧁ INFANTIL ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores infantil.png" ✳️ PORTUGAL,꧁ INFANTIL ꧂
+#EXTINF:-1 xui-id="591651" 0 INFANTIL ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores infantil.png" ✳️ PORTUGAL,꧁ INFANTIL ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgytfQ7l8n1EVMO9hjsmHlQ/ts
-#EXTINF:-1 xui-id="591662" tvg-id="" ꧁ MUSICA ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores musica.png" ✳️ PORTUGAL,꧁ MUSICA ꧂
+#EXTINF:-1 xui-id="591662" 0 MUSICA ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores musica.png" ✳️ PORTUGAL,꧁ MUSICA ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKl8pZdtv0jYmIN6Wb5Mhsoo/ts
-#EXTINF:-1 xui-id="591670" tvg-id="" ꧁ DOCUMENTARIOS ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores documentarios.png" ✳️ PORTUGAL,꧁ Documentarios ꧂
+#EXTINF:-1 xui-id="591670" 0 DOCUMENTARIOS ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores documentarios.png" ✳️ PORTUGAL,꧁ Documentarios ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmc1sjxwONq2kI2GtpkrPcM/ts
 #EXTINF:-1 xui-id="591682" tvg-id="" ID INVESTIGATION tvg-logo="https:  i.postimg.cc 3R4SJ7fn id-discovery.jpg" ✳️ PORTUGAL,ID INVESTIGATION
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKphnd5bKJDNVseA3qDt8n1Q/ts
 #EXTINF:-1 xui-id="591679" tvg-id="blaze.pt" BREAK tvg-logo="https:  24h.laraia.xyz Logos amcbreak.png" ✳️ PORTUGAL,BREAK
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKi4dReJks9zzKvDb50Spp5g/ts
-#EXTINF:-1 xui-id="591684" tvg-id="" ꧁ INTERNACIONAIS ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores internacionais.png" ✳️ PORTUGAL,꧁ INTERNACIONAIS ꧂
+#EXTINF:-1 xui-id="591684" 0 INTERNACIONAIS ꧂ tvg-logo="https:  cdn.24hcaseiros.xyz logosseparadores internacionais.png" ✳️ PORTUGAL,꧁ INTERNACIONAIS ꧂
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKj3Ur8EcXhtGJKxb0c2O6rE/ts
 #EXTINF:-1 xui-id="591691" tvg-id="tv5monde.pt" TV5 MONDE tvg-logo="https:  cm-inter.xyz Logos Portugal_2 TV5-MONDE.png" ✳️ PORTUGAL,TV5 MONDE
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKuvEi6NcrZ1EKcpWIMmoT6k/ts
