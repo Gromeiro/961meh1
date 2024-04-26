@@ -1,23 +1,23 @@
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz" 
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL", *** 961meh1 ***
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 16:34:36" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 16:34:36*
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 16:49:07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 16:49:07*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL", RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkBwMzua2nE3L4B135NOgEY/ts
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL", RTP 1 
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrlbyYOj-EfX9jdDOc9bQyM/ts
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-2-HD.png" group-title="PORTUGAL",RTP 2 HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmVlNX3DQs8pm-_BAIJ9eYM/ts
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-2-HD.png" group-title="PORTUGAL",RTP 2 HD 
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-2-HD.png" group-title="PORTUGAL",RTP 2 FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKjiPRzHikTNIigRxL8ed3y8/ts
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="PORTUGAL",SIC HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKghUBkHr9vcS6ukWVy5wpF8/ts
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="PORTUGAL",SIC HD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKrH__TjG2RxB7HRAXaF_el8/ts
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="PORTUGAL",SIC HD 
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="PORTUGAL",SIC FHD 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKg5MTiG5bRU55ZUDXMQewIs/ts
 #EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="PORTUGAL", TVI 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKsP5W45fSM7wohYvZhbY7sU/ts
