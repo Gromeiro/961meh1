@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz" 
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL", *** 961meh1 ***
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 17:16:28" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 17:16:28*
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-04-26 17:20:13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-04-26 17:20:13*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL", RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
@@ -1271,7 +1271,7 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiubxrEdOEre-RtNfv1orKs/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKiKjd0j0dMzQKIkinGZ0h54/ts
 #EXTINF:-1 xui-id="591565" tvg-id="sporttv2.pt" SPORT TV 2 FHD tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="✳️ Portugal",SPORT TV 2 FHD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKufkl94t-pglXN1P97AceyQ/ts
-#EXTINF:-1 timeshift="2" xui-id="591784" tvg-id="sporttv2.pt" SPORT TV 2 FHD2⁶⁴ tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="✳️ Portugal",Sport TV 2 FHD2⁶⁴
+#EXTINF:-1 timeshift="2" xui-id="591784" tvg-id="sporttv2.pt" SPORT TV 2 FHD264 tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="✳️ Portugal",Sport TV 2 FHD264
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKq4ZeOfRWUdg4E9zgX5TTpI/ts
 #EXTINF:-1 xui-id="591566" tvg-id="sporttv2.pt" SPORT TV 2  4K tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="✳️ Portugal",SPORT TV 2  4K
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKnyN1spTj4etZS5leAC5swo/ts
@@ -1327,7 +1327,7 @@ http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKgau0OtAZRh4nTc5jZTNreM/ts
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKs-nU4kXYcyFC66xmB2BNnM/ts
 #EXTINF:-1 xui-id="591783" tvg-id="sporttv2.pt" PT | SPORT TV 2 HD tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="✳️ Portugal Extra",PT | Sport TV 2 HD
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKviWUp7vuUktos-zL_bMm30/ts
-#EXTINF:-1 xui-id="591785" tvg-id="" PT | SPORT TV 2 FHD2⁶⁵ tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="✳️ Portugal Extra",PT | Sport TV 2 FHD2⁶⁵
+#EXTINF:-1 xui-id="591785" tvg-id="" PT | SPORT TV 2 FHD26⁵ tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="✳️ Portugal Extra",PT | Sport TV 2 FHD26⁵
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKkQqLNY6242_CR1MvkDFkcE/ts
 #EXTINF:-1 xui-id="591831" tvg-id="" PT | KOMBAT SPORT tvg-logo="https://i.imgur.com/1kpnKQ7.png" group-title="✳️ Portugal Extra",PT | KOMBAT SPORT
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKh3iSu1FA1-TaGLgSgqAg-o/ts
