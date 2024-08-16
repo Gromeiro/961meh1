@@ -1,5 +1,1327 @@
 #EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz,https://www.bevy.be/bevyfiles/portugal.xml.gz,https://www.bevy.be/bevyfiles/portugalpremium.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL", *** 961meh1 ***
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-08-16 20:25:59" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-08-16 20:25:59*
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-08-16 20:27:00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-08-16 20:27:00*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1 LOW" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 LOW 
+http://chiclets.pm:8080/961meh/205519167/128109
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-1-HD.png" group-title="PORTUGAL",RTP 1 HD 
+http://chiclets.pm:8080/961meh/205519167/127647
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-1-HD.png" group-title="PORTUGAL",RTP 1 FHD 
+http://chiclets.pm:8080/961meh/205519167/127646
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-1-HD.png" group-title="PORTUGAL",RTP 1 FHD 
+http://chiclets.pm:8080/961meh/205519167/127645
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/ftcesb/rtp1-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", RTP 1 
+http://chiclets.pm:8080/961meh/205519167/7254
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1 HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/ftcesb/rtp1-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",RTP 1 HD 
+http://chiclets.pm:8080/961meh/205519167/7255
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1 FHD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/ftcesb/rtp1-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",RTP 1 FHD 
+http://chiclets.pm:8080/961meh/205519167/119343
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-2-HD.png" group-title="PORTUGAL",RTP 2 HD 
+http://chiclets.pm:8080/961meh/205519167/128108
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-2-HD.png" group-title="PORTUGAL",RTP 2 HD 
+http://chiclets.pm:8080/961meh/205519167/127644
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-2-HD.png" group-title="PORTUGAL",RTP 2 FHD 
+http://chiclets.pm:8080/961meh/205519167/127643
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/szu86w/rtp2-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", RTP 2 
+http://chiclets.pm:8080/961meh/205519167/7257
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC-HD.png" group-title="PORTUGAL",SIC HD 
+http://chiclets.pm:8080/961meh/205519167/128106
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC LOW" tvg-logo="https://i.postimg.cc/J7ZKbV4R/SIC-NOTICIAS.png" group-title="PORTUGAL",SIC LOW 
+http://chiclets.pm:8080/961meh/205519167/128104
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="PORTUGAL",SIC HD 
+http://chiclets.pm:8080/961meh/205519167/128050
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/RhYMS66z/SIC-MULHER-HD.png" group-title="PORTUGAL",SIC HD 
+http://chiclets.pm:8080/961meh/205519167/128049
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/musicas2.png" group-title="PORTUGAL",SIC LOW 
+http://chiclets.pm:8080/961meh/205519167/128044
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/9QdjSNp2/SIC-K-HD.png" group-title="PORTUGAL",SIC HD 
+http://chiclets.pm:8080/961meh/205519167/128017
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC LOW" tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="PORTUGAL",SIC LOW 
+http://chiclets.pm:8080/961meh/205519167/128016
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC.png" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/127642
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SIC.png" group-title="PORTUGAL",SIC FHD 
+http://chiclets.pm:8080/961meh/205519167/127641
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SIC.png" group-title="PORTUGAL",SIC FHD 
+http://chiclets.pm:8080/961meh/205519167/127640
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://i.imgur.com/cWnPLvI.png" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/127629
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/127626
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="PORTUGAL",SIC FHD 
+http://chiclets.pm:8080/961meh/205519167/127625
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/RhYMS66z/SIC-MULHER-HD.png" group-title="PORTUGAL",SIC HD 
+http://chiclets.pm:8080/961meh/205519167/127619
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://i.postimg.cc/3RJ72C2T/SIC-CARAS.png" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/127618
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://i.postimg.cc/xCrMC8mM/SIC-RADICAL-HD.png" group-title="PORTUGAL",SIC HD 
+http://chiclets.pm:8080/961meh/205519167/127617
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/127492
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="PORTUGAL",SIC FHD 
+http://chiclets.pm:8080/961meh/205519167/127491
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/127431
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/yzexmp/sic-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/7261
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/yzexmp/sic-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",SIC HD 
+http://chiclets.pm:8080/961meh/205519167/7262
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/yzexmp/sic-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",SIC FHD 
+http://chiclets.pm:8080/961meh/205519167/119332
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/SICNovelas.png" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/59935
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/8gw6z3/sic-caras.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/7281
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/8gw6z3/sic-caras.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",SIC HD 
+http://chiclets.pm:8080/961meh/205519167/7282
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/ha1cgv/sic-mulher-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/7283
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/rhuhcf/sic-radical.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/7284
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/rhuhcf/sic-radical.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",SIC HD 
+http://chiclets.pm:8080/961meh/205519167/7285
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/lgibde/sic-noticias-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", SIC 
+http://chiclets.pm:8080/961meh/205519167/7267
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/lgibde/sic-noticias-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",SIC HD 
+http://chiclets.pm:8080/961meh/205519167/7268
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI LOW" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI%20(1).png" group-title="PORTUGAL",TVI LOW 
+http://chiclets.pm:8080/961meh/205519167/128107
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI LOW" tvg-logo="https://i.postimg.cc/3rqNrLj4/TVI-REALITY-MOSAICO.png" group-title="PORTUGAL",TVI LOW 
+http://chiclets.pm:8080/961meh/205519167/128018
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/127639
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI FHD 
+http://chiclets.pm:8080/961meh/205519167/127638
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI FHD 
+http://chiclets.pm:8080/961meh/205519167/127637
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/127630
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/127615
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/TVI%20REALITY.png" group-title="PORTUGAL",TVI FHD 
+http://chiclets.pm:8080/961meh/205519167/127614
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/127613
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/127612
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/127611
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/127610
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/127609
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/bk8gat/tvi-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/7264
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/bk8gat/tvi-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",TVI HD 
+http://chiclets.pm:8080/961meh/205519167/7265
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/bk8gat/tvi-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",TVI FHD 
+http://chiclets.pm:8080/961meh/205519167/119337
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://4.bp.blogspot.com/-BZoXUGoNRWM/WB3MMLtAGVI/AAAAAAAAFSk/eaubY96K3fshT0MvMXeXmCT6XyStshRigCLcB/s1600/TVI%2BReality%2Blogo.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/7287
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/59965
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-CAMARA-2.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/59966
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-CAMARA-3.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/59967
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO.png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/59968
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TVI-REALITY-MOSAICO%20(1).png" group-title="PORTUGAL", TVI 
+http://chiclets.pm:8080/961meh/205519167/59964
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3 LOW" tvg-logo="https://i.postimg.cc/Hss1Ky0M/RTP-3.png" group-title="PORTUGAL",RTP 3 LOW 
+http://chiclets.pm:8080/961meh/205519167/128105
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="PORTUGAL", RTP 3 
+http://chiclets.pm:8080/961meh/205519167/127636
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/9szm96/rtp3-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", RTP 3 
+http://chiclets.pm:8080/961meh/205519167/42780
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="CNN PORTUGAL LOW" tvg-logo="https://i.postimg.cc/XYR9Zjw5/CNN.png" group-title="PORTUGAL",CNN PORTUGAL LOW 
+http://chiclets.pm:8080/961meh/205519167/128103
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-logo="https://i.postimg.cc/XYR9Zjw5/CNN.png" group-title="PORTUGAL", CNN PORTUGAL 
+http://chiclets.pm:8080/961meh/205519167/127624
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-logo="https://i.imgur.com/4ALxk31.png" group-title="PORTUGAL", CNN PORTUGAL 
+http://chiclets.pm:8080/961meh/205519167/127440
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/7vhag3/cnnportugal-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", CNN PORTUGAL 
+http://chiclets.pm:8080/961meh/205519167/7269
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="CNN PORTUGAL HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/7vhag3/cnnportugal-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",CNN PORTUGAL HD 
+http://chiclets.pm:8080/961meh/205519167/7270
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV LOW" tvg-logo="https://i.postimg.cc/Lsy4Cb9X/CMTV.png" group-title="PORTUGAL",CMTV LOW 
+http://chiclets.pm:8080/961meh/205519167/128102
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV LOW" tvg-logo="https://i.postimg.cc/Lsy4Cb9X/CMTV.png" group-title="PORTUGAL",CMTV LOW 
+http://chiclets.pm:8080/961meh/205519167/128101
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV HD" tvg-logo="https://i.imgur.com/WThIHDQ.png" group-title="PORTUGAL",CMTV HD 
+http://chiclets.pm:8080/961meh/205519167/127623
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV FHD" tvg-logo="https://i.imgur.com/WThIHDQ.png" group-title="PORTUGAL",CMTV FHD 
+http://chiclets.pm:8080/961meh/205519167/127622
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/onr7lt/cmtv-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", CMTV 
+http://chiclets.pm:8080/961meh/205519167/7272
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/onr7lt/cmtv-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",CMTV HD 
+http://chiclets.pm:8080/961meh/205519167/7273
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV HD" tvg-logo="https://bordalo.observador.pt/v2/rs:fill:900/c:1500:375:nowe:0:255/q:86/plain/https://s3.observador.pt/wp-content/uploads/2024/05/03190903/logo-newsnow-fundobranco-copia-2.jpg" group-title="PORTUGAL",CMTV HD 
+http://chiclets.pm:8080/961meh/205519167/118424
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="TV GLOBO LOW" tvg-logo="https://i.imgur.com/aZP2nIU.png" group-title="PORTUGAL",TV GLOBO LOW 
+http://chiclets.pm:8080/961meh/205519167/128032
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="TV GLOBO LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/globo_now.png" group-title="PORTUGAL",TV GLOBO LOW 
+http://chiclets.pm:8080/961meh/205519167/128031
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/GLOBO.png" group-title="PORTUGAL", TV GLOBO 
+http://chiclets.pm:8080/961meh/205519167/127452
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="TV GLOBO FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/GLOBO.png" group-title="PORTUGAL",TV GLOBO FHD 
+http://chiclets.pm:8080/961meh/205519167/127451
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-logo="https://i.postimg.cc/X48CQHfM/globonow.png" group-title="PORTUGAL", TV GLOBO 
+http://chiclets.pm:8080/961meh/205519167/127450
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-logo="" group-title="PORTUGAL", TV GLOBO 
+http://chiclets.pm:8080/961meh/205519167/124017
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-logo="https://www.guiaprogramacao.com/img/glob.png" group-title="PORTUGAL", TV GLOBO 
+http://chiclets.pm:8080/961meh/205519167/7379
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="TV GLOBO HD" tvg-logo="https://www.guiaprogramacao.com/img/glob.png" group-title="PORTUGAL",TV GLOBO HD 
+http://chiclets.pm:8080/961meh/205519167/7378
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jDzbTId0CFHoa_CFzy-BBxF.png" group-title="PORTUGAL", TV GLOBO 
+http://chiclets.pm:8080/961meh/205519167/119344
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="CANAL 11 LOW" tvg-logo="https://i.postimg.cc/fRznG0xX/1-0-1-83-B-47-36-FFFF0000-0-0-0.png" group-title="PORTUGAL",CANAL 11 LOW 
+http://chiclets.pm:8080/961meh/205519167/128079
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://i.postimg.cc/fRznG0xX/1-0-1-83-B-47-36-FFFF0000-0-0-0.png" group-title="PORTUGAL", CANAL 11 
+http://chiclets.pm:8080/961meh/205519167/127593
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="CANAL 11 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/11(1).png" group-title="PORTUGAL",CANAL 11 HD 
+http://chiclets.pm:8080/961meh/205519167/127592
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="CANAL 11 FHD" tvg-logo="https://i.postimg.cc/fRznG0xX/1-0-1-83-B-47-36-FFFF0000-0-0-0.png" group-title="PORTUGAL",CANAL 11 FHD 
+http://chiclets.pm:8080/961meh/205519167/127591
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="http://live21.site/picons/PTs/CANAL_11_nos.png" group-title="PORTUGAL", CANAL 11 
+http://chiclets.pm:8080/961meh/205519167/119510
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="CANAL 11 HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/80ei1l/c11-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",CANAL 11 HD 
+http://chiclets.pm:8080/961meh/205519167/7317
+#EXTINF:-1 tvg-id="ABOLATV.PT" tvg-name="A BOLA TV LOW" tvg-logo="https://i.postimg.cc/Cx1rCCGv/A-BOLA-TV.png" group-title="PORTUGAL",A BOLA TV LOW 
+http://chiclets.pm:8080/961meh/205519167/128078
+#EXTINF:-1 tvg-id="ABOLATV.PT" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="PORTUGAL", A BOLA TV 
+http://chiclets.pm:8080/961meh/205519167/127596
+#EXTINF:-1 tvg-id="ABOLATV.PT" tvg-name="A BOLA TV HD" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="PORTUGAL",A BOLA TV HD 
+http://chiclets.pm:8080/961meh/205519167/127595
+#EXTINF:-1 tvg-id="ABOLATV.PT" tvg-name="A BOLA TV FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/ABOLATV.png" group-title="PORTUGAL",A BOLA TV FHD 
+http://chiclets.pm:8080/961meh/205519167/127594
+#EXTINF:-1 tvg-id="ABOLATV.PT" tvg-logo="https://www.guiaprogramacao.com/img/abola.png" group-title="PORTUGAL", A BOLA TV 
+http://chiclets.pm:8080/961meh/205519167/7325
+#EXTINF:-1 tvg-id="ABOLATV.PT" tvg-name="A BOLA TV HD" tvg-logo="https://i.postimg.cc/ZRxDHWDW/A-Bola-TV.png" group-title="PORTUGAL",A BOLA TV HD 
+http://chiclets.pm:8080/961meh/205519167/42779
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/sport_tv_mais.png" group-title="PORTUGAL",SPORT TV + LOW 
+http://chiclets.pm:8080/961meh/205519167/128100
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + LOW" tvg-logo="https://i.postimg.cc/632KH6bj/SPORT-TV.png" group-title="PORTUGAL",SPORT TV + LOW 
+http://chiclets.pm:8080/961meh/205519167/128099
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV.png" group-title="PORTUGAL", SPORT TV + 
+http://chiclets.pm:8080/961meh/205519167/127590
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV.png" group-title="PORTUGAL",SPORT TV + HD 
+http://chiclets.pm:8080/961meh/205519167/127589
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV.png" group-title="PORTUGAL",SPORT TV + FHD 
+http://chiclets.pm:8080/961meh/205519167/127588
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PORTO CANAL LOW" tvg-logo="https://i.postimg.cc/7h2MxRmP/PORTO-CANAL.png" group-title="PORTUGAL",PORTO CANAL LOW 
+http://chiclets.pm:8080/961meh/205519167/128052
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://i.postimg.cc/7h2MxRmP/PORTO-CANAL.png" group-title="PORTUGAL", PORTO CANAL 
+http://chiclets.pm:8080/961meh/205519167/127549
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PORTO CANAL FHD" tvg-logo="https://i.postimg.cc/7h2MxRmP/PORTO-CANAL.png" group-title="PORTUGAL",PORTO CANAL FHD 
+http://chiclets.pm:8080/961meh/205519167/127548
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/htrp1i/porto-canal-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", PORTO CANAL 
+http://chiclets.pm:8080/961meh/205519167/7321
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PORTO CANAL HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/htrp1i/porto-canal-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",PORTO CANAL HD 
+http://chiclets.pm:8080/961meh/205519167/7322
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="SPORTING TV LOW" tvg-logo="https://i.imgur.com/5YdkMBB.png" group-title="PORTUGAL",SPORTING TV LOW 
+http://chiclets.pm:8080/961meh/205519167/128077
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-logo="https://i.imgur.com/5YdkMBB.png" group-title="PORTUGAL", SPORTING TV 
+http://chiclets.pm:8080/961meh/205519167/127551
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="SPORTING TV FHD" tvg-logo="https://i.imgur.com/5YdkMBB.png" group-title="PORTUGAL",SPORTING TV FHD 
+http://chiclets.pm:8080/961meh/205519167/127550
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="SPORTING TV HD" tvg-logo="https://www.guiaprogramacao.com/img/scp.png" group-title="PORTUGAL",SPORTING TV HD 
+http://chiclets.pm:8080/961meh/205519167/7323
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="SPORTING TV HD" tvg-logo="https://www.guiaprogramacao.com/img/scp.png" group-title="PORTUGAL",SPORTING TV HD 
+http://chiclets.pm:8080/961meh/205519167/7324
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT.TV1 LOW" tvg-logo="https://i.postimg.cc/cJvPW976/SPORT-TV-1.png" group-title="PORTUGAL",SPORT.TV1 LOW 
+http://chiclets.pm:8080/961meh/205519167/128098
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT.TV1 LOW" tvg-logo="" group-title="PORTUGAL",SPORT.TV1 LOW 
+http://chiclets.pm:8080/961meh/205519167/128097
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-1%20(1).png" group-title="PORTUGAL", SPORT.TV1 
+http://chiclets.pm:8080/961meh/205519167/127587
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT.TV1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",SPORT.TV1 HD 
+http://chiclets.pm:8080/961meh/205519167/127586
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT.TV1 FHD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",SPORT.TV1 FHD 
+http://chiclets.pm:8080/961meh/205519167/127585
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT.TV1 UHD HEVC" tvg-logo="http://live21.site/LOGOS/PiconsPT/SPORT_TV_1_HD.png" group-title="PORTUGAL",SPORT.TV1 4K 
+http://chiclets.pm:8080/961meh/205519167/127584
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/co5cb0/sporttv-1-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", SPORT.TV1 
+http://chiclets.pm:8080/961meh/205519167/63896
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT.TV1 HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/co5cb0/sporttv-1-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",SPORT.TV1 HD 
+http://chiclets.pm:8080/961meh/205519167/63897
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT.TV1 FHD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/co5cb0/sporttv-1-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",SPORT.TV1 FHD 
+http://chiclets.pm:8080/961meh/205519167/63898
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT.TV1 FHD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/co5cb0/sporttv-1-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",SPORT.TV1 FHD 
+http://chiclets.pm:8080/961meh/205519167/74825
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 LOW" tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="PORTUGAL",SPORT.TV2 LOW 
+http://chiclets.pm:8080/961meh/205519167/128096
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 LOW" tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="PORTUGAL",SPORT.TV2 LOW 
+http://chiclets.pm:8080/961meh/205519167/128095
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2.png" group-title="PORTUGAL", SPORT.TV2 
+http://chiclets.pm:8080/961meh/205519167/127583
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="PORTUGAL",SPORT.TV2 HD 
+http://chiclets.pm:8080/961meh/205519167/127582
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT.TV2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-2-HD%20(1).png" group-title="PORTUGAL",SPORT.TV2 FHD 
+http://chiclets.pm:8080/961meh/205519167/127581
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT.TV3 LOW" tvg-logo="https://i.postimg.cc/Kjgxqcjc/SPORT-TV-3.png" group-title="PORTUGAL",SPORT.TV3 LOW 
+http://chiclets.pm:8080/961meh/205519167/128094
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT.TV3 LOW" tvg-logo="https://i.postimg.cc/Kjgxqcjc/SPORT-TV-3.png" group-title="PORTUGAL",SPORT.TV3 LOW 
+http://chiclets.pm:8080/961meh/205519167/128093
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-3.png" group-title="PORTUGAL", SPORT.TV3 
+http://chiclets.pm:8080/961meh/205519167/127580
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT.TV3 HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SPORTV%203.png" group-title="PORTUGAL",SPORT.TV3 HD 
+http://chiclets.pm:8080/961meh/205519167/127579
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT.TV3 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-3-HD.png" group-title="PORTUGAL",SPORT.TV3 FHD 
+http://chiclets.pm:8080/961meh/205519167/127578
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/yxr26h/sporttv-3-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", SPORT.TV3 
+http://chiclets.pm:8080/961meh/205519167/7307
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT.TV4 LOW" tvg-logo="https://i.postimg.cc/DyPytZ5m/SPORT-TV-4.png" group-title="PORTUGAL",SPORT.TV4 LOW 
+http://chiclets.pm:8080/961meh/205519167/128092
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-4.png" group-title="PORTUGAL", SPORT.TV4 
+http://chiclets.pm:8080/961meh/205519167/127577
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT.TV4 HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SPORTV%204.png" group-title="PORTUGAL",SPORT.TV4 HD 
+http://chiclets.pm:8080/961meh/205519167/127576
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT.TV4 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-4-HD.png" group-title="PORTUGAL",SPORT.TV4 FHD 
+http://chiclets.pm:8080/961meh/205519167/127575
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT.TV5 LOW" tvg-logo="https://i.postimg.cc/ZqCbBLmy/SPORT-TV-5.png" group-title="PORTUGAL",SPORT.TV5 LOW 
+http://chiclets.pm:8080/961meh/205519167/128091
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-5.png" group-title="PORTUGAL", SPORT.TV5 
+http://chiclets.pm:8080/961meh/205519167/127574
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT.TV5 HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/SPORTV5HD(NETFRACA).png" group-title="PORTUGAL",SPORT.TV5 HD 
+http://chiclets.pm:8080/961meh/205519167/127573
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT.TV5 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORT-TV-5-HD%20(1).png" group-title="PORTUGAL",SPORT.TV5 FHD 
+http://chiclets.pm:8080/961meh/205519167/127572
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT.TV5 FHD" tvg-logo="http://live21.site/picons/PTs/SPORT_TV5_HD.png" group-title="PORTUGAL",SPORT.TV5 FHD 
+http://chiclets.pm:8080/961meh/205519167/121237
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT.TV6 LOW" tvg-logo="" group-title="PORTUGAL",SPORT.TV6 LOW 
+http://chiclets.pm:8080/961meh/205519167/128090
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT.TV6 HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORTTV6.png" group-title="PORTUGAL",SPORT.TV6 HD 
+http://chiclets.pm:8080/961meh/205519167/127571
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT.TV6 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORTTV6.png" group-title="PORTUGAL",SPORT.TV6 FHD 
+http://chiclets.pm:8080/961meh/205519167/127570
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT.TV6 FHD" tvg-logo="http://live21.site/picons/PTs/sporttv6fhd.png" group-title="PORTUGAL",SPORT.TV6 FHD 
+http://chiclets.pm:8080/961meh/205519167/121235
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-name="SPORT.TV NBA LOW" tvg-logo="https://i.postimg.cc/jjVgPx0Q/SPORT-TV-NBA.png" group-title="PORTUGAL",SPORT.TV NBA LOW 
+http://chiclets.pm:8080/961meh/205519167/128089
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-name="SPORT.TV NBA HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/NBA.png" group-title="PORTUGAL",SPORT.TV NBA HD 
+http://chiclets.pm:8080/961meh/205519167/127569
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-name="SPORT.TV NBA FHD" tvg-logo="https://i.imgur.com/fcE0eth.png" group-title="PORTUGAL",SPORT.TV NBA FHD 
+http://chiclets.pm:8080/961meh/205519167/127568
+#EXTINF:-1 tvg-id="Sport TV NBA.pt" tvg-name="SPORT.TV NBA HD" tvg-logo="http://live21.site/picons/PTs/SPORT_TV_NBA_nos.png" group-title="PORTUGAL",SPORT.TV NBA HD 
+http://chiclets.pm:8080/961meh/205519167/96482
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/benfica_tv.png" group-title="PORTUGAL",BENFICA TV LOW 
+http://chiclets.pm:8080/961meh/205519167/128088
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/benfica_tv.png" group-title="PORTUGAL",BENFICA TV LOW 
+http://chiclets.pm:8080/961meh/205519167/128087
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BTV.png" group-title="PORTUGAL", BENFICA TV 
+http://chiclets.pm:8080/961meh/205519167/127553
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/BTV1HD.png" group-title="PORTUGAL",BENFICA TV HD 
+http://chiclets.pm:8080/961meh/205519167/127552
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-logo="https://i.postimg.cc/g2y2CVqP/Screenshot-20240121-020847-Firefox.jpg" group-title="PORTUGAL", BENFICA TV 
+http://chiclets.pm:8080/961meh/205519167/126383
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/h8pd77/benfica-tv1-3.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", BENFICA TV 
+http://chiclets.pm:8080/961meh/205519167/7318
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/h8pd77/benfica-tv1-3.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", BENFICA TV 
+http://chiclets.pm:8080/961meh/205519167/96484
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/h8pd77/benfica-tv1-3.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",BENFICA TV HD 
+http://chiclets.pm:8080/961meh/205519167/7319
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV FHD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/h8pd77/benfica-tv1-3.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",BENFICA TV FHD 
+http://chiclets.pm:8080/961meh/205519167/7320
+#EXTINF:-1 tvg-id="BTV1 HD.pt" tvg-name="BENFICA TV HD" tvg-logo="https://1.bp.blogspot.com/-Wxpg5WnltUQ/WDrqD0r0XOI/AAAAAAAAFcg/_2sCHgRfGakT_gH6CkngiakkMi4YompIwCLcB/s1600/Fuel%2BTV%2Blogo.png" group-title="PORTUGAL",BENFICA TV HD 
+http://chiclets.pm:8080/961meh/205519167/7330
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 LOW" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 LOW 
+http://chiclets.pm:8080/961meh/205519167/128086
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 LOW" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 LOW 
+http://chiclets.pm:8080/961meh/205519167/128085
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL", ELEVEN 1 
+http://chiclets.pm:8080/961meh/205519167/127567
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/elevensport1.png" group-title="PORTUGAL",ELEVEN 1 HD 
+http://chiclets.pm:8080/961meh/205519167/127566
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 FHD" tvg-logo="https://i.postimg.cc/6qDRgQhM/ELEVEN-SPORTS-1.png" group-title="PORTUGAL",ELEVEN 1 FHD 
+http://chiclets.pm:8080/961meh/205519167/127565
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://www.guiaprogramacao.com/img/eleven1.png" group-title="PORTUGAL", ELEVEN 1 
+http://chiclets.pm:8080/961meh/205519167/7289
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 HD" tvg-logo="https://www.guiaprogramacao.com/img/eleven1.png" group-title="PORTUGAL",ELEVEN 1 HD 
+http://chiclets.pm:8080/961meh/205519167/7290
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 FHD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/qmm1xj/eleven1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",ELEVEN 1 FHD 
+http://chiclets.pm:8080/961meh/205519167/29266
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="ELEVEN 1 FHD" tvg-logo="https://www.guiaprogramacao.com/img/eleven1.png" group-title="PORTUGAL",ELEVEN 1 FHD 
+http://chiclets.pm:8080/961meh/205519167/96325
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 LOW" tvg-logo="https://i.postimg.cc/RZxKTNhF/ELEVEN-SPORTS-2.png" group-title="PORTUGAL",ELEVEN 2 LOW 
+http://chiclets.pm:8080/961meh/205519167/128084
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://i.imgur.com/49ZWPbm.png" group-title="PORTUGAL", ELEVEN 2 
+http://chiclets.pm:8080/961meh/205519167/127564
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/elevensport2.png" group-title="PORTUGAL",ELEVEN 2 HD 
+http://chiclets.pm:8080/961meh/205519167/127563
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/ELEVEN-SPORTS-2(2).png" group-title="PORTUGAL",ELEVEN 2 FHD 
+http://chiclets.pm:8080/961meh/205519167/127562
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://www.guiaprogramacao.com/img/eleven2.png" group-title="PORTUGAL", ELEVEN 2 
+http://chiclets.pm:8080/961meh/205519167/7293
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="ELEVEN 2 HD" tvg-logo="https://www.guiaprogramacao.com/img/eleven2.png" group-title="PORTUGAL",ELEVEN 2 HD 
+http://chiclets.pm:8080/961meh/205519167/7292
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN 3 LOW" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN 3 LOW 
+http://chiclets.pm:8080/961meh/205519167/128083
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL", ELEVEN 3 
+http://chiclets.pm:8080/961meh/205519167/127561
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN 3 FHD" tvg-logo="https://i.postimg.cc/Z56gfBLD/ELEVEN-SPORTS-3.png" group-title="PORTUGAL",ELEVEN 3 FHD 
+http://chiclets.pm:8080/961meh/205519167/127560
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://www.guiaprogramacao.com/img/eleven3.png" group-title="PORTUGAL", ELEVEN 3 
+http://chiclets.pm:8080/961meh/205519167/7295
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="ELEVEN 3 HD" tvg-logo="https://www.guiaprogramacao.com/img/eleven3.png" group-title="PORTUGAL",ELEVEN 3 HD 
+http://chiclets.pm:8080/961meh/205519167/7294
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN 4 LOW" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN 4 LOW 
+http://chiclets.pm:8080/961meh/205519167/128082
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL", ELEVEN 4 
+http://chiclets.pm:8080/961meh/205519167/127559
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN 4 FHD" tvg-logo="https://i.postimg.cc/X7jm27PV/ELEVEN-SPORTS-4.png" group-title="PORTUGAL",ELEVEN 4 FHD 
+http://chiclets.pm:8080/961meh/205519167/127558
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="ELEVEN 4 HD" tvg-logo="https://www.guiaprogramacao.com/img/eleven4.png" group-title="PORTUGAL",ELEVEN 4 HD 
+http://chiclets.pm:8080/961meh/205519167/7296
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN 5 LOW" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN 5 LOW 
+http://chiclets.pm:8080/961meh/205519167/128081
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL", ELEVEN 5 
+http://chiclets.pm:8080/961meh/205519167/127557
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN 5 FHD" tvg-logo="https://i.postimg.cc/qqSKC7h8/ELEVEN-SPORTS-5.png" group-title="PORTUGAL",ELEVEN 5 FHD 
+http://chiclets.pm:8080/961meh/205519167/127556
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN 5 HD" tvg-logo="https://www.guiaprogramacao.com/img/eleven5.png" group-title="PORTUGAL",ELEVEN 5 HD 
+http://chiclets.pm:8080/961meh/205519167/7297
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="ELEVEN 5 FHD" tvg-logo="http://iptv-tn.com:8080/images/5b4c9565734836dff2ff9b813bfd1f70.png" group-title="PORTUGAL",ELEVEN 5 FHD 
+http://chiclets.pm:8080/961meh/205519167/119512
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN 6 LOW" tvg-logo="http://logos.fc-service.xyz/logos_paises/PORTUGAL/elevensport6.png" group-title="PORTUGAL",ELEVEN 6 LOW 
+http://chiclets.pm:8080/961meh/205519167/128080
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-logo="https://i.postimg.cc/C16BWK4W/ELEVEN-SPORTS-6.png" group-title="PORTUGAL", ELEVEN 6 
+http://chiclets.pm:8080/961meh/205519167/127555
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN 6 FHD" tvg-logo="https://i.postimg.cc/C16BWK4W/ELEVEN-SPORTS-6.png" group-title="PORTUGAL",ELEVEN 6 FHD 
+http://chiclets.pm:8080/961meh/205519167/127554
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN 6 HD" tvg-logo="" group-title="PORTUGAL",ELEVEN 6 HD 
+http://chiclets.pm:8080/961meh/205519167/127427
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN 6 HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/80j2q9/eleven-sports-6-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",ELEVEN 6 HD 
+http://chiclets.pm:8080/961meh/205519167/7298
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="ELEVEN 6 FHD" tvg-logo="http://iptv-tn.com:8080/images/5b4c9565734836dff2ff9b813bfd1f70.png" group-title="PORTUGAL",ELEVEN 6 FHD 
+http://chiclets.pm:8080/961meh/205519167/119513
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/eurosport_1.png" group-title="PORTUGAL",EUROSPORT 1 LOW 
+http://chiclets.pm:8080/961meh/205519167/128074
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/eurosport_2.png" group-title="PORTUGAL",EUROSPORT 1 LOW 
+http://chiclets.pm:8080/961meh/205519167/128073
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://i.postimg.cc/htW5nBfC/EUROSPORT-1.png" group-title="PORTUGAL", EUROSPORT 1 
+http://chiclets.pm:8080/961meh/205519167/127546
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://i.postimg.cc/htW5nBfC/EUROSPORT-1.png" group-title="PORTUGAL",EUROSPORT 1 FHD 
+http://chiclets.pm:8080/961meh/205519167/127545
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://i.postimg.cc/HWJmsTkH/EUROSPORT-2.png" group-title="PORTUGAL", EUROSPORT 1 
+http://chiclets.pm:8080/961meh/205519167/127544
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://i.postimg.cc/htW5nBfC/EUROSPORT-1.png" group-title="PORTUGAL", EUROSPORT 1 
+http://chiclets.pm:8080/961meh/205519167/127424
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://cm-inter.xyz/Logos/eurosport/1.png" group-title="PORTUGAL",EUROSPORT 1 FHD 
+http://chiclets.pm:8080/961meh/205519167/127416
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://i.postimg.cc/HWJmsTkH/EUROSPORT-2.png" group-title="PORTUGAL", EUROSPORT 1 
+http://chiclets.pm:8080/961meh/205519167/127426
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://www.guiaprogramacao.com/img/eursp.png" group-title="PORTUGAL",EUROSPORT 1 HD 
+http://chiclets.pm:8080/961meh/205519167/7326
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://www.guiaprogramacao.com/img/eursp.png" group-title="PORTUGAL",EUROSPORT 1 HD 
+http://chiclets.pm:8080/961meh/205519167/7327
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://www.guiaprogramacao.com/img/eursp.png" group-title="PORTUGAL",EUROSPORT 1 HD 
+http://chiclets.pm:8080/961meh/205519167/7328
+#EXTINF:-1 tvg-id="None" tvg-name="MOTORVISION LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/motorvision.png" group-title="PORTUGAL",MOTORVISION LOW 
+http://chiclets.pm:8080/961meh/205519167/128076
+#EXTINF:-1 tvg-id="None" tvg-name="MOTORVISION FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/MOTORVISIONHD.png" group-title="PORTUGAL",MOTORVISION FHD 
+http://chiclets.pm:8080/961meh/205519167/127540
+#EXTINF:-1 tvg-id="None" tvg-name="MOTORVISION HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/MOTORVISION.png" group-title="PORTUGAL",MOTORVISION HD 
+http://chiclets.pm:8080/961meh/205519167/7332
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP ACORES LOW" tvg-logo="https://i.imgur.com/1oHvxM5.png" group-title="PORTUGAL",RTP ACORES LOW 
+http://chiclets.pm:8080/961meh/205519167/128015
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://i.imgur.com/1oHvxM5.png" group-title="PORTUGAL", RTP ACORES 
+http://chiclets.pm:8080/961meh/205519167/127634
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://www.guiaprogramacao.com/img/rtp1.png" group-title="PORTUGAL", RTP ACORES 
+http://chiclets.pm:8080/961meh/205519167/7386
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP MADEIRA LOW" tvg-logo="https://i.imgur.com/SI9g5qp.png" group-title="PORTUGAL",RTP MADEIRA LOW 
+http://chiclets.pm:8080/961meh/205519167/128019
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP-MADEIRA.png" group-title="PORTUGAL", RTP MADEIRA 
+http://chiclets.pm:8080/961meh/205519167/127632
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://www.guiaprogramacao.com/img/rtp1.png" group-title="PORTUGAL", RTP MADEIRA 
+http://chiclets.pm:8080/961meh/205519167/7387
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP AFRICA LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/rtp_africa.png" group-title="PORTUGAL",RTP AFRICA LOW 
+http://chiclets.pm:8080/961meh/205519167/128030
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://i.imgur.com/9HzL9J3.png" group-title="PORTUGAL", RTP AFRICA 
+http://chiclets.pm:8080/961meh/205519167/127635
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://3.bp.blogspot.com/-vFgPhPLP_Q0/WEcxgtXsi3I/AAAAAAAAFmI/O4VBAfCzcwQIlrHFRi7L9MnoWhjHPo7xgCLcB/s1600/RTP%2B%25C3%2581frica%2Blogo.png" group-title="PORTUGAL", RTP AFRICA 
+http://chiclets.pm:8080/961meh/205519167/7389
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP MEMORIA LOW" tvg-logo="https://i.imgur.com/Hozoft0.png" group-title="PORTUGAL",RTP MEMORIA LOW 
+http://chiclets.pm:8080/961meh/205519167/128029
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.postimg.cc/yxMYRWjD/rtp-memoria.png" group-title="PORTUGAL", RTP MEMORIA 
+http://chiclets.pm:8080/961meh/205519167/127633
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://www.guiaprogramacao.com/img/rtp1.png" group-title="PORTUGAL", RTP MEMORIA 
+http://chiclets.pm:8080/961meh/205519167/19687
+#EXTINF:-1 tvg-id="None" tvg-logo="https://imgur.com/ZIlFip8.png" group-title="PORTUGAL", RTP ARENA 
+http://chiclets.pm:8080/961meh/205519167/127604
+#EXTINF:-1 tvg-id="DisneyChannelPortugal.pt" tvg-name="DISNEY CHANNEL LOW" tvg-logo="https://i.postimg.cc/0QkBM0sh/DISNEY-CHANNEL.png" group-title="PORTUGAL",DISNEY CHANNEL LOW 
+http://chiclets.pm:8080/961meh/205519167/128013
+#EXTINF:-1 tvg-id="DisneyChannelPortugal.pt" tvg-logo="https://i.postimg.cc/0QkBM0sh/DISNEY-CHANNEL.png" group-title="PORTUGAL", DISNEY CHANNEL 
+http://chiclets.pm:8080/961meh/205519167/127501
+#EXTINF:-1 tvg-id="CartoonNetworkPortugal.pt" tvg-name="CARTOON NETWORK LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/cartoon_network.png" group-title="PORTUGAL",CARTOON NETWORK LOW 
+http://chiclets.pm:8080/961meh/205519167/128036
+#EXTINF:-1 tvg-id="CartoonNetworkPortugal.pt" tvg-logo="https://i.imgur.com/Atdjaeq.png" group-title="PORTUGAL", CARTOON NETWORK 
+http://chiclets.pm:8080/961meh/205519167/127495
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-name="BIGGS LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/panda_biggs.png" group-title="PORTUGAL",BIGGS LOW 
+http://chiclets.pm:8080/961meh/205519167/128034
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-logo="https://i.imgur.com/0rAXNbf.png" group-title="PORTUGAL", BIGGS 
+http://chiclets.pm:8080/961meh/205519167/127498
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BIGGS.png" group-title="PORTUGAL", BIGGS 
+http://chiclets.pm:8080/961meh/205519167/51014
+#EXTINF:-1 tvg-id="NickelodeonSpain.es" tvg-name="NICKELODEON LOW" tvg-logo="https://i.postimg.cc/FzZcf0hC/NICKELODEON.png" group-title="PORTUGAL",NICKELODEON LOW 
+http://chiclets.pm:8080/961meh/205519167/128038
+#EXTINF:-1 tvg-id="DisneyJuniorPortugal.pt" tvg-name="DISNEY JUNIOR LOW" tvg-logo="https://i.postimg.cc/rpnP4twm/DISNEY-JUNIOR.png" group-title="PORTUGAL",DISNEY JUNIOR LOW 
+http://chiclets.pm:8080/961meh/205519167/128014
+#EXTINF:-1 tvg-id="DisneyJuniorPortugal.pt" tvg-logo="https://i.postimg.cc/rpnP4twm/DISNEY-JUNIOR.png" group-title="PORTUGAL", DISNEY JUNIOR 
+http://chiclets.pm:8080/961meh/205519167/127500
+#EXTINF:-1 tvg-id="CanalPandaPortugal.pt" tvg-name="CANAL PANDA LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/panda.png" group-title="PORTUGAL",CANAL PANDA LOW 
+http://chiclets.pm:8080/961meh/205519167/128035
+#EXTINF:-1 tvg-id="CanalPandaPortugal.pt" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="PORTUGAL", CANAL PANDA 
+http://chiclets.pm:8080/961meh/205519167/127499
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BABY TV LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/babytv.png" group-title="PORTUGAL",BABY TV LOW 
+http://chiclets.pm:8080/961meh/205519167/128033
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://i.imgur.com/UKFLfSf.png" group-title="PORTUGAL", BABY TV 
+http://chiclets.pm:8080/961meh/205519167/127496
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/BABY-TV.png" group-title="PORTUGAL", BABY TV 
+http://chiclets.pm:8080/961meh/205519167/7375
+#EXTINF:-1 tvg-id="NickJrPortugal.pt" tvg-name="NICK JUNIOR LOW" tvg-logo="https://i.postimg.cc/65MntVjy/NICK-JR.png" group-title="PORTUGAL",NICK JUNIOR LOW 
+http://chiclets.pm:8080/961meh/205519167/128039
+#EXTINF:-1 tvg-id="NickJrPortugal.pt" tvg-logo="http://i.imgur.com/gz6kU7g.png" group-title="PORTUGAL", NICK JUNIOR 
+http://chiclets.pm:8080/961meh/205519167/127493
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CINEMUNDO LOW" tvg-logo="https://i.postimg.cc/dtx4QKDM/CINE-MUNDO.png" group-title="PORTUGAL",CINEMUNDO LOW 
+http://chiclets.pm:8080/961meh/205519167/128064
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-logo="https://i.imgur.com/kKVI0mU.png" group-title="PORTUGAL", CINEMUNDO 
+http://chiclets.pm:8080/961meh/205519167/127525
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CINEMUNDO FHD" tvg-logo="https://i.imgur.com/kKVI0mU.png" group-title="PORTUGAL",CINEMUNDO FHD 
+http://chiclets.pm:8080/961meh/205519167/127524
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-logo="https://www.guiaprogramacao.com/img/cinehd.png" group-title="PORTUGAL", CINEMUNDO 
+http://chiclets.pm:8080/961meh/205519167/7357
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CINEMUNDO HD" tvg-logo="https://www.guiaprogramacao.com/img/cinehd.png" group-title="PORTUGAL",CINEMUNDO HD 
+http://chiclets.pm:8080/961meh/205519167/7356
+#EXTINF:-1 tvg-id="CanalHollywoodPortugal.pt" tvg-name="HOLLYWOOD LOW" tvg-logo="https://i.postimg.cc/gJ8f82X6/HOLLYWOOD.png" group-title="PORTUGAL",HOLLYWOOD LOW 
+http://chiclets.pm:8080/961meh/205519167/128060
+#EXTINF:-1 tvg-id="CanalHollywoodPortugal.pt" tvg-logo="https://i.postimg.cc/gJ8f82X6/HOLLYWOOD.png" group-title="PORTUGAL", HOLLYWOOD 
+http://chiclets.pm:8080/961meh/205519167/127527
+#EXTINF:-1 tvg-id="CanalHollywoodPortugal.pt" tvg-name="HOLLYWOOD FHD" tvg-logo="https://i.postimg.cc/gJ8f82X6/HOLLYWOOD.png" group-title="PORTUGAL",HOLLYWOOD FHD 
+http://chiclets.pm:8080/961meh/205519167/127526
+#EXTINF:-1 tvg-id="CanalHollywoodPortugal.pt" tvg-name="HOLLYWOOD HD" tvg-logo="https://www.guiaprogramacao.com/img/hollw.png" group-title="PORTUGAL",HOLLYWOOD HD 
+http://chiclets.pm:8080/961meh/205519167/7338
+#EXTINF:-1 tvg-id="CanalHollywoodPortugal.pt" tvg-name="HOLLYWOOD HD" tvg-logo="https://www.guiaprogramacao.com/img/hollw.png" group-title="PORTUGAL",HOLLYWOOD HD 
+http://chiclets.pm:8080/961meh/205519167/7339
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-name="AMC LOW" tvg-logo="https://i.postimg.cc/3J27pfQK/CRIME-INVESTIGATION.png" group-title="PORTUGAL",AMC LOW 
+http://chiclets.pm:8080/961meh/205519167/128053
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-name="AMC LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/amc_hd.png" group-title="PORTUGAL",AMC LOW 
+http://chiclets.pm:8080/961meh/205519167/128023
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-logo="https://i.postimg.cc/288K8wwW/AMC.png" group-title="PORTUGAL", AMC 
+http://chiclets.pm:8080/961meh/205519167/127523
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-name="AMC FHD" tvg-logo="https://i.postimg.cc/288K8wwW/AMC.png" group-title="PORTUGAL",AMC FHD 
+http://chiclets.pm:8080/961meh/205519167/127522
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/2560px-AMC_Crime.svg.png" group-title="PORTUGAL", AMC 
+http://chiclets.pm:8080/961meh/205519167/127436
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/2560px-AMC_Crime.svg.png" group-title="PORTUGAL", AMC 
+http://chiclets.pm:8080/961meh/205519167/63613
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/ci8y0t/amc-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", AMC 
+http://chiclets.pm:8080/961meh/205519167/7354
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-name="AMC HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/ci8y0t/amc-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",AMC HD 
+http://chiclets.pm:8080/961meh/205519167/7355
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/ci8y0t/amc-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", AMC 
+http://chiclets.pm:8080/961meh/205519167/51013
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="FOX LOW" tvg-logo="https://i.postimg.cc/QNYYbLRP/FOX.png" group-title="PORTUGAL",FOX LOW 
+http://chiclets.pm:8080/961meh/205519167/128068
+#EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="FOX LIFE LOW" tvg-logo="https://i.postimg.cc/DyjW0641/FOX-LIFE.png" group-title="PORTUGAL",FOX LIFE LOW 
+http://chiclets.pm:8080/961meh/205519167/128066
+#EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL", FOX LIFE 
+http://chiclets.pm:8080/961meh/205519167/127515
+#EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="FOX LIFE FHD" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL",FOX LIFE FHD 
+http://chiclets.pm:8080/961meh/205519167/127514
+#EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="FOX COMEDY LOW" tvg-logo="https://i.postimg.cc/PJC4cxB7/FOX-COMEDY.png" group-title="PORTUGAL",FOX COMEDY LOW 
+http://chiclets.pm:8080/961meh/205519167/128070
+#EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL", FOX COMEDY 
+http://chiclets.pm:8080/961meh/205519167/127513
+#EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="FOX COMEDY FHD" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",FOX COMEDY FHD 
+http://chiclets.pm:8080/961meh/205519167/127512
+#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="FOX CRIME LOW" tvg-logo="https://i.postimg.cc/vBc2R3nX/FOX-CRIME.png" group-title="PORTUGAL",FOX CRIME LOW 
+http://chiclets.pm:8080/961meh/205519167/128067
+#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL", FOX CRIME 
+http://chiclets.pm:8080/961meh/205519167/127517
+#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="FOX CRIME FHD" tvg-logo="https://24h.laraia.xyz/Logos/Portugal_2/FOX-CRIME.png" group-title="PORTUGAL",FOX CRIME FHD 
+http://chiclets.pm:8080/961meh/205519167/127516
+#EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-name="FOX MOVIES LOW" tvg-logo="https://i.postimg.cc/QNYYbLRP/FOX.png" group-title="PORTUGAL",FOX MOVIES LOW 
+http://chiclets.pm:8080/961meh/205519167/128065
+#EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL", FOX MOVIES 
+http://chiclets.pm:8080/961meh/205519167/127521
+#EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-name="FOX MOVIES FHD" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL",FOX MOVIES FHD 
+http://chiclets.pm:8080/961meh/205519167/127520
+#EXTINF:-1 tvg-id="AXNPortugal.pt" tvg-name="AXN LOW" tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" group-title="PORTUGAL",AXN LOW 
+http://chiclets.pm:8080/961meh/205519167/128061
+#EXTINF:-1 tvg-id="AXNPortugal.pt" tvg-name="AXN FHD" tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" group-title="PORTUGAL",AXN FHD 
+http://chiclets.pm:8080/961meh/205519167/127510
+#EXTINF:-1 tvg-id="AXNPortugal.pt" tvg-name="AXN HD" tvg-logo="https://3.bp.blogspot.com/-zpEr55Lzwlg/WB8tbSddskI/AAAAAAAAFUA/HDG64eBmlqgbuvTtZvEIvGWOkZYfd1zVQCLcB/s1600/AXN.PNG" group-title="PORTUGAL",AXN HD 
+http://chiclets.pm:8080/961meh/205519167/7348
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN WHITE HD" tvg-logo="https://i.postimg.cc/4x5MkKYL/AXN-WHITE-HD.png" group-title="PORTUGAL",AXN WHITE HD 
+http://chiclets.pm:8080/961meh/205519167/128062
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-logo="https://i.imgur.com/acsZV6f.png" group-title="PORTUGAL", AXN WHITE 
+http://chiclets.pm:8080/961meh/205519167/127509
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN WHITE FHD" tvg-logo="https://i.imgur.com/acsZV6f.png" group-title="PORTUGAL",AXN WHITE FHD 
+http://chiclets.pm:8080/961meh/205519167/127508
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN WHITE HD" tvg-logo="https://3.bp.blogspot.com/-Q3dFAl8mRNs/WDrqBMJoPuI/AAAAAAAAFao/PqRVEJj3gQUoXSneK_g-SSjPh2N0qFJzACLcB/s1600/AXN%2BWhite%2BHD.png" group-title="PORTUGAL",AXN WHITE HD 
+http://chiclets.pm:8080/961meh/205519167/51009
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN WHITE HD" tvg-logo="https://3.bp.blogspot.com/-Q3dFAl8mRNs/WDrqBMJoPuI/AAAAAAAAFao/PqRVEJj3gQUoXSneK_g-SSjPh2N0qFJzACLcB/s1600/AXN%2BWhite%2BHD.png" group-title="PORTUGAL",AXN WHITE HD 
+http://chiclets.pm:8080/961meh/205519167/7359
+#EXTINF:-1 tvg-id="AXNMovies.us" tvg-name="AXN MOVIES LOW" tvg-logo="https://i.postimg.cc/4dtq0WVt/AXN-Movies-Sem-Logo.png" group-title="PORTUGAL",AXN MOVIES LOW 
+http://chiclets.pm:8080/961meh/205519167/128063
+#EXTINF:-1 tvg-id="AXNMovies.us" tvg-logo="https://i.postimg.cc/4dtq0WVt/AXN-Movies-Sem-Logo.png" group-title="PORTUGAL", AXN MOVIES 
+http://chiclets.pm:8080/961meh/205519167/127507
+#EXTINF:-1 tvg-id="AXNMovies.us" tvg-name="AXN MOVIES FHD" tvg-logo="https://i.postimg.cc/SK9MY9cV/AXN-Movies-Altice.png" group-title="PORTUGAL",AXN MOVIES FHD 
+http://chiclets.pm:8080/961meh/205519167/127506
+#EXTINF:-1 tvg-id="AXNMovies.us" tvg-name="AXN MOVIES HD" tvg-logo="https://4.bp.blogspot.com/-_U565Nohx6k/WDrqAv9jpWI/AAAAAAAAFaY/1FA9LBMJDE0eVAvZy_tW7IAhHgj-7iGHQCLcB/s1600/AXN%2BBlack%2BHD.png" group-title="PORTUGAL",AXN MOVIES HD 
+http://chiclets.pm:8080/961meh/205519167/7360
+#EXTINF:-1 tvg-id="SyfyPortugal.pt" tvg-name="SYFY LOW" tvg-logo="https://i.postimg.cc/C5WBtJM2/SYFY.png" group-title="PORTUGAL",SYFY LOW 
+http://chiclets.pm:8080/961meh/205519167/128069
+#EXTINF:-1 tvg-id="SyfyPortugal.pt" tvg-logo="https://i.postimg.cc/C5WBtJM2/SYFY.png" group-title="PORTUGAL", SYFY 
+http://chiclets.pm:8080/961meh/205519167/127505
+#EXTINF:-1 tvg-id="SyfyPortugal.pt" tvg-name="SYFY FHD" tvg-logo="https://i.postimg.cc/C5WBtJM2/SYFY.png" group-title="PORTUGAL",SYFY FHD 
+http://chiclets.pm:8080/961meh/205519167/127504
+#EXTINF:-1 tvg-id="SyfyPortugal.pt" tvg-name="SYFY HD" tvg-logo="https://1.bp.blogspot.com/-CCcjsa3ukyE/WDtdfQIiMAI/AAAAAAAAFkw/i_MbiJGL_AYBUGrP-lGp6I8HHuNiRkE4gCLcB/s1600/Syfy.png" group-title="PORTUGAL",SYFY HD 
+http://chiclets.pm:8080/961meh/205519167/7352
+#EXTINF:-1 tvg-id="SyfyPortugal.pt" tvg-name="SYFY HD" tvg-logo="https://1.bp.blogspot.com/-CCcjsa3ukyE/WDtdfQIiMAI/AAAAAAAAFkw/i_MbiJGL_AYBUGrP-lGp6I8HHuNiRkE4gCLcB/s1600/Syfy.png" group-title="PORTUGAL",SYFY HD 
+http://chiclets.pm:8080/961meh/205519167/7353
+#EXTINF:-1 tvg-id="euronews.pt" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/EURONEWS.png" group-title="PORTUGAL", EURONEWS 
+http://chiclets.pm:8080/961meh/205519167/127621
+#EXTINF:-1 tvg-id="euronews.pt" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="PORTUGAL", EURONEWS 
+http://chiclets.pm:8080/961meh/205519167/63615
+#EXTINF:-1 tvg-id="DiscoveryChannelPortugal.pt" tvg-name="DISCOVERY CHANNEL LOW" tvg-logo="https://i.postimg.cc/SKvFzX7T/DISCOVERY-CHANNEL.png" group-title="PORTUGAL",DISCOVERY CHANNEL LOW 
+http://chiclets.pm:8080/961meh/205519167/128026
+#EXTINF:-1 tvg-id="DiscoveryChannelPortugal.pt" tvg-name="DISCOVERY CHANNEL LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/crime_investigation.png" group-title="PORTUGAL",DISCOVERY CHANNEL LOW 
+http://chiclets.pm:8080/961meh/205519167/128010
+#EXTINF:-1 tvg-id="DiscoveryChannelPortugal.pt" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="PORTUGAL", DISCOVERY CHANNEL 
+http://chiclets.pm:8080/961meh/205519167/127470
+#EXTINF:-1 tvg-id="DiscoveryChannelPortugal.pt" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="PORTUGAL",DISCOVERY CHANNEL HD 
+http://chiclets.pm:8080/961meh/205519167/127469
+#EXTINF:-1 tvg-id="DiscoveryChannelPortugal.pt" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="PORTUGAL",DISCOVERY CHANNEL FHD 
+http://chiclets.pm:8080/961meh/205519167/127468
+#EXTINF:-1 tvg-id="DiscoveryChannelPortugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/Investigation-.png" group-title="PORTUGAL", DISCOVERY CHANNEL 
+http://chiclets.pm:8080/961meh/205519167/127467
+#EXTINF:-1 tvg-id="DiscoveryChannelPortugal.pt" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/Investigation-.png" group-title="PORTUGAL",DISCOVERY CHANNEL FHD 
+http://chiclets.pm:8080/961meh/205519167/127466
+#EXTINF:-1 tvg-id="DiscoveryChannelPortugal.pt" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/vv771w/discovery.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",DISCOVERY CHANNEL HD 
+http://chiclets.pm:8080/961meh/205519167/7390
+#EXTINF:-1 tvg-id="DiscoveryChannelPortugal.pt" tvg-logo="https://www.guiaprogramacao.com/img/discv.png" group-title="PORTUGAL", DISCOVERY CHANNEL 
+http://chiclets.pm:8080/961meh/205519167/7394
+#EXTINF:-1 tvg-id="DiscoveryChannelPortugal.pt" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-_yMWiyQkzmI/WMBjEESIGRI/AAAAAAAAFsY/0wex-sh1pDEVk3Fu2t_QFtx0u7MIHtoGQCLcB/s1600/Crime%2B%252B%2BInvestigation.png" group-title="PORTUGAL",DISCOVERY CHANNEL HD 
+http://chiclets.pm:8080/961meh/205519167/7358
+#EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-name="HISTÓRIA LOW" tvg-logo="https://i.imgur.com/0BsQiWg.png" group-title="PORTUGAL",HISTÓRIA LOW 
+http://chiclets.pm:8080/961meh/205519167/128040
+#EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-name="HISTÓRIA HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/HISTORIAHD.png" group-title="PORTUGAL",HISTÓRIA HD 
+http://chiclets.pm:8080/961meh/205519167/127463
+#EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-name="HISTÓRIA FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/HISTORIAHD.png" group-title="PORTUGAL",HISTÓRIA FHD 
+http://chiclets.pm:8080/961meh/205519167/127462
+#EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/e6v621/historia.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", HISTÓRIA 
+http://chiclets.pm:8080/961meh/205519167/19685
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="ODISSEIA LOW" tvg-logo="https://i.postimg.cc/cL1CXGmx/ODISSEIA.png" group-title="PORTUGAL",ODISSEIA LOW 
+http://chiclets.pm:8080/961meh/205519167/128042
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="ODISSEIA FHD" tvg-logo="https://i.imgur.com/OeQhRFQ.png" group-title="PORTUGAL",ODISSEIA FHD 
+http://chiclets.pm:8080/961meh/205519167/127461
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/g958zy/odisseia.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", ODISSEIA 
+http://chiclets.pm:8080/961meh/205519167/7401
+#EXTINF:-1 tvg-id="NationalGeographicPortugal.pt" tvg-name="NATIONAL GEOGRAPHIC LOW" tvg-logo="https://i.postimg.cc/WbwcWDWr/NATIONAL-GEOGRAPHIC.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC LOW 
+http://chiclets.pm:8080/961meh/205519167/128055
+#EXTINF:-1 tvg-id="NationalGeographicPortugal.pt" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="PORTUGAL", NATIONAL GEOGRAPHIC 
+http://chiclets.pm:8080/961meh/205519167/127475
+#EXTINF:-1 tvg-id="NationalGeographicPortugal.pt" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/NATIONAL-GEOGRAPHIC.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD 
+http://chiclets.pm:8080/961meh/205519167/127474
+#EXTINF:-1 tvg-id="NationalGeographicPortugal.pt" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/NATIONALGEOGRAPHICHD.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC FHD 
+http://chiclets.pm:8080/961meh/205519167/127473
+#EXTINF:-1 tvg-id="NationalGeographicPortugal.pt" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/NATGEOWILDHD.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD 
+http://chiclets.pm:8080/961meh/205519167/127472
+#EXTINF:-1 tvg-id="NationalGeographicPortugal.pt" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/NATGEOWILDHD.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC FHD 
+http://chiclets.pm:8080/961meh/205519167/127471
+#EXTINF:-1 tvg-id="NationalGeographicPortugal.pt" tvg-name="NAT GEO WILD LOW" tvg-logo="http://tamosca.xyz:8080/images/0e8b78b2b510ab122ef0d58dd614a886.png" group-title="PORTUGAL",NAT GEO WILD LOW 
+http://chiclets.pm:8080/961meh/205519167/128054
+#EXTINF:-1 tvg-id="NationalGeographicPortugal.pt" tvg-name="NAT GEO WILD HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/inwwny/national-geographic.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",NAT GEO WILD HD 
+http://chiclets.pm:8080/961meh/205519167/7392
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV PORTUGAL LOW" tvg-logo="https://i.postimg.cc/QxzPV7Vd/MTV-PORTUGAL.png" group-title="PORTUGAL",MTV PORTUGAL LOW 
+http://chiclets.pm:8080/961meh/205519167/128012
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-logo="https://i.imgur.com/wNvqkOM.png" group-title="PORTUGAL", MTV PORTUGAL 
+http://chiclets.pm:8080/961meh/205519167/127484
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-logo="https://imgur.com/sismOEo.png" group-title="PORTUGAL", MTV PORTUGAL 
+http://chiclets.pm:8080/961meh/205519167/127483
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV PORTUGAL HD" tvg-logo="https://4.bp.blogspot.com/-uvIknHhzvu4/TyVbRhGqNcI/AAAAAAAABMI/KGud5zeSMgE/s1600/MTV+logo+2.png" group-title="PORTUGAL",MTV PORTUGAL HD 
+http://chiclets.pm:8080/961meh/205519167/7411
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/4M2XZfF.png" group-title="PORTUGAL", TRACE URBAN 
+http://chiclets.pm:8080/961meh/205519167/127482
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM POP LOW" tvg-logo="https://i.postimg.cc/4xbzjkCR/MCM-POP.png" group-title="PORTUGAL",MCM POP LOW 
+http://chiclets.pm:8080/961meh/205519167/128045
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-logo="https://i.imgur.com/nxTIh9U.png" group-title="PORTUGAL", MCM POP 
+http://chiclets.pm:8080/961meh/205519167/127486
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM TOP LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/mcm_top.png" group-title="PORTUGAL",MCM TOP LOW 
+http://chiclets.pm:8080/961meh/205519167/128022
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-logo="https://i.imgur.com/ugDPCmB.png" group-title="PORTUGAL", MCM TOP 
+http://chiclets.pm:8080/961meh/205519167/127485
+#EXTINF:-1 tvg-id="TraceToca.fr" tvg-name="TRACE TOCA LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/trace_toca.png" group-title="PORTUGAL",TRACE TOCA LOW 
+http://chiclets.pm:8080/961meh/205519167/128047
+#EXTINF:-1 tvg-id="TraceToca.fr" tvg-logo="" group-title="PORTUGAL", TRACE TOCA 
+http://chiclets.pm:8080/961meh/205519167/127481
+#EXTINF:-1 tvg-id="None" tvg-logo="https://i.imgur.com/YdHGyWn.png" group-title="PORTUGAL", AFRO MUSIC 
+http://chiclets.pm:8080/961meh/205519167/127487
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-name="FUEL TV LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/fuel_tv.png" group-title="PORTUGAL",FUEL TV LOW 
+http://chiclets.pm:8080/961meh/205519167/128048
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-name="FUEL TV FHD" tvg-logo="https://i.postimg.cc/3xqChjS3/FUEL-TV.png" group-title="PORTUGAL",FUEL TV FHD 
+http://chiclets.pm:8080/961meh/205519167/127541
+#EXTINF:-1 tvg-id="TLCPanRegional.us" tvg-name="TLC LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/tlc.png" group-title="PORTUGAL",TLC LOW 
+http://chiclets.pm:8080/961meh/205519167/128041
+#EXTINF:-1 tvg-id="TLCPanRegional.us" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/TLC.png" group-title="PORTUGAL", TLC 
+http://chiclets.pm:8080/961meh/205519167/127601
+#EXTINF:-1 tvg-id="TLCPanRegional.us" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/sg52x0/tlc.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", TLC 
+http://chiclets.pm:8080/961meh/205519167/19684
+#EXTINF:-1 tvg-id="EEurope.us" tvg-name="E! ENTERTAINMENT LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/e.png" group-title="PORTUGAL",E! ENTERTAINMENT LOW 
+http://chiclets.pm:8080/961meh/205519167/128011
+#EXTINF:-1 tvg-id="EEurope.us" tvg-logo="https://i.imgur.com/DfsBEFp.png" group-title="PORTUGAL", E! ENTERTAINMENT 
+http://chiclets.pm:8080/961meh/205519167/127599
+#EXTINF:-1 tvg-id="EEurope.us" tvg-name="E! ENTERTAINMENT FHD" tvg-logo="" group-title="PORTUGAL",E! ENTERTAINMENT FHD 
+http://chiclets.pm:8080/961meh/205519167/127434
+#EXTINF:-1 tvg-id="EEurope.us" tvg-name="E! ENTERTAINMENT HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/nwwtcz/e.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",E! ENTERTAINMENT HD 
+http://chiclets.pm:8080/961meh/205519167/7404
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="24 KITCHEN FHD" tvg-logo="https://i.imgur.com/h7zVseY.png" group-title="PORTUGAL",24 KITCHEN FHD 
+http://chiclets.pm:8080/961meh/205519167/127608
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="24 KITCHEN HD" tvg-logo="https://2.bp.blogspot.com/-0w1UBiMUhO8/UIadYRxdWlI/AAAAAAAADBc/L7-oN4o-5Zc/s1600/24+Kitchen+logo+2.png" group-title="PORTUGAL",24 KITCHEN HD 
+http://chiclets.pm:8080/961meh/205519167/19683
+#EXTINF:-1 tvg-id="PFCInternacional.br" tvg-name="PFC LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/pfc.png" group-title="PORTUGAL",PFC LOW 
+http://chiclets.pm:8080/961meh/205519167/128075
+#EXTINF:-1 tvg-id="PFCInternacional.br" tvg-logo="https://i.imgur.com/kvmx029.png" group-title="PORTUGAL", PFC 
+http://chiclets.pm:8080/961meh/205519167/127547
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TVCINE TOP HD" tvg-logo="https://i.postimg.cc/qRmNkNNT/Tv-Cine-Top-HD.png" group-title="PORTUGAL",TVCINE TOP HD 
+http://chiclets.pm:8080/961meh/205519167/128056
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-logo="https://i.postimg.cc/9FJm1fW2/Tv-Cine-Top.png" group-title="PORTUGAL", TVCINE TOP 
+http://chiclets.pm:8080/961meh/205519167/127537
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TVCINE TOP FHD" tvg-logo="https://i.postimg.cc/9FJm1fW2/Tv-Cine-Top.png" group-title="PORTUGAL",TVCINE TOP FHD 
+http://chiclets.pm:8080/961meh/205519167/127536
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TVCINE TOP LOW" tvg-logo="" group-title="PORTUGAL",TVCINE TOP LOW 
+http://chiclets.pm:8080/961meh/205519167/121246
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-logo="https://www.guiaprogramacao.com/img/tvcact.png" group-title="PORTUGAL", TVCINE TOP 
+http://chiclets.pm:8080/961meh/205519167/7340
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TVCINE TOP HD" tvg-logo="https://www.guiaprogramacao.com/img/tvcact.png" group-title="PORTUGAL",TVCINE TOP HD 
+http://chiclets.pm:8080/961meh/205519167/7341
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TVCINE EDITION LOW" tvg-logo="https://i.postimg.cc/LXVzj4hC/Tv-Cine-Edition.png" group-title="PORTUGAL",TVCINE EDITION LOW 
+http://chiclets.pm:8080/961meh/205519167/128057
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-logo="https://i.postimg.cc/LXVzj4hC/Tv-Cine-Edition.png" group-title="PORTUGAL", TVCINE EDITION 
+http://chiclets.pm:8080/961meh/205519167/127535
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TVCINE EDITION FHD" tvg-logo="https://i.postimg.cc/LXVzj4hC/Tv-Cine-Edition.png" group-title="PORTUGAL",TVCINE EDITION FHD 
+http://chiclets.pm:8080/961meh/205519167/127534
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-logo="https://www.guiaprogramacao.com/img/tvcact.png" group-title="PORTUGAL", TVCINE EDITION 
+http://chiclets.pm:8080/961meh/205519167/7342
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TVCINE EDITION HD" tvg-logo="https://www.guiaprogramacao.com/img/tvcact.png" group-title="PORTUGAL",TVCINE EDITION HD 
+http://chiclets.pm:8080/961meh/205519167/7343
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TVCINE EMOTION LOW" tvg-logo="https://i.postimg.cc/m2wDqwy0/Tv-Cine-Emotion.png" group-title="PORTUGAL",TVCINE EMOTION LOW 
+http://chiclets.pm:8080/961meh/205519167/128058
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-logo="https://i.postimg.cc/m2wDqwy0/Tv-Cine-Emotion.png" group-title="PORTUGAL", TVCINE EMOTION 
+http://chiclets.pm:8080/961meh/205519167/127533
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TVCINE EMOTION FHD" tvg-logo="https://i.postimg.cc/m2wDqwy0/Tv-Cine-Emotion.png" group-title="PORTUGAL",TVCINE EMOTION FHD 
+http://chiclets.pm:8080/961meh/205519167/127532
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-logo="https://www.guiaprogramacao.com/img/tvcact.png" group-title="PORTUGAL", TVCINE EMOTION 
+http://chiclets.pm:8080/961meh/205519167/7344
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TVCINE EMOTION HD" tvg-logo="https://www.guiaprogramacao.com/img/tvcact.png" group-title="PORTUGAL",TVCINE EMOTION HD 
+http://chiclets.pm:8080/961meh/205519167/7345
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TVCINE ACTION LOW" tvg-logo="https://i.postimg.cc/0ymPtzxN/Tv-Cine-Action.png" group-title="PORTUGAL",TVCINE ACTION LOW 
+http://chiclets.pm:8080/961meh/205519167/128059
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-logo="https://i.postimg.cc/0ymPtzxN/Tv-Cine-Action.png" group-title="PORTUGAL", TVCINE ACTION 
+http://chiclets.pm:8080/961meh/205519167/127531
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TVCINE ACTION FHD" tvg-logo="https://i.postimg.cc/0ymPtzxN/Tv-Cine-Action.png" group-title="PORTUGAL",TVCINE ACTION FHD 
+http://chiclets.pm:8080/961meh/205519167/127530
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-logo="https://www.guiaprogramacao.com/img/tvcact.png" group-title="PORTUGAL", TVCINE ACTION 
+http://chiclets.pm:8080/961meh/205519167/7346
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TVCINE ACTION HD" tvg-logo="https://www.guiaprogramacao.com/img/tvcact.png" group-title="PORTUGAL",TVCINE ACTION HD 
+http://chiclets.pm:8080/961meh/205519167/7347
+#EXTINF:-1 tvg-id="CanalNosStudios.pt" tvg-name="NOS STUDIOS LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/nos_studios_hd.png" group-title="PORTUGAL",NOS STUDIOS LOW 
+http://chiclets.pm:8080/961meh/205519167/128027
+#EXTINF:-1 tvg-id="CanalNosStudios.pt" tvg-logo="https://i.postimg.cc/ht5HCD0r/medium-studios.png" group-title="PORTUGAL", NOS STUDIOS 
+http://chiclets.pm:8080/961meh/205519167/127529
+#EXTINF:-1 tvg-id="CanalNosStudios.pt" tvg-name="NOS STUDIOS FHD" tvg-logo="https://i.postimg.cc/ht5HCD0r/medium-studios.png" group-title="PORTUGAL",NOS STUDIOS FHD 
+http://chiclets.pm:8080/961meh/205519167/127528
+#EXTINF:-1 tvg-id="CanalNosStudios.pt" tvg-name="NOS STUDIOS HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/o9t3ql/nos-studios-1.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",NOS STUDIOS HD 
+http://chiclets.pm:8080/961meh/205519167/7336
+#EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/7l7xxi/cnova.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", TV CANÇÃO NOVA 
+http://chiclets.pm:8080/961meh/205519167/59976
+#EXTINF:-1 tvg-id="CasaeCozinha.pt" tvg-name="CASA E COZINHA FHD" tvg-logo="https://i.postimg.cc/KvFG8dkY/casaecozinhahd.png" group-title="PORTUGAL",CASA E COZINHA FHD 
+http://chiclets.pm:8080/961meh/205519167/127607
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="CAÇA E PESCA HD" tvg-logo="https://1.bp.blogspot.com/-CcUmFV1cbCs/WDrqCOTY0jI/AAAAAAAAFbc/MfuHFTePIy8OMnAcnvKij83r4XuzK9OPwCLcB/s1600/Ca%25C3%25A7a%2Be%2BPesca%2Blogo.png" group-title="PORTUGAL",CAÇA E PESCA HD 
+http://chiclets.pm:8080/961meh/205519167/7333
+#EXTINF:-1 tvg-id="Cacavision.es" tvg-name="CAÇA VISION LOW" tvg-logo="https://i.postimg.cc/DwnRshnS/CA-AVISION.png" group-title="PORTUGAL",CAÇA VISION LOW 
+http://chiclets.pm:8080/961meh/205519167/128071
+#EXTINF:-1 tvg-id="Cacavision.es" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/CA-AVISION.png" group-title="PORTUGAL", CAÇA VISION 
+http://chiclets.pm:8080/961meh/205519167/7334
+#EXTINF:-1 tvg-id="TravelChannelEMEA.uk" tvg-name="TRAVEL CHANNEL LOW" tvg-logo="https://i.postimg.cc/fW099sH1/TRAVEL-CHANNEL.png" group-title="PORTUGAL",TRAVEL CHANNEL LOW 
+http://chiclets.pm:8080/961meh/205519167/128028
+#EXTINF:-1 tvg-id="TravelChannelEMEA.uk" tvg-name="TRAVEL CHANNEL HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/TRAVELCHANNELHD.png" group-title="PORTUGAL",TRAVEL CHANNEL HD 
+http://chiclets.pm:8080/961meh/205519167/127477
+#EXTINF:-1 tvg-id="TravelChannelEMEA.uk" tvg-name="TRAVEL CHANNEL FHD" tvg-logo="https://i.imgur.com/709MBnc.png" group-title="PORTUGAL",TRAVEL CHANNEL FHD 
+http://chiclets.pm:8080/961meh/205519167/127476
+#EXTINF:-1 tvg-id="TravelChannelEMEA.uk" tvg-name="TRAVEL CHANNEL UHD HEVC" tvg-logo="https://2.bp.blogspot.com/-ZvEoWsChFaE/UVbSO0VEdkI/AAAAAAAAD_c/bYGU4KaiBug/s1600/Travel+Channel+HD+logo+5.png" group-title="PORTUGAL",TRAVEL CHANNEL 4K 
+http://chiclets.pm:8080/961meh/205519167/7403
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="TOROS TV LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/toros_tv.png" group-title="PORTUGAL",TOROS TV LOW 
+http://chiclets.pm:8080/961meh/205519167/128072
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="TOROS TV HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/TOROS.png" group-title="PORTUGAL",TOROS TV HD 
+http://chiclets.pm:8080/961meh/205519167/7335
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png" group-title="PORTUGAL", FIGHT NETWORK 
+http://chiclets.pm:8080/961meh/205519167/63612
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-logo="https://i.postimg.cc/3J27pfQK/CRIME-INVESTIGATION.png" group-title="PORTUGAL", CRIME + INVESTIGATION PORTUGAL 
+http://chiclets.pm:8080/961meh/205519167/127460
+#EXTINF:-1 tvg-id="StingrayiConcerts.ca" tvg-name="iCONCERTS FHD" tvg-logo="https://i.imgur.com/ozn20Vt.png" group-title="PORTUGAL",iCONCERTS FHD 
+http://chiclets.pm:8080/961meh/205519167/127479
+#EXTINF:-1 tvg-id="CBSRealityEurope.us" tvg-logo="https://i.imgur.com/urVdic4.png" group-title="PORTUGAL", CBS REALITY 
+http://chiclets.pm:8080/961meh/205519167/127603
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="TV RECORD LOW" tvg-logo="http://intelcodecs.hopto.org:8080/picon/record_tv.png" group-title="PORTUGAL",TV RECORD LOW 
+http://chiclets.pm:8080/961meh/205519167/128021
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="TV RECORD LOW" tvg-logo="https://i.postimg.cc/fbQ0zHNj/RECORD-NEWS.png" group-title="PORTUGAL",TV RECORD LOW 
+http://chiclets.pm:8080/961meh/205519167/128020
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="TV RECORD HD" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/TVRECORDHD.png" group-title="PORTUGAL",TV RECORD HD 
+http://chiclets.pm:8080/961meh/205519167/127453
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="TV RECORD HD" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/lskjng/tvrec.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL",TV RECORD HD 
+http://chiclets.pm:8080/961meh/205519167/7380
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/lskjng/tvrec.png?enable-io=true&fit=bounds&width=150&height=150" group-title="PORTUGAL", TV RECORD 
+http://chiclets.pm:8080/961meh/205519167/7381
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="CANAL Q LOW" tvg-logo="https://i.imgur.com/pChUy7I.png" group-title="PORTUGAL",CANAL Q LOW 
+http://chiclets.pm:8080/961meh/205519167/128025
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-logo="https://i.imgur.com/pChUy7I.png" group-title="PORTUGAL", CANAL Q 
+http://chiclets.pm:8080/961meh/205519167/127605
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/6454tb/q.png" group-title="PORTUGAL", CANAL Q 
+http://chiclets.pm:8080/961meh/205519167/7402
+#EXTINF:-1 tvg-id="ARTVCanalParlamento.pt" tvg-logo="http://live21.site/LOGOS/picons/ARTV.png" group-title="PORTUGAL", ARTV 
+http://chiclets.pm:8080/961meh/205519167/99913
+#EXTINF:-1 tvg-id="None" tvg-logo="https://www.sagrescampopequeno.pt/img/campopequenotv_logo.png" group-title="PORTUGAL", CAMPO PEQUENO 
+http://chiclets.pm:8080/961meh/205519167/63611
+#EXTINF:-1 tvg-id="None" tvg-logo="" group-title="PORTUGAL", CANAL 180 
+http://chiclets.pm:8080/961meh/205519167/127433
+#EXTINF:-1 tvg-id="None" tvg-name="CANAL 180 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Canal180_logo.png" group-title="PORTUGAL",CANAL 180 HD 
+http://chiclets.pm:8080/961meh/205519167/39814
+#EXTINF:-1 tvg-id="TPAInternacional.ao" tvg-logo="https://cm-inter.xyz/Logos/PORTUGAL/TPAINTERNACIONAL.png" group-title="PORTUGAL", TPA INTERNACIONAL 
+http://chiclets.pm:8080/961meh/205519167/127455
+#EXTINF:-1 tvg-id="TPAInternacional.ao" tvg-logo="" group-title="PORTUGAL", TPA INTERNACIONAL 
+http://chiclets.pm:8080/961meh/205519167/99916
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://i.imgur.com/2q195Cn.png" group-title="PORTUGAL", MEZZO 
+http://chiclets.pm:8080/961meh/205519167/127480
+#EXTINF:-1 tvg-id="ZapVivaInternacional.ao" tvg-name="ZAP VIVA INTERNACIONAL FHD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/Zap_Viva.png" group-title="PORTUGAL",ZAP VIVA INTERNACIONAL FHD 
+http://chiclets.pm:8080/961meh/205519167/127454
+#EXTINF:-1 tvg-id="None" tvg-logo="" group-title="PORTUGAL", WRC 
+http://chiclets.pm:8080/961meh/205519167/127435
+#EXTINF:-1 tvg-id="BBCEntertainmentEurope.uk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_entertainment_uk.png" group-title="PORTUGAL", BBC ENTERTAINMENT 
+http://chiclets.pm:8080/961meh/205519167/127442
+#EXTINF:-1 tvg-id="LocalVisaoTV.pt" tvg-logo="https://i.imgur.com/QHQUqvP.png" group-title="PORTUGAL", LOCALVISÃO TV 
+http://chiclets.pm:8080/961meh/205519167/127600
+#EXTINF:-1 tvg-id="LollyKids.uk" tvg-logo="https://cm-inter.xyz/Logos/exclusivos/LollyKids.png" group-title="PORTUGAL", LOLLY KIDS 
+http://chiclets.pm:8080/961meh/205519167/127490
+#EXTINF:-1 tvg-id="BoomerangPortugal.pt" tvg-name="BOOMERANG LOW" tvg-logo="" group-title="PORTUGAL",BOOMERANG LOW 
+http://chiclets.pm:8080/961meh/205519167/128037
+#EXTINF:-1 tvg-id="BoomerangPortugal.pt" tvg-logo="" group-title="PORTUGAL", BOOMERANG 
+http://chiclets.pm:8080/961meh/205519167/127497
+#EXTINF:-1 tvg-id="BoomerangPortugal.pt" tvg-logo="https://cm-inter.xyz/Logos/Portugal_novos/cartoonito.png" group-title="PORTUGAL", BOOMERANG 
+http://chiclets.pm:8080/961meh/205519167/55618
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="KURIAKOS TV FHD" tvg-logo="https://i.postimg.cc/kG1JHBw7/KURIAKOS-TV.png" group-title="PORTUGAL",KURIAKOS TV FHD 
+http://chiclets.pm:8080/961meh/205519167/127602
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="KURIAKOS TV FHD" tvg-logo="https://i.ytimg.com/vi/faYHxPA11R0/maxresdefault.jpg" group-title="PORTUGAL",KURIAKOS TV FHD 
+http://chiclets.pm:8080/961meh/205519167/59973
+#EXTINF:-1 tvg-id="BloombergTVEMEA.uk" tvg-logo="http://live21.site/LOGOS/PiconsPT/Bloomberg.png" group-title="PORTUGAL", BLOOMBERG TV 
+http://chiclets.pm:8080/961meh/205519167/127441
+#EXTINF:-1 tvg-id="Dizi.nl" tvg-logo="" group-title="PORTUGAL", DIZI CHANNEL 
+http://chiclets.pm:8080/961meh/205519167/127503
+#EXTINF:-1 tvg-id="PlayboyTVEurope.us" tvg-name="PLAYBOY TV HD" tvg-logo="https://cm-inter.xyz/Logos/Portugal_4/playboy-tv-hd.png" group-title="PORTUGAL",PLAYBOY TV HD 
+http://chiclets.pm:8080/961meh/205519167/64815
+#EXTINF:-1 tvg-id="tvificcao.pt" V+ LOW* tvg-logo="https://i.postimg.cc/tJFJMVFw/TVI-FIC-O.png" PORTUGAL LOW,V+ low*
+http://chiclets.pm:8080/961meh/205519167/128051
+#EXTINF:-1 tvg-id="blaze.pt" BREAK LOW tvg-logo="" PORTUGAL LOW,Break low
+http://chiclets.pm:8080/961meh/205519167/128046
+#EXTINF:-1 tvg-id="cancaonova.pt" CANÇAO NOVA LOW tvg-logo="https://i.postimg.cc/DywmcK52/CAN-O-NOVA.png" PORTUGAL LOW,Cançao Nova low
+http://chiclets.pm:8080/961meh/205519167/128043
+#EXTINF:-1 tvg-id="cacaepesca.pt" CACA Y PESCA LOW tvg-logo="http://intelcodecs.hopto.org:8080/picon/cacaepesca.png" PORTUGAL LOW,Caca y Pesca low
+http://chiclets.pm:8080/961meh/205519167/128024
+#EXTINF:-1 tvg-id="rtpinternacional.pt" PT | RTP INTERNACIONAL tvg-logo="https://i.imgur.com/pnOzjZW.png" PORTUGAL EXTRA,PT | Rtp Internacional
+http://chiclets.pm:8080/961meh/205519167/127631
+#EXTINF:-1 tvg-id="artv.pt" PT | AR TV tvg-logo="https://i.imgur.com/McboHWW.png" PORTUGAL EXTRA,PT | Ar TV
+http://chiclets.pm:8080/961meh/205519167/127628
+#EXTINF:-1 tvg-id="" ---●★| PORTUGAL ENTRETENIMENTO |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" PORTUGAL EXTRA,---●★| Portugal Entretenimento |★●---
+http://chiclets.pm:8080/961meh/205519167/127620
+#EXTINF:-1 tvg-id="tvificcao.pt" PT | V+ tvg-logo="https://i.imgur.com/dm0MYaW.png" PORTUGAL EXTRA,PT | V+
+http://chiclets.pm:8080/961meh/205519167/127616
+#EXTINF:-1 tvg-id="foodnetwork.pt" PT | FOOD NETWOORK tvg-logo="https://i.imgur.com/8usMt92.png" PORTUGAL EXTRA,PT | Food Netwoork
+http://chiclets.pm:8080/961meh/205519167/127606
+#EXTINF:-1 tvg-id="" PT | FASHION TV tvg-logo="https://i.imgur.com/bAOA1wS.png" PORTUGAL EXTRA,PT | Fashion TV
+http://chiclets.pm:8080/961meh/205519167/127598
+#EXTINF:-1 tvg-id="" PT: SPORT TV 7 tvg-logo="https://www.sporttv.pt/logos/sporttv-7-rebrand.svg" PORTUGAL DESPORTO,PT: Sport TV 7
+http://chiclets.pm:8080/961meh/205519167/128391
+#EXTINF:-1 tvg-id="CAÇAVISION HD" SPORT TV 7_MEO tvg-logo="https://www.sporttv.pt/logos/sporttv-7-rebrand.svg" PORTUGAL DESPORTO,Sport TV 7_meo
+http://chiclets.pm:8080/961meh/205519167/128390
+#EXTINF:-1 tvg-id="" PT | KOMBAT SPORT tvg-logo="https://i.imgur.com/1kpnKQ7.png" PORTUGAL EXTRA,PT | KOMBAT SPORT
+http://chiclets.pm:8080/961meh/205519167/127543
+#EXTINF:-1 tvg-id="" PT | NHK WORLD JAPAN tvg-logo="https://imgur.com/bsuG7v7.png" PORTUGAL EXTRA,PT | NHK WORLD JAPAN
+http://chiclets.pm:8080/961meh/205519167/127542
+#EXTINF:-1 tvg-id="" PT | RED BULL tvg-logo="https://imgur.com/YhJcNXn.png" PORTUGAL EXTRA,PT | RED BULL
+http://chiclets.pm:8080/961meh/205519167/127539
+#EXTINF:-1 tvg-id="" ---●★| PORTUGAL CINEMA |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" PORTUGAL EXTRA,---●★| Portugal Cinema |★●---
+http://chiclets.pm:8080/961meh/205519167/127538
+#EXTINF:-1 tvg-id="fox.pt" PT | FOX tvg-logo="https://i.imgur.com/AK0dBI3.png" PORTUGAL EXTRA,PT | Fox
+http://chiclets.pm:8080/961meh/205519167/127519
+#EXTINF:-1 tvg-id="fox.pt" PT | FOX  FHD tvg-logo="https://i.imgur.com/AK0dBI3.png" PORTUGAL EXTRA,PT | Fox  FHD
+http://chiclets.pm:8080/961meh/205519167/127518
+#EXTINF:-1 tvg-id="axn.pt" PT | AXN tvg-logo="https://i.postimg.cc/qv5s30SB/AXN.png" PORTUGAL EXTRA,PT | Axn
+http://chiclets.pm:8080/961meh/205519167/127511
+#EXTINF:-1 tvg-id="" ---●★| PORTUGAL CRIANÇAS |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" PORTUGAL EXTRA,---●★| Portugal Crianças |★●---
+http://chiclets.pm:8080/961meh/205519167/127502
+#EXTINF:-1 tvg-id="nickelodeon.pt" PT | NICKLODEON tvg-logo="https://i.imgur.com/E8CQtKg.png" PORTUGAL EXTRA,PT | Nicklodeon
+http://chiclets.pm:8080/961meh/205519167/127494
+#EXTINF:-1 tvg-id="" ---●★| PORTUGAL MUSIC |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" PORTUGAL EXTRA,---●★| Portugal Music |★●---
+http://chiclets.pm:8080/961meh/205519167/127489
+#EXTINF:-1 tvg-id="almalusa.pt" PT | ALMA  LUSA tvg-logo="https://imgur.com/QwgpmYE.png" PORTUGAL EXTRA,PT | Alma  Lusa
+http://chiclets.pm:8080/961meh/205519167/127488
+#EXTINF:-1 tvg-id="" ---●★| PORTUGAL DOCUMENTÁRIA |★●--- tvg-logo="https://seeklogo.com/images/F/flag___bandeira_Portugal-logo-34D2D6FC45-seeklogo.com.png" PORTUGAL EXTRA,---●★| Portugal Documentária |★●---
+http://chiclets.pm:8080/961meh/205519167/127478
+#EXTINF:-1 tvg-id="blaze.pt" PT | BREAK tvg-logo="https://amcbreak.pt/wp-content/themes/amcbreak/img/logo_break.png" PORTUGAL EXTRA,PT | Break
+http://chiclets.pm:8080/961meh/205519167/127465
+#EXTINF:-1 tvg-id="" PT | BREAK FHD tvg-logo="" PORTUGAL EXTRA,PT | Break FHD
+http://chiclets.pm:8080/961meh/205519167/127464
+#EXTINF:-1 tvg-id="cacaepesca.pt" PT | CAÇA E PESCA FHD tvg-logo="https://i.imgur.com/xpqAcSz.png" PORTUGAL EXTRA,PT | Caça e Pesca FHD
+http://chiclets.pm:8080/961meh/205519167/127459
+#EXTINF:-1 tvg-id="" PT | CAÇAVISION tvg-logo="https://i.imgur.com/i0IDqQd.png" PORTUGAL EXTRA,PT | Caçavision
+http://chiclets.pm:8080/961meh/205519167/127458
+#EXTINF:-1 tvg-id="" ---●★| PORTUGAL INTERNACIONAIS |★●--- tvg-logo="https://cm-inter.xyz/ex/pt2.png" PORTUGAL EXTRA,---●★| Portugal Internacionais |★●---
+http://chiclets.pm:8080/961meh/205519167/127457
+#EXTINF:-1 tvg-id="" PT | TCV INTERNACIONAL tvg-logo="https://i.postimg.cc/ssMhJxZC/c7234-tcvinternacionallogo1.png" PORTUGAL EXTRA,PT | Tcv Internacional
+http://chiclets.pm:8080/961meh/205519167/127456
+#EXTINF:-1 tvg-id="cancaonova.pt" PT | CANÇAO NOVA tvg-logo="https://i.imgur.com/1EGWuDA.png" PORTUGAL EXTRA,PT | Cançao Nova
+http://chiclets.pm:8080/961meh/205519167/127449
+#EXTINF:-1 tvg-id="tv5monde.pt" PT | TV5 MONDE tvg-logo="https://i.imgur.com/hmk0xFB.png" PORTUGAL EXTRA,PT | TV5 Monde
+http://chiclets.pm:8080/961meh/205519167/127448
+#EXTINF:-1 tvg-id="skynews.pt" PT | SKY NEWS tvg-logo="https://imgur.com/gYsFQ0H.png" PORTUGAL EXTRA,PT | Sky News
+http://chiclets.pm:8080/961meh/205519167/127447
+#EXTINF:-1 tvg-id="" PT | FRANCE 24 tvg-logo="http://live21.site/LOGOS/PiconsPT/France_24.png" PORTUGAL EXTRA,PT | France 24
+http://chiclets.pm:8080/961meh/205519167/127446
+#EXTINF:-1 tvg-id="" PT | M6 FRANCE tvg-logo="" PORTUGAL EXTRA,PT | M6 France
+http://chiclets.pm:8080/961meh/205519167/127445
+#EXTINF:-1 tvg-id="" PT | CNBC tvg-logo="" PORTUGAL EXTRA,PT | CNBC
+http://chiclets.pm:8080/961meh/205519167/127444
+#EXTINF:-1 tvg-id="" PT | BBC WORLD NEWS tvg-logo="" PORTUGAL EXTRA,PT | BBC World News
+http://chiclets.pm:8080/961meh/205519167/127443
+#EXTINF:-1 tvg-id="" PT | TVE 24H tvg-logo="https://i.imgur.com/iS8gvHb.png" PORTUGAL EXTRA,PT | Tve 24h
+http://chiclets.pm:8080/961meh/205519167/127439
+#EXTINF:-1 tvg-id="" PT | TVE INTERNACIONAL tvg-logo="https://i.imgur.com/EXe49t7.png" PORTUGAL EXTRA,PT | TVE Internacional
+http://chiclets.pm:8080/961meh/205519167/127438
+#EXTINF:-1 tvg-id="" PT | TV GALICIA tvg-logo="https://i.imgur.com/KSR7gjA.png" PORTUGAL EXTRA,PT | Tv Galicia
+http://chiclets.pm:8080/961meh/205519167/127437
+#EXTINF:-1 tvg-id="" PT | FATIMA TV tvg-logo="" PORTUGAL EXTRA,PT | Fatima TV
+http://chiclets.pm:8080/961meh/205519167/127432
+#EXTINF:-1 tvg-id="" PT |  MEO VIDEOCLUBE tvg-logo="" PORTUGAL EXTRA,PT |  MEO VideoClube
+http://chiclets.pm:8080/961meh/205519167/127430
+#EXTINF:-1 tvg-id="" PT | S+ tvg-logo="" PORTUGAL EXTRA,PT | S+
+http://chiclets.pm:8080/961meh/205519167/127429
+#EXTINF:-1 tvg-id="" PT | TRAVEL XP tvg-logo="" PORTUGAL EXTRA,PT | TRAVEL XP
+http://chiclets.pm:8080/961meh/205519167/127428
+#EXTINF:-1 tvg-id="" TCV INTERNACIONAL tvg-logo="http://live21.site/LOGOS/picons/TCV.png" PORTUGAL GENERALISTAS,TCV Internacional
+http://chiclets.pm:8080/961meh/205519167/99915
+#EXTINF:-1 tvg-id="tviReserva1" PT EXTRA: V+ HEVC tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/tfvqm6/tvi-ficcao.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL GENERALISTAS,PT EXTRA: V+ hevc
+http://chiclets.pm:8080/961meh/205519167/96430
+#EXTINF:-1 tvg-id="TVIFiccao" V+ HD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/tfvqm6/tvi-ficcao.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL GENERALISTAS,V+ HD
+http://chiclets.pm:8080/961meh/205519167/7286
+#EXTINF:-1 tvg-id="" ALJAZEERA tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/aljazeera-logo-255x140.png" PORTUGAL NOTICIAS,ALJAZEERA
+http://chiclets.pm:8080/961meh/205519167/63617
+#EXTINF:-1 tvg-id="TVGALIZA" TV GALICIA tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/k6gi1l/tvgal.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DOCUMENTARIOS,TV GALICIA
+http://chiclets.pm:8080/961meh/205519167/59977
+#EXTINF:-1 tvg-id="TVEi" TVE INTERNACIONAL tvg-logo="https://2.bp.blogspot.com/-6V6m57MGSeE/TyVjJKm0OBI/AAAAAAAABZs/1Hyr68-BYfs/s1600/TVE+logo.png" PORTUGAL GENERALISTAS,TVE INTERNACIONAL
+http://chiclets.pm:8080/961meh/205519167/7384
+#EXTINF:-1 tvg-id="NGC" NAT GEO HD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/inwwny/national-geographic.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DOCUMENTARIOS,NAT GEO HD
+http://chiclets.pm:8080/961meh/205519167/7393
+#EXTINF:-1 tvg-id="" S+ SAUDE tvg-logo="https://i1.sndcdn.com/avatars-000852431569-sr9frn-original.jpg" PORTUGAL GENERALISTAS,S+ SAUDE
+http://chiclets.pm:8080/961meh/205519167/63614
+#EXTINF:-1 tvg-id="Deutsche Welle" DEUTCHE WELLE tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" PORTUGAL NOTICIAS,DEUTCHE WELLE
+http://chiclets.pm:8080/961meh/205519167/59970
+#EXTINF:-1 tvg-id="TV5" TV5 MONDE tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/rnlolb/tv5.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL NOTICIAS,TV5 MONDE
+http://chiclets.pm:8080/961meh/205519167/59972
+#EXTINF:-1 tvg-id="AXN" AXN tvg-logo="https://3.bp.blogspot.com/-zpEr55Lzwlg/WB8tbSddskI/AAAAAAAAFUA/HDG64eBmlqgbuvTtZvEIvGWOkZYfd1zVQCLcB/s1600/AXN.PNG" PORTUGAL CINEMA,AXN
+http://chiclets.pm:8080/961meh/205519167/7349
+#EXTINF:-1 tvg-id="FOXHD" STAR tvg-logo="https://1.bp.blogspot.com/-dnPZwdWj5s4/TljSOAwjvaI/AAAAAAAAAd8/Y5sYwXzkpEQ/s1600/Fox+HD.png" PORTUGAL CINEMA,STAR
+http://chiclets.pm:8080/961meh/205519167/51010
+#EXTINF:-1 tvg-id="FOXHD" STAR HD tvg-logo="https://1.bp.blogspot.com/-dnPZwdWj5s4/TljSOAwjvaI/AAAAAAAAAd8/Y5sYwXzkpEQ/s1600/Fox+HD.png" PORTUGAL CINEMA,STAR HD
+http://chiclets.pm:8080/961meh/205519167/7361
+#EXTINF:-1 tvg-id="FOXLIFEHD" STAR LIFE tvg-logo="https://1.bp.blogspot.com/-yI9qvOgfcXo/U96OjnV_1eI/AAAAAAAAEno/XfQxgDnzREY/s1600/FOX+Life.png" PORTUGAL CINEMA,STAR LIFE
+http://chiclets.pm:8080/961meh/205519167/51011
+#EXTINF:-1 tvg-id="FOXLIFEHD" STAR LIFE HD tvg-logo="https://1.bp.blogspot.com/-yI9qvOgfcXo/U96OjnV_1eI/AAAAAAAAEno/XfQxgDnzREY/s1600/FOX+Life.png" PORTUGAL CINEMA,STAR LIFE HD
+http://chiclets.pm:8080/961meh/205519167/7362
+#EXTINF:-1 tvg-id="FOXCRIMEHD" STAR CRIME tvg-logo="https://www.guiaprogramacao.com/img/foxmh.png" PORTUGAL CINEMA,STAR CRIME
+http://chiclets.pm:8080/961meh/205519167/51012
+#EXTINF:-1 tvg-id="FOXCRIMEHD" STAR CRIME HD tvg-logo="https://www.guiaprogramacao.com/img/foxmh.png" PORTUGAL CINEMA,STAR CRIME HD
+http://chiclets.pm:8080/961meh/205519167/7363
+#EXTINF:-1 tvg-id="FOXMOVIESHD" STAR MOVIES tvg-logo="https://www.guiaprogramacao.com/img/foxmh.png" PORTUGAL CINEMA,STAR MOVIES
+http://chiclets.pm:8080/961meh/205519167/7364
+#EXTINF:-1 tvg-id="FOXMOVIESHD" STAR MOVIES HD tvg-logo="https://www.guiaprogramacao.com/img/foxmh.png" PORTUGAL CINEMA,STAR MOVIES HD
+http://chiclets.pm:8080/961meh/205519167/7365
+#EXTINF:-1 tvg-id="FXCOMEDY" STAR COMEDY tvg-logo="https://www.guiaprogramacao.com/img/foxmh.png" PORTUGAL CINEMA,STAR COMEDY
+http://chiclets.pm:8080/961meh/205519167/7366
+#EXTINF:-1 tvg-id="FXCOMEDY" STAR COMEDY HD tvg-logo="https://www.guiaprogramacao.com/img/foxmh.png" PORTUGAL CINEMA,STAR COMEDY HD
+http://chiclets.pm:8080/961meh/205519167/7367
+#EXTINF:-1 tvg-id="" CINE 24/24 tvg-logo="https://st2.depositphotos.com/3554337/10943/i/600/depositphotos_109439950-stock-photo-red-open-24-hours-icon.jpg" PORTUGAL CINEMA,Cine 24/24
+http://chiclets.pm:8080/961meh/205519167/50164
+#EXTINF:-1 tvg-id="" CINE 24/24 CRIANÇAS tvg-logo="https://images2.imgbox.com/57/88/1A5bq50X_o.jpg" PORTUGAL CINEMA,Cine 24/24 Crianças
+http://chiclets.pm:8080/961meh/205519167/55837
+#EXTINF:-1 tvg-id="SPORTV +" SPTV + tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/sxul2m/sporttv-mais-rebrandpng.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV +
+http://chiclets.pm:8080/961meh/205519167/7299
+#EXTINF:-1 tvg-id="SPORTV +" SPTV + HD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/sxul2m/sporttv-mais-rebrandpng.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV + HD
+http://chiclets.pm:8080/961meh/205519167/7300
+#EXTINF:-1 tvg-id="SPORT.TV 2" SPTV 2 tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/frxm1x/sporttv-2-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 2
+http://chiclets.pm:8080/961meh/205519167/19596
+#EXTINF:-1 tvg-id="SPORT.TV 2" SPTV 2 HD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/frxm1x/sporttv-2-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 2 HD
+http://chiclets.pm:8080/961meh/205519167/7305
+#EXTINF:-1 tvg-id="SPORT.TV 2" SPTV 2 FHD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/frxm1x/sporttv-2-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 2 FHD
+http://chiclets.pm:8080/961meh/205519167/27830
+#EXTINF:-1 tvg-id="SPORT.TV 3" SPTV 3 HD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/yxr26h/sporttv-3-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 3 HD
+http://chiclets.pm:8080/961meh/205519167/7308
+#EXTINF:-1 tvg-id="SPORT.TV 3" SPTV 3 FHD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/yxr26h/sporttv-3-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 3 FHD
+http://chiclets.pm:8080/961meh/205519167/27827
+#EXTINF:-1 tvg-id="SPORT.TV 4" SPTV 4 tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/kdemzj/sporttv-4-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 4
+http://chiclets.pm:8080/961meh/205519167/7310
+#EXTINF:-1 tvg-id="SPORT.TV 4" SPTV 4 HD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/kdemzj/sporttv-4-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 4 HD
+http://chiclets.pm:8080/961meh/205519167/7311
+#EXTINF:-1 tvg-id="SPORT.TV 4" SPTV 4 FHD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/kdemzj/sporttv-4-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 4 FHD
+http://chiclets.pm:8080/961meh/205519167/27824
+#EXTINF:-1 tvg-id="SPORT.TV 5" SPTV 5 tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/rhm9ej/sporttv-5-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 5
+http://chiclets.pm:8080/961meh/205519167/7313
+#EXTINF:-1 tvg-id="SPORT.TV 5" SPTV 5 HD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/rhm9ej/sporttv-5-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 5 HD
+http://chiclets.pm:8080/961meh/205519167/7314
+#EXTINF:-1 tvg-id="SPORT.TV 5" SPTV 5 FHD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/rhm9ej/sporttv-5-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 5 FHD
+http://chiclets.pm:8080/961meh/205519167/27823
+#EXTINF:-1 tvg-id="SPORT.TVHG 6 HD" SPTV 6 HD tvg-logo="https://primary.jwwb.nl/public/w/u/s/temp-vayxpxkwxbigodvjtnmo/dgywgd/sporttv-6-rebrand.png?enable-io=true&fit=bounds&width=150&height=150" PORTUGAL DESPORTO,SPTV 6 HD
+http://chiclets.pm:8080/961meh/205519167/42781
+#EXTINF:-1 tvg-id="SPORTVnba" SPTV NBA HD tvg-logo="https://www.guiaprogramacao.com/img/nbatvhd.png" PORTUGAL DESPORTO,SPTV NBA HD
+http://chiclets.pm:8080/961meh/205519167/7316
+#EXTINF:-1 tvg-id="SIC Novelas" REDBULL TV HD tvg-logo="https://thestreamable.com/media/pages/video-streaming/red-bull-tv/31885f9fe9-1676920728/red-bull-tv-banner-1536x864-crop.png" PORTUGAL DESPORTO,REDBULL TV HD
+http://chiclets.pm:8080/961meh/205519167/59978
+#EXTINF:-1 tvg-id="" PT- PORTUGAL NÃO ESTÁ À VENDA - 2019 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMhzzpKyvZoM4g9saTPz1rp9z2l.jpg" PT MAIS ANTIGOS,PT- Portugal Não Está à Venda - 2019
+http://chiclets.pm:8080/movie/961meh/205519167/77430.mp4
+#EXTINF:-1 tvg-id="" PT- PORTUGAL S.A. - 2004 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vduScIlXpxTE0c6zGhvJNx4YUbX.jpg" PT MAIS ANTIGOS,PT- Portugal S.A. - 2004
+http://chiclets.pm:8080/movie/961meh/205519167/77431.mp4
+#EXTINF:-1 tvg-id="" PT- PORTUGARU SAN - O SR. PORTUGAL EM TOKUSHIMA - 1993 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbEWccPtiptoaeTMrUaf6jvnH0j.jpg" PT MAIS ANTIGOS,PT- Portugaru San - O Sr. Portugal em Tokushima - 1993
+http://chiclets.pm:8080/movie/961meh/205519167/77432.mp4
+#EXTINF:-1 tvg-id="" PT- A PINCH OF PORTUGAL - 2023 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kezARoHkqxe9rwooYs2od1GgdOf.jpg" PT 2023,PT- A Pinch of Portugal - 2023
+http://chiclets.pm:8080/movie/961meh/205519167/101002.mkv
+#EXTINF:-1 tvg-id="" OPÉRATION PORTUGAL - 2021 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2268V5XBtpWJ3oGnvn0p6XT3cEu.jpg" FR NOUVEAUTEES,Opération Portugal - 2021
+http://chiclets.pm:8080/movie/961meh/205519167/109493.mkv
+#EXTINF:-1 tvg-id="" OPÉRATION PORTUGAL 2 - LA VIE DE CHÂTEAU - 2024 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipm8H0UNidY25p4IJDRpWRwVf3g.jpg" FR NOUVEAUTEES,Opération Portugal 2 - La Vie De Château - 2024
+http://chiclets.pm:8080/movie/961meh/205519167/118262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 1 HD" tvg-logo="http://iptv-tn.com:8080/images/920381108317386d5faa0f842a5366dc.png" group-title="Espanha",ES: La 1 HD
+http://chiclets.pm:8080/961meh/205519167/119506
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 2 HD" tvg-logo="http://iptv-tn.com:8080/images/922e86e4739e99bdd544c8a0dae3b64c.png" group-title="Espanha",ES: La 2 HD
+http://chiclets.pm:8080/961meh/205519167/119505
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://iptv-tn.com:8080/images/e803eeea891c14d1ae118ceadb987249.png" group-title="Espanha",ES: ANTENA 3 HD
+http://chiclets.pm:8080/961meh/205519167/119504
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/786px-Logotipo_de_Cuatro.svg.png" group-title="Espanha",ES: CUATRO HD
+http://chiclets.pm:8080/961meh/205519167/119503
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO HD" tvg-logo="http://iptv-tn.com:8080/images/db9ce986e75f3ce9dc7348f88c537d76.png" group-title="Espanha",ES: TELECINCO HD
+http://chiclets.pm:8080/961meh/205519167/119502
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA HD" tvg-logo="http://iptv-tn.com:8080/images/9b99d67eaeda8c078d3d5802b6479aca.png" group-title="Espanha",ES: LA SEXTA HD
+http://chiclets.pm:8080/961meh/205519167/119501
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LlOdo5Xu00rTXvos0bgiz17X9Aq4KfzCnyEy1tu9EKkQ.png" group-title="Espanha",ES: NOVA
+http://chiclets.pm:8080/961meh/205519167/119500
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Neox_2010.svg/632px-Neox_2010.svg.png" group-title="Espanha",ES: NEOX
+http://chiclets.pm:8080/961meh/205519167/119499
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGArcbaX_jMwD0aImB9uh2KBuard9zwOrfD-CAg6LvxzADz4nmNpzMRexMDnxn487Y.png" group-title="Espanha",ES: ARAGON TV
+http://chiclets.pm:8080/961meh/205519167/119498
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR HD" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGQdpc1Y9bgAmUWMmZgWexXDO9Y2b-L3YTxfTWdY_sl1gWGc0mhgCzH8NIH7ge_M1F03u0famka9DOCBDu_rcUwSA89L6oXxQyel-YYIvcqUx-Zw6k-scu7QVc8t8-uT2k.png" group-title="Espanha",ES: CANAL SUR HD
+http://chiclets.pm:8080/961meh/205519167/119497
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGQdpc1Y9bgAmUWMmZgWexXHvxYJdwltvPP9zcwdErMpci2eq-g8lAheuje3Fixspz2QOYQBtzXYqtXrxQ3oShEmw0eGvUTtoFLHsFXfRXu_E_lFtk0DjtEiMyLjM3DqB8.png" group-title="Espanha",ES: ETB 1
+http://chiclets.pm:8080/961meh/205519167/119496
+#EXTINF:-1 tvg-id="" tvg-name="ES: EITB Basque" tvg-logo="" group-title="Espanha",ES: EITB Basque
+http://chiclets.pm:8080/961meh/205519167/119495
+#EXTINF:-1 tvg-id="" tvg-name="ES: 13 Tv HD" tvg-logo="" group-title="Espanha",ES: 13 Tv HD
+http://chiclets.pm:8080/961meh/205519167/119494
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE 24H" tvg-logo="http://equilibry.top:80/images/Rp237-YUAWEAIOmeIVpuUcGTl8tiSn0LD2v4b43JPepjIxbLyp5V-gFq6vjhab_9wfH7aiB7F3JRZ4YofFZ412zht5uttvdvWV1Cf7gJ-9quFYafHiEjXz6ndEI0UlRE.png" group-title="Espanha",ES: TVE 24H
+http://chiclets.pm:8080/961meh/205519167/119493
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE INT." tvg-logo="https://asiagrandiptv.us/logo//tveinternacional.png" group-title="Espanha",ES: TVE INT.
+http://chiclets.pm:8080/961meh/205519167/119492
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 HD" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYE_SZkMXZwi7v26W5vrbcdZcVBD74ZrMIyWLg1ZRuCcmn0jASwP5br69-qWdGmoQIg.png" group-title="Espanha",ES: TV3 HD
+http://chiclets.pm:8080/961meh/205519167/119491
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE TV" tvg-logo="https://localrestream.xyz:443/images/GXLyrWkmxabVKDQyKkUhLvVMq9sv4yyBpLe0Ji8S-kQksLYRGEnaGVuhcf11DpeIkmShA_uEmDFDx2CQ8sFyWWVojEpkAcj49EwyEuCvbvkfEY1Cq-m3K_QJfFJyZcJJGmNGQssvzDRiQem6mn8o-Bh733U0qCJ2MPK_ypypM2rzR31fzMAInb64LoczPMM_zP668MReoHT3UF5NbNdWuGcTpqlcQhE7fvW3_QrgYYg.png" group-title="Espanha",ES: TRECE TV
+http://chiclets.pm:8080/961meh/205519167/119490
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Divinity_2012.png/300px-Divinity_2012.png" group-title="Espanha",ES: DIVINITY
+http://chiclets.pm:8080/961meh/205519167/119489
+#EXTINF:-1 tvg-id="" tvg-name="ES: ---- ESPANA M+ SPORT ----" tvg-logo="" group-title="Espanha",ES: ---- ESPANA M+ SPORT ----
+http://chiclets.pm:8080/961meh/205519167/119488
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #VAMOS HD" tvg-logo="http://belgium-tv.dyndns.tv:8888/images/U3CN4WQLydR53xNUwDHqTk5x9uxEBaz_z7IL-9246jaChLUA1nnavFkDbgXfWhkE.png" group-title="Espanha",ES: M+ #VAMOS HD
+http://chiclets.pm:8080/961meh/205519167/119487
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ VAMOS BAR" tvg-logo="" group-title="Espanha",ES: MOVISTAR+ VAMOS BAR
+http://chiclets.pm:8080/961meh/205519167/119486
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL HD" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LndyQ6FbMpTaUY5ykTeLtm4ni-fwBa5Q-gB8MPsnmNfq.png" group-title="Espanha",ES: GOL HD
+http://chiclets.pm:8080/961meh/205519167/119485
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL Mundial HD" tvg-logo="https://asiagrandiptv.us/logo//gol mundial.png" group-title="Espanha",ES: GOL Mundial HD
+http://chiclets.pm:8080/961meh/205519167/119484
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga Tv HD" tvg-logo="https://asiagrandiptv.us/logo//M+LaLigaTv.png" group-title="Espanha",ES: DAZN LaLiga Tv HD
+http://chiclets.pm:8080/961meh/205519167/119483
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn LaLiga Tv 2 HD" tvg-logo="https://asiagrandiptv.us/logo//DAZNLALIGA2.png" group-title="Espanha",ES: Dazn LaLiga Tv 2 HD
+http://chiclets.pm:8080/961meh/205519167/119482
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv
+http://chiclets.pm:8080/961meh/205519167/119481
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv HD" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv HD
+http://chiclets.pm:8080/961meh/205519167/119480
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 1 HD" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv 1 HD
+http://chiclets.pm:8080/961meh/205519167/119479
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+  LaLiga Tv 2 HD" tvg-logo="" group-title="Espanha",ES: M+  LaLiga Tv 2 HD
+http://chiclets.pm:8080/961meh/205519167/119478
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 3 HD" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv 3 HD
+http://chiclets.pm:8080/961meh/205519167/119477
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 5" tvg-logo="https://asiagrandiptv.us/logo//M+LALIGA.png" group-title="Espanha",ES: M+ LaLiga Tv 5
+http://chiclets.pm:8080/961meh/205519167/119476
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 6" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv 6
+http://chiclets.pm:8080/961meh/205519167/119475
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 7" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv 7
+http://chiclets.pm:8080/961meh/205519167/119474
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 8" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv 8
+http://chiclets.pm:8080/961meh/205519167/119473
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 9" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv 9
+http://chiclets.pm:8080/961meh/205519167/119472
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 10" tvg-logo="https://asiagrandiptv.us/logo//M+LALIGA.png" group-title="Espanha",ES: M+ LaLiga Tv 10
+http://chiclets.pm:8080/961meh/205519167/119471
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga 123 Tv" tvg-logo="" group-title="Espanha",ES: M+ LaLiga 123 Tv
+http://chiclets.pm:8080/961meh/205519167/119470
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv BAR HD" tvg-logo="http://equilibry.top:80/images/Rp237-YUAWEAIOmeIVpuUcGTl8tiSn0LD2v4b43JPeqAJPb9t0D-_GSJWmSgUduJcOctcSK-5lwtkySusDiYECQYOWm0OUH8K682-fuDE0oA_Tj14k4lqNUB0S8a8PQ_v-hZpB3z3BHIOAJEsQpGLX-CzoqpFxfx_mTSFxjkrRwn-r4nqQn0FM-TL6rFLlvQU21HI8lP1_miRHPLp9dTdQ.png" group-title="Espanha",ES: M+ LaLiga Tv BAR HD
+http://chiclets.pm:8080/961meh/205519167/119469
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv BAR  1" tvg-logo="http://starsat123.com:8080/images/86193f53580370418aff0e413d06836a.png" group-title="Espanha",ES: M+ LaLiga Tv BAR  1
+http://chiclets.pm:8080/961meh/205519167/119468
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv BAR 2" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv BAR 2
+http://chiclets.pm:8080/961meh/205519167/119467
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv BAR 3" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv BAR 3
+http://chiclets.pm:8080/961meh/205519167/119466
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv BAR 4" tvg-logo="" group-title="Espanha",ES: M+ LaLiga Tv BAR 4
+http://chiclets.pm:8080/961meh/205519167/119465
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga SmartBank Tv HD" tvg-logo="https://asiagrandiptv.us/logo//M+LaLigaSmartBankTv.png" group-title="Espanha",ES: M+ LaLiga SmartBank Tv HD
+http://chiclets.pm:8080/961meh/205519167/119464
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga SmartBank Tv 2 HD" tvg-logo="https://asiagrandiptv.us/logo//M+LaLigaSmartBankTv.png" group-title="Espanha",ES: M+ LaLiga SmartBank Tv 2 HD
+http://chiclets.pm:8080/961meh/205519167/119463
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga De Campeones
+http://chiclets.pm:8080/961meh/205519167/119462
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones HD" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga De Campeones HD
+http://chiclets.pm:8080/961meh/205519167/119461
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 1" tvg-logo="https://i.postimg.cc/bwTsrm5B/1200px-Movistar-Liga-de-Campeones-svg.png" group-title="Espanha",ES: M+ Liga De Campeones 1
+http://chiclets.pm:8080/961meh/205519167/119460
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 1 HD" tvg-logo="https://i.postimg.cc/bwTsrm5B/1200px-Movistar-Liga-de-Campeones-svg.png" group-title="Espanha",ES: M+ Liga De Campeones 1 HD
+http://chiclets.pm:8080/961meh/205519167/119459
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 2 HD" tvg-logo="http://equilibry.top:80/images/Rp237-YUAWEAIOmeIVpuUcGTl8tiSn0LD2v4b43JPeoo2TcY3_Ax6ek9EyQb1YFeLMOiqTj6looWWKIOWDdviUJtsdObP_49e0YsvfJkQPnYKQ1aXArcLYQ3tgLpDo7IgZopRk6sMyqvr556xwkeSFKBMzWSnu-fpEu31jBcwpStDCsVpjSiuP4eRFaHG1mIlct68dKfVFEVpz0qKGkFoA.png" group-title="Espanha",ES: M+ Liga De Campeones 2 HD
+http://chiclets.pm:8080/961meh/205519167/119458
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 2 ( LIVE EVENT )" tvg-logo="https://cm-inter.xyz/Logos/SPAIN/Movistar_Liga_de_Campeones_2.png" group-title="Espanha",ES: M+ Liga De Campeones 2 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119457
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 3 ( LIVE EVENT )" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga De Campeones 3 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119456
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 4 ( LIVE EVENT )" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga De Campeones 4 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119455
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 5 ( LIVE EVENT )" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga De Campeones 5 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119454
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 6 ( LIVE EVENT )" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga De Campeones 6 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119453
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 7 ( LIVE EVENT )" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga De Campeones 7 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119452
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 8 ( LIVE EVENT )" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga De Campeones 8 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119451
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga de Campeones 13 ( LIVE EVENT )" tvg-logo="http://restream2023.ddns.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjOYbwMpjl1jz8VPuLdKwnqJDiQJXtzrHa-Q6Y6DCBaR2xcwlXR5hZq86qGTNfBCLbnJ9UaBFhoJEksG5hla60yNAXvchRj0TtSmpwuV0e5b_XZC0TKT0ojI0ZJU5EIaLV.png" group-title="Espanha",ES: M+ Liga de Campeones 13 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119450
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga de Campeones 14 ( LIVE EVENT )" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga de Campeones 14 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119449
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga de Campeones 15 ( LIVE EVENT )" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga de Campeones 15 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119448
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga de Campeones 16 ( LIVE EVENT )" tvg-logo="https://asiagrandiptv.us/logo//M+LIGADECAMPEONES.png" group-title="Espanha",ES: M+ Liga de Campeones 16 ( LIVE EVENT )
+http://chiclets.pm:8080/961meh/205519167/119447
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes" tvg-logo="https://asiagrandiptv.us/logo//M+DEPORTES.png" group-title="Espanha",ES: M+ Deportes
+http://chiclets.pm:8080/961meh/205519167/119446
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes HD" tvg-logo="https://asiagrandiptv.us/logo//M+DEPORTES.png" group-title="Espanha",ES: M+ Deportes HD
+http://chiclets.pm:8080/961meh/205519167/119445
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 6 HD" tvg-logo="https://asiagrandiptv.us/logo//M+DEPORTES.png" group-title="Espanha",ES: M+ Deportes 6 HD
+http://chiclets.pm:8080/961meh/205519167/119444
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 5 HD" tvg-logo="https://asiagrandiptv.us/logo//M+DEPORTES.png" group-title="Espanha",ES: M+ Deportes 5 HD
+http://chiclets.pm:8080/961meh/205519167/119443
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 4 HD" tvg-logo="https://asiagrandiptv.us/logo//M+DEPORTES4.png" group-title="Espanha",ES: M+ Deportes 4 HD
+http://chiclets.pm:8080/961meh/205519167/119442
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 3 HD" tvg-logo="https://asiagrandiptv.us/logo//M+DEPORTES.png" group-title="Espanha",ES: M+ Deportes 3 HD
+http://chiclets.pm:8080/961meh/205519167/119441
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 2 HD" tvg-logo="https://asiagrandiptv.us/logo//M+DEPORTES.png" group-title="Espanha",ES: M+ Deportes 2 HD
+http://chiclets.pm:8080/961meh/205519167/119440
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes 1 HD" tvg-logo="" group-title="Espanha",ES: M+ Deportes 1 HD
+http://chiclets.pm:8080/961meh/205519167/119439
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF HD" tvg-logo="https://asiagrandiptv.us/logo//golfchannel.png" group-title="Espanha",ES: M+ GOLF HD
+http://chiclets.pm:8080/961meh/205519167/119438
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="Espanha",ES: DAZN F1 1 HD
+http://chiclets.pm:8080/961meh/205519167/119437
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="https://asiagrandiptv.us/logo//dazn1.png" group-title="Espanha",ES: DAZN 1 HD
+http://chiclets.pm:8080/961meh/205519167/119436
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="https://asiagrandiptv.us/logo//daznbar2.png" group-title="Espanha",ES: DAZN 2 HD
+http://chiclets.pm:8080/961meh/205519167/119435
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 HD" tvg-logo="https://asiagrandiptv.us/logo//dazn3.png" group-title="Espanha",ES: DAZN 3 HD
+http://chiclets.pm:8080/961meh/205519167/119434
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4 HD" tvg-logo="https://asiagrandiptv.us/logo//dazn4.png" group-title="Espanha",ES: DAZN 4 HD
+http://chiclets.pm:8080/961meh/205519167/119433
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Partidazo HD (Event Only)" tvg-logo="" group-title="Espanha",ES: Movistar Partidazo HD (Event Only)
+http://chiclets.pm:8080/961meh/205519167/119432
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 HD" tvg-logo="https://localrestream.xyz:443/images/dsAt8cMDBjbP3mVNdeYR4ZXw599uYhuiDh62WYcA3kbDeLRIjJtzmvYNFSVTmkoC.png" group-title="Espanha",ES: Eurosport 1 HD
+http://chiclets.pm:8080/961meh/205519167/119431
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 2 HD" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="Espanha",ES: Eurosport 2 HD
+http://chiclets.pm:8080/961meh/205519167/119430
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid HD" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8Lht_hsFSFVo1oNnmy3RnOVTt7-23-rXeJmjik_oI4I5o.png" group-title="Espanha",ES: Real Madrid HD
+http://chiclets.pm:8080/961meh/205519167/119429
+#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV HD" tvg-logo="https://asiagrandiptv.us/logo//barcatv.png" group-title="Espanha",ES: Barca TV HD
+http://chiclets.pm:8080/961meh/205519167/119428
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte HD" tvg-logo="http://justip.info:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjWdxZUrvKPVyWdrcG9W0PiAG4OFjyExI_sEkYpJPniGShuITcyuG7EHUEAFkwVt0lSM8qfi_AlLJCdML7DNI1lw.png" group-title="Espanha",ES: Teledeporte HD
+http://chiclets.pm:8080/961meh/205519167/119427
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/1510px-Logo_Movistar.svg.png" group-title="Espanha",ES: MOVISTAR+ FORMULA 1 HD
+http://chiclets.pm:8080/961meh/205519167/119426
+#EXTINF:-1 tvg-id="" tvg-name="ES: ---- ESPANA M+ CINEMA ----" tvg-logo="" group-title="Espanha",ES: ---- ESPANA M+ CINEMA ----
+http://chiclets.pm:8080/961meh/205519167/119425
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://asiagrandiptv.us/logo//M+ESTRENOS.png" group-title="Espanha",ES: M+ ESTRENOS
+http://chiclets.pm:8080/961meh/205519167/119424
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS HD" tvg-logo="https://asiagrandiptv.us/logo//M+ESTRENOS.png" group-title="Espanha",ES: M+ ESTRENOS HD
+http://chiclets.pm:8080/961meh/205519167/119423
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS 2 HD" tvg-logo="https://asiagrandiptv.us/logo//M+ESTRENOS.png" group-title="Espanha",ES: M+ ESTRENOS 2 HD
+http://chiclets.pm:8080/961meh/205519167/119422
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ACCION" tvg-logo="https://asiagrandiptv.us/logo//M+ACCION.png" group-title="Espanha",ES: M+ ACCION
+http://chiclets.pm:8080/961meh/205519167/119421
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ACCION HD" tvg-logo="https://asiagrandiptv.us/logo//M+ACCION.png" group-title="Espanha",ES: M+ ACCION HD
+http://chiclets.pm:8080/961meh/205519167/119420
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Comedia" tvg-logo="https://asiagrandiptv.us/logo//movistarcomedia.png" group-title="Espanha",ES: M+ Comedia
+http://chiclets.pm:8080/961meh/205519167/119419
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COMEDIA HD" tvg-logo="https://asiagrandiptv.us/logo//movistarcomedia.png" group-title="Espanha",ES: M+ COMEDIA HD
+http://chiclets.pm:8080/961meh/205519167/119418
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DRAMA" tvg-logo="https://asiagrandiptv.us/logo//M+DRAMA.png" group-title="Espanha",ES: M+ DRAMA
+http://chiclets.pm:8080/961meh/205519167/119417
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DRAMA HD" tvg-logo="https://asiagrandiptv.us/logo//MOVISTAR DRAMA.png" group-title="Espanha",ES: M+ DRAMA HD
+http://chiclets.pm:8080/961meh/205519167/119416
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ FEST HD" tvg-logo="https://asiagrandiptv.us/logo//M+FEST.png" group-title="Espanha",ES: M+ FEST HD
+http://chiclets.pm:8080/961meh/205519167/119415
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLASICOS HD" tvg-logo="" group-title="Espanha",ES: M+ CLASICOS HD
+http://chiclets.pm:8080/961meh/205519167/119414
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="http://live21.site/LOGOS/picons/HOLLYWOOD_HD.png" group-title="Espanha",ES: HOLLYWOOD HD
+http://chiclets.pm:8080/961meh/205519167/119413
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD" tvg-logo="http://iptv-tn.com:8080/images/d990b707d8488499af48fe3ec7d29cc7.png" group-title="Espanha",ES: TCM HD
+http://chiclets.pm:8080/961meh/205519167/119412
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD" tvg-logo="http://starsat123.com:8080/images/4b33f4548b97b244d056dc506b7268d9.png" group-title="Espanha",ES: TNT HD
+http://chiclets.pm:8080/961meh/205519167/119411
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGQdpc1Y9bgAmUWMmZgWexXn8G3chLgSwJHjzu08jZ3PvfmD5-2fGgpU0bt-QZimmUtaVOotBVWvI4OcqS_mPB0j2Xdi3sEPhQaVR2n4M_MpJDgY87Ci0Der3RW5fgrkF0.png" group-title="Espanha",ES: ENERGY
+http://chiclets.pm:8080/961meh/205519167/119410
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #0 HD" tvg-logo="https://asiagrandiptv.us/logo//0image.png" group-title="Espanha",ES: M+ #0 HD
+http://chiclets.pm:8080/961meh/205519167/119409
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SERIES HD" tvg-logo="https://asiagrandiptv.us/logo//M+SERIES.jpg" group-title="Espanha",ES: M+ SERIES HD
+http://chiclets.pm:8080/961meh/205519167/119408
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SERIES 2 HD" tvg-logo="https://asiagrandiptv.us/logo//M+SERIES2.png" group-title="Espanha",ES: M+ SERIES 2 HD
+http://chiclets.pm:8080/961meh/205519167/119407
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 SERIES HD" tvg-logo="https://asiagrandiptv.us/logo/a3series.png" group-title="Espanha",ES: ANTENA 3 SERIES HD
+http://chiclets.pm:8080/961meh/205519167/119406
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE N HD" tvg-logo="https://asiagrandiptv.us/logo//MOVISTAR CINE.png" group-title="Espanha",ES: M+ CINE N HD
+http://chiclets.pm:8080/961meh/205519167/119405
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX HD" tvg-logo="http://iptv-tn.com:8080/images/6d7249f5fa1db52d44b5e12be6de83b4.png" group-title="Espanha",ES: FOX HD
+http://chiclets.pm:8080/961meh/205519167/119404
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE HD" tvg-logo="http://belgium-tv.dyndns.tv:8888/images/U3CN4WQLydR53xNUwDHqTs1Q8Rm2BiXlYtxqQ2rXT1FIiK5wE6vsl1ynmjE3Y2lS.png" group-title="Espanha",ES: FOX LIFE HD
+http://chiclets.pm:8080/961meh/205519167/119403
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="https://asiagrandiptv.us/logo//amc.png" group-title="Espanha",ES: AMC HD
+http://chiclets.pm:8080/961meh/205519167/119402
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGQdpc1Y9bgAmUWMmZgWexXRKRLZMpUTngG7WmYyhGXL3vvZ66Fc7uflBmashSoG-eQQ9Ma8XorUgQUHPPkjmLBDxXYiS4Y5AAe7u7SJIfvBo-evWCcf5giAOTVmoTX2eg.png" group-title="Espanha",ES: AXN HD
+http://chiclets.pm:8080/961meh/205519167/119401
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN MOVIES HD" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LqJa-X3gKbjk7CJaoe-7oWZ9Y7SFpOa9yLukN1CAMi7c.png" group-title="Espanha",ES: AXN MOVIES HD
+http://chiclets.pm:8080/961meh/205519167/119400
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="http://iptv-tn.com:8080/images/74754291f53bede39679383db0822813.png" group-title="Espanha",ES: SYFY HD
+http://chiclets.pm:8080/961meh/205519167/119399
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 HD" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGQdpc1Y9bgAmUWMmZgWexXHvxYJdwltvPP9zcwdErMpQICgUOoPWFu5OIH7VlLwQNoY_D6atlS1OOJK7ZVnWQUMYuY0RfxTO6XA_g3-nFQAzKwATC2ZHiDTqVQv0SyJ30.png" group-title="Espanha",ES: CALLE 13 HD
+http://chiclets.pm:8080/961meh/205519167/119398
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LrZPBrkTVV1_2oU7o8HNOmw49ya_XIYFaOF3X-b05_BoHul6nbhuia-UyKr1NUjYYA.png" group-title="Espanha",ES: PARAMOUNT CHANNEL
+http://chiclets.pm:8080/961meh/205519167/119397
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Sagas HD" tvg-logo="" group-title="Espanha",ES: M+ Sagas HD
+http://chiclets.pm:8080/961meh/205519167/119396
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ La Resistencia HD" tvg-logo="https://asiagrandiptv.us/logo//laRESISTencia.png" group-title="Espanha",ES: M+ La Resistencia HD
+http://chiclets.pm:8080/961meh/205519167/119395
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="http://iptv-tn.com:8080/images/a51d13bc1e3b18dbdc5aba51eecec003.png" group-title="Espanha",ES: COMEDY CENTRAL HD
+http://chiclets.pm:8080/961meh/205519167/119394
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LlOW7yWx8A7ScvsuNJEnhy8Id8zszYIc7t4RUyRNwKat.png" group-title="Espanha",ES: FDF
+http://chiclets.pm:8080/961meh/205519167/119393
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ SERIES HD" tvg-logo="https://asiagrandiptv.us/logo//MOVISTAR SERIES.png" group-title="Espanha",ES: MOVISTAR+ SERIES HD
+http://chiclets.pm:8080/961meh/205519167/119392
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+ SERIESMANIA HD" tvg-logo="" group-title="Espanha",ES: MOVISTAR+ SERIESMANIA HD
+http://chiclets.pm:8080/961meh/205519167/119391
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM HD" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LhHR5aSX9yOgYb9DR0Y3nKby8zRItFAuxR7anjOJQnQn.png" group-title="Espanha",ES: XTRM HD
+http://chiclets.pm:8080/961meh/205519167/119390
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGQdpc1Y9bgAmUWMmZgWexXHvxYJdwltvPP9zcwdErMpY4ZWAuMoPo6njAjBr0qIW4ANZz7tG3qwpL9CVmNAbdRGNefhDCC8PiS8ktF6jVbbAFYFGs76Y1Rg2_-q3TrQ5w.png" group-title="Espanha",ES: SOMOS
+http://chiclets.pm:8080/961meh/205519167/119389
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DARK" tvg-logo="https://localrestream.xyz:443/images/GXLyrWkmxabVKDQyKkUhLmJsi7bz1jUlvqsSL3D5ARcF0_6QwtpQC_tuuWckbzlr5YR4HfR6e_gm7LtWcmYKVtwBPDxxaJ4Q3WyczjiJk6DJHcXf-bw7KrXglwfl6TnuPLhgkwTFiKue7RTxiLZLe7GWsR_1hGOAIX3s3xV0IuM.png" group-title="Espanha",ES: CANAL DARK
+http://chiclets.pm:8080/961meh/205519167/119388
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE MAD TV HD" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGQdpc1Y9bgAmUWMmZgWexXHvxYJdwltvPP9zcwdErMpV61LWhKsMXeQ6QptgkxJlKOAu34eW5geLfDsbTp5-5C1SHefJp5UhdWSXWdow_2f_BhRFbjuB8Av0aRIi8vqqY.png" group-title="Espanha",ES: BE MAD TV HD
+http://chiclets.pm:8080/961meh/205519167/119387
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO" tvg-logo="http://iptv-tn.com:8080/images/11c10935b0d649a24ec027f6399e8816.png" group-title="Espanha",ES: COSMO
+http://chiclets.pm:8080/961meh/205519167/119386
+#EXTINF:-1 tvg-id="" tvg-name="ES: ---- ESPANA DOCU ----" tvg-logo="" group-title="Espanha",ES: ---- ESPANA DOCU ----
+http://chiclets.pm:8080/961meh/205519167/119385
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGQdpc1Y9bgAmUWMmZgWexXHvxYJdwltvPP9zcwdErMpbrCO2Y-xT7QWAMZqQWW_PuqrIpVdRK9clkcPvmIsdMRUMeDw9oCdhb4wXmTgi-eOQ.png" group-title="Espanha",ES: ODISEA
+http://chiclets.pm:8080/961meh/205519167/119384
+#EXTINF:-1 tvg-id="" tvg-name="ES: National Geographic" tvg-logo="http://belgium-tv.dyndns.tv:8888/images/U3CN4WQLydR53xNUwDHqTp9qdu9rmvl7qg0jj9xSt0Cv278dN1EOrDs06eVBoZEGJs3G_AQ4_sMAd29hNSDq6w.png" group-title="Espanha",ES: National Geographic
+http://chiclets.pm:8080/961meh/205519167/119383
+#EXTINF:-1 tvg-id="" tvg-name="ES: National Geographic HD" tvg-logo="https://asiagrandiptv.us/logo//natgeo.png" group-title="Espanha",ES: National Geographic HD
+http://chiclets.pm:8080/961meh/205519167/119382
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild" tvg-logo="https://asiagrandiptv.us/logo//natgeowildasia.png" group-title="Espanha",ES: Nat Geo Wild
+http://chiclets.pm:8080/961meh/205519167/119381
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild HD" tvg-logo="https://asiagrandiptv.us/logo//natgeowildasia.png" group-title="Espanha",ES: Nat Geo Wild HD
+http://chiclets.pm:8080/961meh/205519167/119380
+#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel" tvg-logo="http://starsat123.com:8080/images/d237273399bbecef31b2886567128c88.png" group-title="Espanha",ES: Discovery Channel
+http://chiclets.pm:8080/961meh/205519167/119379
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC CRIME HD" tvg-logo="https://localrestream.xyz:443/images/GXLyrWkmxabVKDQyKkUhLmJsi7bz1jUlvqsSL3D5ARcF0_6QwtpQC_tuuWckbzlr5YR4HfR6e_gm7LtWcmYKVtwBPDxxaJ4Q3WyczjiJk6BDEPqxUe7oOSEEVWYeZN_xSTLhj_ReQaTAwxanekCskvvVx_Qn6zb2V10L19taCng.png" group-title="Espanha",ES: AMC CRIME HD
+http://chiclets.pm:8080/961meh/205519167/119378
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LiSwEnfYELqvAKp80szOECRAv6whL18bKx-J8O80gNgR.png" group-title="Espanha",ES: DMAX
+http://chiclets.pm:8080/961meh/205519167/119377
+#EXTINF:-1 tvg-id="" tvg-name="ES: Historia HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Espanha",ES: Historia HD
+http://chiclets.pm:8080/961meh/205519167/119376
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Decasa HD" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LrbuAcdDz42oWlprw7-kaQF7Wqs6D2QIg2W4T4tGROxU.png" group-title="Espanha",ES: Canal Decasa HD
+http://chiclets.pm:8080/961meh/205519167/119375
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca HD" tvg-logo="https://localrestream.xyz:443/images/GXLyrWkmxabVKDQyKkUhLmJsi7bz1jUlvqsSL3D5ARcF0_6QwtpQC_tuuWckbzlr5YR4HfR6e_gm7LtWcmYKVkqu9oklfARUSCEavO9U5I8q6l43lgMpsNuoeT6KQXTiFU9uGuXws2K9uQwAcZyGtHp2hJhgFQ7RAmslyAu3GT0.png" group-title="Espanha",ES: Caza y Pesca HD
+http://chiclets.pm:8080/961meh/205519167/119374
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV" tvg-logo="https://localrestream.xyz:443/images/GXLyrWkmxabVKDQyKkUhLmJsi7bz1jUlvqsSL3D5ARcF0_6QwtpQC_tuuWckbzlr5YR4HfR6e_gm7LtWcmYKVtwBPDxxaJ4Q3WyczjiJk6CWwcw-HTiXS50H6haLFvvUoqNzHeDxQgShl7fGVJ9KEpUyFTtNaZ88hcf5u3T67Gs.png" group-title="Espanha",ES: IBERALIA TV
+http://chiclets.pm:8080/961meh/205519167/119373
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/toros_tv.jpg" group-title="Espanha",ES: TOROS TV
+http://chiclets.pm:8080/961meh/205519167/119372
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nautical Channel HD" tvg-logo="" group-title="Espanha",ES: Nautical Channel HD
+http://chiclets.pm:8080/961meh/205519167/119371
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA HD" tvg-logo="http://iptv-tn.com:8080/images/abb3c9a326c5b16f6010765f90673544.png" group-title="Espanha",ES: MEGA HD
+http://chiclets.pm:8080/961meh/205519167/119370
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK HD" tvg-logo="https://asiagrandiptv.us/logo//blaze.png" group-title="Espanha",ES: AMC BREAK HD
+http://chiclets.pm:8080/961meh/205519167/119369
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGQdpc1Y9bgAmUWMmZgWexXHvxYJdwltvPP9zcwdErMpetSDawuK-BSb4mYS87INbAIS0lhK5fjbUBoGos0J0vogmxQOOFSC2_EL9R2ACd85RNI6tP2Zj4tguJYzeMepoE.png" group-title="Espanha",ES: DKISS
+http://chiclets.pm:8080/961meh/205519167/119368
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LrbuAcdDz42oWlprw7-kaQGrTdmqY89lUMiFakWXdUpW.png" group-title="Espanha",ES: CANAL COCINA
+http://chiclets.pm:8080/961meh/205519167/119367
+#EXTINF:-1 tvg-id="" tvg-name="ES: ---- ESPANA KIDS ----" tvg-logo="" group-title="Espanha",ES: ---- ESPANA KIDS ----
+http://chiclets.pm:8080/961meh/205519167/119366
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Channel HD" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LnCfaDy0SfkkDxyVQN7QohLI2x7s-OArxSqy-eC_zdyj.png" group-title="Espanha",ES: Disney Channel HD
+http://chiclets.pm:8080/961meh/205519167/119365
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Junior HD" tvg-logo="https://asiagrandiptv.us/logo//disneyjr.png" group-title="Espanha",ES: Disney Junior HD
+http://chiclets.pm:8080/961meh/205519167/119364
+#EXTINF:-1 tvg-id="" tvg-name="ES: Clan TVE HD" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8LtdoxejVItIMrPjbZ1bQtgmLMjE1wG7cVJfzvhNIqo8-.png" group-title="Espanha",ES: Clan TVE HD
+http://chiclets.pm:8080/961meh/205519167/119363
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/320px-Nickelodeon_2009_logo.svg.png" group-title="Espanha",ES: Nickelodeon
+http://chiclets.pm:8080/961meh/205519167/119362
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/667px-Nickelodeon_2009_logo.svg.png" group-title="Espanha",ES: Nickelodeon HD
+http://chiclets.pm:8080/961meh/205519167/119361
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nick Junior HD" tvg-logo="http://starsat123.com:8080/images/678092020232e6fb137f6fe7e320300d.png" group-title="Espanha",ES: Nick Junior HD
+http://chiclets.pm:8080/961meh/205519167/119360
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Panda HD" tvg-logo="https://asiagrandiptv.us/logo//canalpanda.png" group-title="Espanha",ES: Canal Panda HD
+http://chiclets.pm:8080/961meh/205519167/119359
+#EXTINF:-1 tvg-id="" tvg-name="ES: Baby TV" tvg-logo="https://asiagrandiptv.us/logo//babytv.png" group-title="Espanha",ES: Baby TV
+http://chiclets.pm:8080/961meh/205519167/119358
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING" tvg-logo="https://localrestream.xyz:443/images/z4euR39V2z0jRCMus5ePqLTUW_plAj6JUDrdclzLAYGQdpc1Y9bgAmUWMmZgWexXn8G3chLgSwJHjzu08jZ3PkWBqxJflIiB90Kcvwg9DY8JIA9AoaRLZTZGu7Vnmy9YUlQbUW-g4wXhLk7xyRY-3_diobIadyJr0ee720r9HKA.png" group-title="Espanha",ES: BOING
+http://chiclets.pm:8080/961meh/205519167/119357
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV BASE" tvg-logo="" group-title="Espanha",ES: MTV BASE
+http://chiclets.pm:8080/961meh/205519167/119356
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV CLASSIC" tvg-logo="" group-title="Espanha",ES: MTV CLASSIC
+http://chiclets.pm:8080/961meh/205519167/119355
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV DANCE FHD" tvg-logo="" group-title="Espanha",ES: MTV DANCE FHD
+http://chiclets.pm:8080/961meh/205519167/119354
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ESPA" tvg-logo="" group-title="Espanha",ES: MTV ESPA
+http://chiclets.pm:8080/961meh/205519167/119353
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV EUROPE HD" tvg-logo="" group-title="Espanha",ES: MTV EUROPE HD
+http://chiclets.pm:8080/961meh/205519167/119352
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV HITS EUROPE" tvg-logo="" group-title="Espanha",ES: MTV HITS EUROPE
+http://chiclets.pm:8080/961meh/205519167/119351
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV HITS HD" tvg-logo="https://localrestream.xyz:443/images/t6s7xn0v30CDcGEVlgq8Ln8c_6ZfGh5doZrT8PB9HHg1uZrxvcCL3OmIN0nSvVwi.png" group-title="Espanha",ES: MTV HITS HD
+http://chiclets.pm:8080/961meh/205519167/119350
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV LIVE FHD" tvg-logo="" group-title="Espanha",ES: MTV LIVE FHD
+http://chiclets.pm:8080/961meh/205519167/119349
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV MUSIC 24" tvg-logo="" group-title="Espanha",ES: MTV MUSIC 24
+http://chiclets.pm:8080/961meh/205519167/119348
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ROCKS HD" tvg-logo="" group-title="Espanha",ES: MTV ROCKS HD
+http://chiclets.pm:8080/961meh/205519167/119347
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOL MUSICA" tvg-logo="" group-title="Espanha",ES: SOL MUSICA
+http://chiclets.pm:8080/961meh/205519167/119346
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE HD" tvg-logo="https://localrestream.xyz:443/images/GXLyrWkmxabVKDQyKkUhLmJsi7bz1jUlvqsSL3D5ARcF0_6QwtpQC_tuuWckbzlr5YR4HfR6e_gm7LtWcmYKVtwBPDxxaJ4Q3WyczjiJk6AO8rMZocnHF0A_2uUrnF1nAnzsC7SUDe9tE8dKUjovhlrYES8VKi4-zpe-K-4bKLo.png" group-title="Espanha",ES: SUNDANCE HD
+http://chiclets.pm:8080/961meh/205519167/119345
