@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz,https://www.bevy.be/bevyfiles/portugal.xml.gz,https://www.bevy.be/bevyfiles/portugalpremium.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL", *** 961meh1 ***
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-08-16 20:27:00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-08-16 20:27:00*
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-08-16 20:29:23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL", *2024-08-16 20:29:23*
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1 LOW" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/RTP1.png" group-title="PORTUGAL",RTP 1 LOW 
 http://chiclets.pm:8080/961meh/205519167/128109
